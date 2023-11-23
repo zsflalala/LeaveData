@@ -1,0 +1,1387 @@
+{
+  "电机": {
+    "2相开环步进电机": {
+      "产品名称": "2相开环步进电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/kh_2.jpg",
+      "产品介绍": "步进电机又称为脉冲电动机或阶跃电动机，它根据输入的脉冲信号，每改变一次励磁状态就前进一定的角度，励磁状态不变时贝保持一定位置静止[1]。由此步进电机可以将输入的脉冲信号转化为对应的角位移进行输出。通过控制输入脉冲的数量可以准确确定输出的角位移以实现定位的功能:而通过控制输入脉冲的频率可以准确控制输出的角速度而达调速的目的。因此在需要准确定位或调速控制时均可考虑使用步进电机。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_11.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_12.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_13.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_14.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_15.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_16.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_17.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_18.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_19.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_20.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_21.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_22.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_23.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_24.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_25.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_26.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_27.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "3相开环步进电机": {
+      "产品名称": "3相开环步进电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/kh_3.jpg",
+      "产品介绍": "步进电机又称为脉冲电动机或阶跃电动机，它根据输入的脉冲信号，每改变一次励磁状态就前进一定的角度，励磁状态不变时贝保持一定位置静止[1]。由此步进电机可以将输入的脉冲信号转化为对应的角位移进行输出。通过控制输入脉冲的数量可以准确确定输出的角位移以实现定位的功能:而通过控制输入脉冲的频率可以准确控制输出的角速度而达调速的目的。因此在需要准确定位或调速控制时均可考虑使用步进电机。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_21.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_22.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "2相开环步进电机(带刹车型)": {
+      "产品名称": "2相开环步进电机(带刹车型)",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/kh_2_sha.jpg",
+      "产品介绍": "步进电机又称为脉冲电动机或阶跃电动机，它根据输入的脉冲信号，每改变一次励磁状态就前进一定的角度，励磁状态不变时贝保持一定位置静止[1]。由此步进电机可以将输入的脉冲信号转化为对应的角位移进行输出。通过控制输入脉冲的数量可以准确确定输出的角位移以实现定位的功能:而通过控制输入脉冲的频率可以准确控制输出的角速度而达调速的目的。因此在需要准确定位或调速控制时均可考虑使用步进电机。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_23.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_24.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_25.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_26.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "2相开环步进电机(IP65防水型)": {
+      "产品名称": "2相开环步进电机(IP65防水型)",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/kh_2_fang.jpg",
+      "产品介绍": "步进电机又称为脉冲电动机或阶跃电动机，它根据输入的脉冲信号，每改变一次励磁状态就前进一定的角度，励磁状态不变时贝保持一定位置静止[1]。由此步进电机可以将输入的脉冲信号转化为对应的角位移进行输出。通过控制输入脉冲的数量可以准确确定输出的角位移以实现定位的功能:而通过控制输入脉冲的频率可以准确控制输出的角速度而达调速的目的。因此在需要准确定位或调速控制时均可考虑使用步进电机。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_27.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_28.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_29.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "2相开环步进电机（中空型）": {
+      "产品名称": "2相开环步进电机（中空型）",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/kh_2_zhong.jpg",
+      "产品介绍": "步进电机又称为脉冲电动机或阶跃电动机，它根据输入的脉冲信号，每改变一次励磁状态就前进一定的角度，励磁状态不变时贝保持一定位置静止[1]。由此步进电机可以将输入的脉冲信号转化为对应的角位移进行输出。通过控制输入脉冲的数量可以准确确定输出的角位移以实现定位的功能:而通过控制输入脉冲的频率可以准确控制输出的角速度而达调速的目的。因此在需要准确定位或调速控制时均可考虑使用步进电机。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_30.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_31.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "2相开环步进电机配齿轮箱": {
+      "产品名称": "2相开环步进电机配齿轮箱",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/kh_2_chi.jpg",
+      "产品介绍": "步进电机又称为脉冲电动机或阶跃电动机，它根据输入的脉冲信号，每改变一次励磁状态就前进一定的角度，励磁状态不变时贝保持一定位置静止[1]。由此步进电机可以将输入的脉冲信号转化为对应的角位移进行输出。通过控制输入脉冲的数量可以准确确定输出的角位移以实现定位的功能:而通过控制输入脉冲的频率可以准确控制输出的角速度而达调速的目的。因此在需要准确定位或调速控制时均可考虑使用步进电机。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_30.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "2相开环步进电机配行星减速器": {
+      "产品名称": "2相开环步进电机配行星减速器",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/kh_2_xing.jpg",
+      "产品介绍": "步进电机又称为脉冲电动机或阶跃电动机，它根据输入的脉冲信号，每改变一次励磁状态就前进一定的角度，励磁状态不变时贝保持一定位置静止[1]。由此步进电机可以将输入的脉冲信号转化为对应的角位移进行输出。通过控制输入脉冲的数量可以准确确定输出的角位移以实现定位的功能:而通过控制输入脉冲的频率可以准确控制输出的角速度而达调速的目的。因此在需要准确定位或调速控制时均可考虑使用步进电机。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_33.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_34.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "2相步进电机配T型丝杠和滚珠丝杠": {
+      "产品名称": "2相步进电机配T型丝杠和滚珠丝杠",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/kh_2_T.jpg",
+      "产品介绍": "步进电机又称为脉冲电动机或阶跃电动机，它根据输入的脉冲信号，每改变一次励磁状态就前进一定的角度，励磁状态不变时贝保持一定位置静止[1]。由此步进电机可以将输入的脉冲信号转化为对应的角位移进行输出。通过控制输入脉冲的数量可以准确确定输出的角位移以实现定位的功能:而通过控制输入脉冲的频率可以准确控制输出的角速度而达调速的目的。因此在需要准确定位或调速控制时均可考虑使用步进电机。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_35.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_36.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_37.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_38.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_39.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_40.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_41.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_42.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_43.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_44.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_45.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_46.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_47.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_48.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "2相闭环步进电机(带编码器)标准型": {
+      "产品名称": "2相闭环步进电机(带编码器)标准型",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/bh_2.jpg",
+      "产品介绍": "步进电机又称为脉冲电动机或阶跃电动机，它根据输入的脉冲信号，每改变一次励磁状态就前进一定的角度，励磁状态不变时贝保持一定位置静止[1]。由此步进电机可以将输入的脉冲信号转化为对应的角位移进行输出。通过控制输入脉冲的数量可以准确确定输出的角位移以实现定位的功能:而通过控制输入脉冲的频率可以准确控制输出的角速度而达调速的目的。因此在需要准确定位或调速控制时均可考虑使用步进电机。20世纪60年代后期，各种实用性步进电机应运而生，近40年的发展很快。步进电机已经能与直流电机、异步电机，以及同步电机并列，成为电动机的一种基本类型。我国自80年代中期以来，对步进电机的精确模型做了大量研究工作，各种混合式步进电机及驱动器已经在各行业得到广泛应用。步进电机有反应式(VR型)、永磁式(PM型)、混合式(HB型)三种类型。混合式步进电机综合了前两种形式步进电机的优点，目前国内的装备制造业中所用步进电机基本都是混合式步进电机。所以以下介绍的步进电机均指“混合式步进电机”",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_49.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_50.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_51.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_52.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_53.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_54.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_55.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "2相闭环步进电机(带编码器)带刹车型": {
+      "产品名称": "2相闭环步进电机(带编码器)带刹车型",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/bh_2_sha.jpg",
+      "产品介绍": "步进电机又称为脉冲电动机或阶跃电动机，它根据输入的脉冲信号，每改变一次励磁状态就前进一定的角度，励磁状态不变时贝保持一定位置静止[1]。由此步进电机可以将输入的脉冲信号转化为对应的角位移进行输出。通过控制输入脉冲的数量可以准确确定输出的角位移以实现定位的功能:而通过控制输入脉冲的频率可以准确控制输出的角速度而达调速的目的。因此在需要准确定位或调速控制时均可考虑使用步进电机。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_56.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_57.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_58.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_59.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "2相闭环步进电机(带编码器)IP65防水型": {
+      "产品名称": "2相闭环步进电机(带编码器)IP65防水型",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/bh_2_fang.jpg",
+      "产品介绍": "步进电机又称为脉冲电动机或阶跃电动机，它根据输入的脉冲信号，每改变一次励磁状态就前进一定的角度，励磁状态不变时贝保持一定位置静止[1]。由此步进电机可以将输入的脉冲信号转化为对应的角位移进行输出。通过控制输入脉冲的数量可以准确确定输出的角位移以实现定位的功能:而通过控制输入脉冲的频率可以准确控制输出的角速度而达调速的目的。因此在需要准确定位或调速控制时均可考虑使用步进电机。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_60.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_61.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_62.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "2相闭环步进电机(带编码器)配行星减速器": {
+      "产品名称": "2相闭环步进电机(带编码器)配行星减速器",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/bh_2_xing.jpg",
+      "产品介绍": "步进电机又称为脉冲电动机或阶跃电动机，它根据输入的脉冲信号，每改变一次励磁状态就前进一定的角度，励磁状态不变时贝保持一定位置静止[1]。由此步进电机可以将输入的脉冲信号转化为对应的角位移进行输出。通过控制输入脉冲的数量可以准确确定输出的角位移以实现定位的功能:而通过控制输入脉冲的频率可以准确控制输出的角速度而达调速的目的。因此在需要准确定位或调速控制时均可考虑使用步进电机。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_63.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_64.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "2相闭环步进电机(带编码器)配齿轮箱": {
+      "产品名称": "2相闭环步进电机(带编码器)配齿轮箱",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/bh_2_chi.jpg",
+      "产品介绍": "步进电机又称为脉冲电动机或阶跃电动机，它根据输入的脉冲信号，每改变一次励磁状态就前进一定的角度，励磁状态不变时贝保持一定位置静止[1]。由此步进电机可以将输入的脉冲信号转化为对应的角位移进行输出。通过控制输入脉冲的数量可以准确确定输出的角位移以实现定位的功能:而通过控制输入脉冲的频率可以准确控制输出的角速度而达调速的目的。因此在需要准确定位或调速控制时均可考虑使用步进电机。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_64.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "开环电机匹配步进驱动器": {
+      "产品名称": "开环电机匹配步进驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/qd_kh.jpg",
+      "产品介绍": "●驱动器匹配尺寸20、28、35、42mm，扭矩为0.25-0.7牛米的二相步进电机●输入信号电压5V,若24V信号需要串联电阻●集成式设计方案，稳定性更高●集成式设计方案，稳定性更高●性价比高，尺寸小，安装更方便●9-42v款电压范围输入●高精度电流控制,降低电机振动和温升",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_66.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_67.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_68.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_69.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_70.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_71.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_72.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "闭环步进电机(带编码器)匹配步进驱动器": {
+      "产品名称": "闭环步进电机(带编码器)匹配步进驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/qd_bh.jpg",
+      "产品介绍": "●驱动器匹配尺寸20、28、35、42mm，扭矩为0.25-0.7牛米的二相步进电机●输入信号电压5V,若24V信号需要串联电阻●集成式设计方案，稳定性更高●集成式设计方案，稳定性更高●性价比高，尺寸小，安装更方便●9-42v款电压范围输入●高精度电流控制,降低电机振动和温升",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_73.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_74.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_75.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_76.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "RS-485总线步进电机驱动器": {
+      "产品名称": "RS-485总线步进电机驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/qd_RS.jpg",
+      "产品介绍": "●驱动器匹配尺寸20、28、35、42mm，扭矩为0.25-0.7牛米的二相步进电机●输入信号电压5V,若24V信号需要串联电阻●集成式设计方案，稳定性更高●集成式设计方案，稳定性更高●性价比高，尺寸小，安装更方便●9-42v款电压范围输入●高精度电流控制,降低电机振动和温升",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_77.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_78.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_79.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_80.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_81.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_82.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_83.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_84.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_85.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_86.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "KO42步进电机和驱动器一体式机型": {
+      "产品名称": "KO42步进电机和驱动器一体式机型",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/qd_KO.jpg",
+      "产品介绍": "●驱动器匹配尺寸20、28、35、42mm，扭矩为0.25-0.7牛米的二相步进电机●输入信号电压5V,若24V信号需要串联电阻●集成式设计方案，稳定性更高●集成式设计方案，稳定性更高●性价比高，尺寸小，安装更方便●9-42v款电压范围输入●高精度电流控制,降低电机振动和温升",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_87.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_88.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "交流伺服电机(升级款)": {
+      "产品名称": "交流伺服电机(升级款)",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/sf_s.jpg",
+      "产品介绍": "伺服驱动器在位置控制模式下接收多轴运动控制器发出的位置信号，进行直线、曲线插补，高速响应特性保证了加工的精度。在加工过程中，根据负载情况或传动机构变化前后，分别采用不同的PI增益数值进行控制(通过上位机通讯或手动输入的方式，对驱动器内部功能码预设两组PI增益数值)，以确保在不同的工况下系统能够持续保持稳定可靠。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_99.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_100.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_101.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_102.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_103.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_104.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "X系列经济型伺服电机驱动器": {
+      "产品名称": "X系列经济型伺服电机驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/sf_X.jpg",
+      "产品介绍": "伺服驱动器在位置控制模式下接收多轴运动控制器发出的位置信号，进行直线、曲线插补，高速响应特性保证了加工的精度。在加工过程中，根据负载情况或传动机构变化前后，分别采用不同的PI增益数值进行控制(通过上位机通讯或手动输入的方式，对驱动器内部功能码预设两组PI增益数值)，以确保在不同的工况下系统能够持续保持稳定可靠。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_106.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_108.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_109.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "X2系列通用型伺服电机驱动器": {
+      "产品名称": "X2系列通用型伺服电机驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/sf_X2.jpg",
+      "产品介绍": "伺服驱动器在位置控制模式下接收多轴运动控制器发出的位置信号，进行直线、曲线插补，高速响应特性保证了加工的精度。在加工过程中，根据负载情况或传动机构变化前后，分别采用不同的PI增益数值进行控制(通过上位机通讯或手动输入的方式，对驱动器内部功能码预设两组PI增益数值)，以确保在不同的工况下系统能够持续保持稳定可靠。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_111.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_113.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_114.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_115.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_116.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "X2D双轴伺服电机驱动器": {
+      "产品名称": "X2D双轴伺服电机驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/sf_X2D.jpg",
+      "产品介绍": "●采用共母线技术的双伺服一体机系列。●控制方式:位置控制,速度控制，力矩控制，位置速度、位置力矩、速度力矩;●内部定长控制，Modbus运动控制;●适配反馈单元:增量式编码器，省线式编码器，17位/23位绝对值编码器;●编码器任意分频输出;●两通道模拟量输入，表示速度控制以及力矩控制;●两通道模拟量输出，能表示速度、电流、转矩等信息;●优化的制动单元，适合频繁启停的场合;●操作简单，5个按键及6个数码管，显示双轴数据●适配功率:双0.05~1.5kw ;",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_118.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_119.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "X2E通用型经济款伺服电机驱动器": {
+      "产品名称": "X2E通用型经济款伺服电机驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/sf_X2E.jpg",
+      "产品介绍": "●控制方式:位置控制,速度控制，力矩控制，位置速度、位置力矩、速度力矩，内部●定长控制，Modbus运动控制●适配反馈单元:17位/23位绝对值编码器;●两通道模拟量输入，表示速度控制以及力矩控制;●两通道模拟量输出，能表示速度、电流、转矩等信息;●优化的制动单元，适合频繁启停的场合●操作简单，4个按键及5个数码管显示●适配功率:0.05 ~1.0KW",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_121.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_122.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "XH高性能总线型伺服电机驱动器": {
+      "产品名称": "XH高性能总线型伺服电机驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/sf_XH.jpg",
+      "产品介绍": "●控制方式:位置控制,速度控制，力矩控制，位置速度、位置力矩、速度力矩，内部●定长控制，Modbus运动控制●适配反馈单元:17位/23位绝对值编码器;●两通道模拟量输入，表示速度控制以及力矩控制;●两通道模拟量输出，能表示速度、电流、转矩等信息;●优化的制动单元，适合频繁启停的场合●操作简单，4个按键及5个数码管显示●适配功率:0.05 ~1.0KW",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_124.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "标准型直流伺服电机": {
+      "产品名称": "标准型直流伺服电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/zl_bz.jpg",
+      "产品介绍": "FH工控标准型直流伺服电机，功率段50~1500W,兼容交流伺服电机的安装尺寸，编码器线数1250和2500可选。该伺服运行平稳，低速性能突出，1RPM仍能平稳运行，额定电压下最高转速可达3800RPM,高于绝大多数国产伺服。该伺服采用低压直流24~72VDC供电，能够很好地适应国内用电环境良莠不齐的状况，避免电压大幅波动或跌落对伺服驱动电路的冲击，有利于提升设备寿命，更加贴近国际低压使用标准，安全性更高。该伺服技术成熟，装调简单，稳定可靠，性价比超高，是众多自动化厂商伺服部分降成本的最佳选择。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_127.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_128.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_129.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_130.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_131.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_132.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "经济型直流伺服电机": {
+      "产品名称": "经济型直流伺服电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/zl_jj.jpg",
+      "产品介绍": "FH工控经济型直流伺服电机，功率段30W~180W，编码器线数1000。该伺服经济实惠，低速1RPM可以平稳运行，默认转速3000RPM，可定制最高转速1000ORPM以上。该伺服能够较好地克服直流无刷低速无力的状况，任何速度均恒力矩输出，相较于标准型直流伺服电机，性能接近但价格更实惠。该伺服技术成熟，装调简单，稳定可靠，性价比高，完全可以满足很多使用伺服但要求相对较低的场合，用接近步进的价格享受伺服的性能，可为众多自动化厂商节省伺服部分不该投入的成本。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_134.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "标准型一体式内置驱动器直流伺服电机": {
+      "产品名称": "标准型一体式内置驱动器直流伺服电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/zl_by.jpg",
+      "产品介绍": "FH工控标准型一体化伺服将伺服驱动器内置于低压直流伺服电机内部，并很好地解决了电磁干扰和发热的问题，能够节省安装空间，免除繁琐接线，只需供电和连接控制信号即可工作，使得安装和维护都变得异常简单。该伺服功率段100~400W，兼容日本松下等电机安装尺寸，编码器线数1250和2500可选，低速性能接近于日系伺服，1RPM仍能平稳运行，额定转速300ORPM。该伺服采用低压直流24~48V供电，能够很好地适应国内用电环境良莠不齐的状况，避免电压大幅波动或跌落对伺服驱动电路的冲击，有利于提升设备寿命，更加贴近国际低压使用标准，安全性更高。该伺服技术成熟，装调简单，稳定可靠，性价比高，特别适用于安装空间小和电机分布式控制的场合。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_136.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "经济型一体式内置驱动器直流伺服电机": {
+      "产品名称": "经济型一体式内置驱动器直流伺服电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/zl_jy.jpg",
+      "产品介绍": "FH工控经济型一体化伺服将伺服驱动器和直流无刷伺服电机一体化，并很好地解决了电磁干扰和发热的问题，能够节省安装空间，免除繁琐接线，只需供电和连接控制信号即可工作，使得安装和维护都变得异常简单，特别适用于安装空间小和电机分布式控制的场合。该伺服工作电压24~36VDC，功率段30~180W，编码器线数1000或2500，低速1RPM可以平稳运行，默认转速 300ORPM。该伺服能够较好地克服直流无刷低速没力的状况，任何速度均恒力矩输出，最高可达两倍过载，相较于标准型分体式伺服，性能接近但价格更实惠。该伺服技术成熟，装调简单，稳定可靠，性价比高，完全可以满足很多使用伺服但要求相对较低的场合，用接近步进的价格享受伺服的性能，可为众多自动化厂商节省不该投入的成本。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_138.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "低压直流伺服驱动器": {
+      "产品名称": "低压直流伺服驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/zl_qd_dy.jpg",
+      "产品介绍": "低压直流伺服驱动器采用高性能处理器研发，为用户提供一种高性价比伺服控制解决方案，在确保稳定可靠的前提下，追求最贴近应用的功能和性能。相较于步进产品，噪声低、发热小、转速高、恒力矩输出、不丢步﹔相较于步进伺服产品，完全摒弃了步进产品的先天劣势，功能、性能和可靠性均更优;相较于国外知名伺服，性能接近、价格低廉、易于使用。ABC306外形小巧，功能强大，特别适用于高性能运动要求和安装空间狭小的应用场合，并可根据需求进行功能定制，是一款高性价比伺服驱动方案。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_139.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_140.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_141.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_142.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_143.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_144.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_145.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_146.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "直流无刷电机": {
+      "产品名称": "直流无刷电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/zlws_dj.jpg",
+      "产品介绍": "速度环、电流环双环驱动多种调速模式选择低温升、低发热、低噪音产品方案定制化服务",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_153.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_154.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_155.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_156.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "低压直流无刷驱动器": {
+      "产品名称": "低压直流无刷驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/zlws_qd_dy.jpg",
+      "产品介绍": "可驱动小于70W无刷电机拥有刹车、正反转切换等功能拥有过温、过流、霍尔错误保护功能可使用内部电位器调速可使用外部电位器调速可使用外部模拟电压调速尺寸小巧，易于安装",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_157.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_158.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_159.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_160.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_161.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_162.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_163.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_164.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "高压直流无刷驱动器": {
+      "产品名称": "高压直流无刷驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/zlws_qd_gy.jpg",
+      "产品介绍": "可驱动小于70W无刷电机拥有刹车、正反转切换等功能拥有过温、过流、霍尔错误保护功能可使用内部电位器调速可使用外部电位器调速可使用外部模拟电压调速尺寸小巧，易于安装",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_165.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_167.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_168.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "DD马达": {
+      "产品名称": "DD马达",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/dd.jpg",
+      "产品介绍": "3F系列DD马达，有内转子和外转子两种结构类型来满足更多应用需求。直径从60mm-490mm.连续扭矩从1-1200N.m有十几个大小可选规格,绝对精度可达±10arc-sec，重复定位精度可达士0.5arc-sec。具有高精度、高刚性、低轴向径向跳动等优点，被广泛应用于半导体生产设备、光媒体、光学对位、定位检测、精密数控机床、汽车装配/检测、液晶制造设备、屏幕贴合设备、锂电池制造设备、高端丝印设备及医疗器械等微精密高端制造业领域。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_181.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_182.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_183.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_184.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_185.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_186.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_187.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_188.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_189.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_190.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_191.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_192.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_193.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_194.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_195.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_196.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_197.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_198.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_199.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_200.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_201.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_202.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_203.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_204.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "音圈电机": {
+      "产品名称": "音圈电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/dd_yq.jpg",
+      "产品介绍": "3F系列音圈电机采用无铁芯直接驱动技术，动定子之间无摩擦、无齿槽效应、负载轻、响应速度极高、可靠性优异。适用于高频率短行程运动系统它被广泛应用于医疗、半导体制造、小型精密替换测量仪、主动式减震系统及震动平台等应用领域。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_208.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_209.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_210.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "直线电机模组": {
+      "产品名称": "直线电机模组",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/dd_zxdjmz.jpg",
+      "产品介绍": "3F系列直线电机模组，包括无铁芯电机和有铁芯电机类型的模组，载台长度有130mm.135mm、190mm、250mm、310mm五种可选类型，分别对应5种推力和负载递增的5个范围。标准的模组提供200、300、400、500、600、800、1000、1200mm等可选有效行程。可以广泛应用于大多数的机械臂、光学对位、定位检测、激光加工、精密数控机床、精密装配、PCB钻机、电子半导体生产设备、液晶制造设备、医疗器械及3D打印设备等领域。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_215.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_216.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_217.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_218.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_219.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_220.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_221.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_222.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_223.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_224.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_225.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_226.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_227.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_228.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_229.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_230.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_231.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_232.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_233.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_234.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "KMC系列有铁芯电机": {
+      "产品名称": "KMC系列有铁芯电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/dd_KMC.jpg",
+      "产品介绍": "3F系列有铁芯直线电机提供了单位体积最大出力，采用了极佳的抗齿槽效应的解决方案，最大限度的降低齿槽效应，无需偏斜磁体。它们外形小巧，低吸力，适合替代很多无铁芯应用，电机产生的高推力使其成为加速和移动高质量一家加工过程中保持刚度的理想选择。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_236.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_237.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_238.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_239.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_240.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_241.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_242.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_243.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "KM系列无铁芯电机": {
+      "产品名称": "KM系列无铁芯电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/dd_KM.jpg",
+      "产品介绍": "3F系列无铁芯直线电机没有绕组插槽，线圈组件和磁路之间没有任何的引力，绝对的零齿槽效应。这些特点特别适用于需要轻负载高加速度、极低轴承摩擦力，以及超低速下恒速运动等需求的应用。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_245.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_246.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_247.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_248.jpg",
+        "http://tama-kawa.com/uploads/product/dj/dj_249.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "高精度直驱多动子环形流水线": {
+      "产品名称": "高精度直驱多动子环形流水线",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/dd_qd.jpg",
+      "产品介绍": "3F直驱多动子环形流水线，是以直线电机动子作为传送动力输出，替代自由流动式传送机、带式传送机的新—代搬运系统;它可以灵活自由地构建制造生产线，尤其适合现代先进制造业中，多品种小批量的生产应用。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_250.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "UVM对位平台": {
+      "产品名称": "UVM对位平台",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/dd_UVM.jpg",
+      "产品介绍": "3F系列UVW对位平台主要使用精密级导轨和滚珠丝杠，实现高速、高精度位置控制，广泛应用于各种工厂自动化、机械制造、电子、半导体、家电等相关行业的搬运、组装、印刷、贴合、检测等，对于稳定产品质量,提高劳动生产率等方面起着十分重要的作用。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_251.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "管线直线电机": {
+      "产品名称": "管线直线电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/dd_KMT.jpg",
+      "产品介绍": "KMT系列管状直线电机及模组是工业位移控制的一种理想解决方案。磨损小、噪音低、速度快、精度高，比传统滚珠丝杆有更好的性能和可靠性，比传统气缸有更好的控制灵活性。KMT系列管状直线电机及模组由高防护等级的动子和304不锈钢的定子组成，定子内是形成完整正弦气隙磁场的高性能稀土磁钢。能够产生4.5N~85N的额定推力,峰值推力可达255N，有效行程为5~1100mm。GMT系列管状直线电机及模组的专利设计使其在无需外接光栅、磁栅等传感器的情况下通过内置的位移传感器也能达到最高4um的重复定位精度。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_252.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "KMYB-130系列": {
+      "产品名称": "KMYB-130系列",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/KMYB130.jpg",
+      "产品介绍": "●搭载高精度编码器,满足高精度下速度和位置控制需求。●超低频启动转矩大,可1转/分钟满载启动;恒功率范围宽,最高可达额定转速的8倍。●过载能力强，可30min在150%额定功率下,或3min在300%额定功率下，可靠运行。●转子高精度动平衡调校,确保高速运行下,稳定可靠、低振动、低噪音。●耐电压冲击,寿命长，调速范围广，最高转速可达到24000rpm，整体内风道风冷结构,美观、紧凑。●优化电磁设计,确保低,电磁噪音，运行平稳、高效。●采用伺服专用漆包线,保障特殊温度和粉尘油污环境下可靠运行。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_171.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "KMYB-165系列": {
+      "产品名称": "KMYB-165系列",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/KMYB165.jpg",
+      "产品介绍": "●搭载高精度编码器,满足高精度下速度和位置控制需求。●超低频启动转矩大,可1转/分钟满载启动;恒功率范围宽,最高可达额定转速的8倍。●过载能力强，可30min在150%额定功率下,或3min在300%额定功率下，可靠运行。●转子高精度动平衡调校,确保高速运行下,稳定可靠、低振动、低噪音。●耐电压冲击,寿命长，调速范围广，最高转速可达到24000rpm，整体内风道风冷结构,美观、紧凑。●优化电磁设计,确保低,电磁噪音，运行平稳、高效。●采用伺服专用漆包线,保障特殊温度和粉尘油污环境下可靠运行。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_172.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "KMYB-180系列": {
+      "产品名称": "KMYB-180系列",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/KMYB180.jpg",
+      "产品介绍": "●搭载高精度编码器,满足高精度下速度和位置控制需求。●超低频启动转矩大,可1转/分钟满载启动;恒功率范围宽,最高可达额定转速的8倍。●过载能力强，可30min在150%额定功率下,或3min在300%额定功率下，可靠运行。●转子高精度动平衡调校,确保高速运行下,稳定可靠、低振动、低噪音。●耐电压冲击,寿命长，调速范围广，最高转速可达到24000rpm，整体内风道风冷结构,美观、紧凑。●优化电磁设计,确保低,电磁噪音，运行平稳、高效。●采用伺服专用漆包线,保障特殊温度和粉尘油污环境下可靠运行。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_173.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "KMYB-200系列": {
+      "产品名称": "KMYB-200系列",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/KMYB200.jpg",
+      "产品介绍": "●搭载高精度编码器,满足高精度下速度和位置控制需求。●超低频启动转矩大,可1转/分钟满载启动;恒功率范围宽,最高可达额定转速的8倍。●过载能力强，可30min在150%额定功率下,或3min在300%额定功率下，可靠运行。●转子高精度动平衡调校,确保高速运行下,稳定可靠、低振动、低噪音。●耐电压冲击,寿命长，调速范围广，最高转速可达到24000rpm，整体内风道风冷结构,美观、紧凑。●优化电磁设计,确保低,电磁噪音，运行平稳、高效。●采用伺服专用漆包线,保障特殊温度和粉尘油污环境下可靠运行。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_174.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "KMYB-265系列": {
+      "产品名称": "KMYB-265系列",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/KMYB265.jpg",
+      "产品介绍": "●搭载高精度编码器,满足高精度下速度和位置控制需求。●超低频启动转矩大,可1转/分钟满载启动;恒功率范围宽,最高可达额定转速的8倍。●过载能力强，可30min在150%额定功率下,或3min在300%额定功率下，可靠运行。●转子高精度动平衡调校,确保高速运行下,稳定可靠、低振动、低噪音。●耐电压冲击,寿命长，调速范围广，最高转速可达到24000rpm，整体内风道风冷结构,美观、紧凑。●优化电磁设计,确保低,电磁噪音，运行平稳、高效。●采用伺服专用漆包线,保障特殊温度和粉尘油污环境下可靠运行。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_175.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "KMYB-360系列": {
+      "产品名称": "KMYB-360系列",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/KMYB165.jpg",
+      "产品介绍": "●搭载高精度编码器,满足高精度下速度和位置控制需求。●超低频启动转矩大,可1转/分钟满载启动;恒功率范围宽,最高可达额定转速的8倍。●过载能力强，可30min在150%额定功率下,或3min在300%额定功率下，可靠运行。●转子高精度动平衡调校,确保高速运行下,稳定可靠、低振动、低噪音。●耐电压冲击,寿命长，调速范围广，最高转速可达到24000rpm，整体内风道风冷结构,美观、紧凑。●优化电磁设计,确保低,电磁噪音，运行平稳、高效。●采用伺服专用漆包线,保障特殊温度和粉尘油污环境下可靠运行。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_176.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "KMYB-500系列": {
+      "产品名称": "KMYB-500系列",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/KMYB500.jpg",
+      "产品介绍": "●搭载高精度编码器,满足高精度下速度和位置控制需求。●超低频启动转矩大,可1转/分钟满载启动;恒功率范围宽,最高可达额定转速的8倍。●过载能力强，可30min在150%额定功率下,或3min在300%额定功率下，可靠运行。●转子高精度动平衡调校,确保高速运行下,稳定可靠、低振动、低噪音。●耐电压冲击,寿命长，调速范围广，最高转速可达到24000rpm，整体内风道风冷结构,美观、紧凑。●优化电磁设计,确保低,电磁噪音，运行平稳、高效。●采用伺服专用漆包线,保障特殊温度和粉尘油污环境下可靠运行。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_177.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "KMYB-620系列": {
+      "产品名称": "KMYB-620系列",
+      "产品图片": "http://tama-kawa.com/uploads/product/dj/KMYB620.jpg",
+      "产品介绍": "●搭载高精度编码器,满足高精度下速度和位置控制需求。●超低频启动转矩大,可1转/分钟满载启动;恒功率范围宽,最高可达额定转速的8倍。●过载能力强，可30min在150%额定功率下,或3min在300%额定功率下，可靠运行。●转子高精度动平衡调校,确保高速运行下,稳定可靠、低振动、低噪音。●耐电压冲击,寿命长，调速范围广，最高转速可达到24000rpm，整体内风道风冷结构,美观、紧凑。●优化电磁设计,确保低,电磁噪音，运行平稳、高效。●采用伺服专用漆包线,保障特殊温度和粉尘油污环境下可靠运行。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/dj/dj_178.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    }
+  },
+  "减速器": {
+    "AB高精密高力矩型行星减速机": {
+      "产品名称": "AB高精密高力矩型行星减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/AB.jpg",
+      "产品介绍": "产品特点：高性能，用途广，高刚性，高效率，低噪音，低背隙产品介绍：1.静音使用斜齿轮实现顺畅安静地运转。2.高精度背隙低于3分、定位精确。3.高刚性、高扭矩使用整体式滚珠轴承，大大提高了刚性和扭矩。4.法兰、速接器方式可以安装到世界上任何一台马达上。5无润滑盾泄漏使用高粘度、不易分离的润滑脂，有效防止润滑脂泄漏。6.维护方便在产品寿命期内无需更换润滑脂，安装更便捷。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_9.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_10.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_11.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_12.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_13.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_14.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_15.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_16.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_17.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_18.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_19.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_20.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "ABR转角高精密高力矩型行星减速机": {
+      "产品名称": "ABR转角高精密高力矩型行星减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/ABR.jpg",
+      "产品介绍": "产品介绍：1. 静音使用斜齿轮实现顺畅安静的运转2. 高精度背隙低于3公分、定位精确。3. 高刚性、高扭矩使用整体式滚珠轴承，大大提高了刚性和扭矩。4. 法兰、连接器方式可以安装到世界上任何一台马达上。5. 无润滑脂泄漏使用高粘度、不易分离的润滑脂，有效防止润滑脂泄漏。6. 维护方便在产品寿命期内无需更换润滑脂，安装更便捷。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_21.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_22.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_23.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_24.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_25.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_26.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_27.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_28.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_29.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_30.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_31.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_32.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "AD法兰输出高精密型行星减速机": {
+      "产品名称": "AD法兰输出高精密型行星减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/AD.jpg",
+      "产品介绍": "产品特点：高性能，用途广，高刚性，高效率，低噪音，低背隙产品介绍：1.静音使用斜齿轮实现顺畅安静地运转。2.高精度背隙低于3分、定位精确。3.高刚性、高扭矩使用整体式滚珠轴承，大大提高了刚性和扭矩。4.法兰、速接器方式可以安装到世界上任何一台马达上。5无润滑盾泄漏使用高粘度、不易分离的润滑脂，有效防止润滑脂泄漏。6.维护方便在产品寿命期内无需更换润滑脂，安装更便捷。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_33.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_34.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_35.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_36.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_37.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_38.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_39.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_40.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_41.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_42.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_43.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "ADR转角法兰输出高精密型行星减速机": {
+      "产品名称": "ADR转角法兰输出高精密型行星减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/ADR.jpg",
+      "产品介绍": "产品介绍：1. 静音使用斜齿轮实现顺畅安静的运转2. 高精度背隙低于3公分、定位精确。3. 高刚性、高扭矩使用整体式滚珠轴承，大大提高了刚性和扭矩。4. 法兰、连接器方式可以安装到世界上任何一台马达上。5. 无润滑脂泄漏使用高粘度、不易分离的润滑脂，有效防止润滑脂泄漏。6. 维护方便在产品寿命期内无需更换润滑脂，安装更便捷。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_44.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_45.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_46.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_47.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_48.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_49.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_50.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_51.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_52.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_53.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_54.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "VRB高精密型行星减速机": {
+      "产品名称": "VRB高精密型行星减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/VRB.jpg",
+      "产品介绍": "产品特点：高性能，用途广，高刚性，高效率，低噪音，低背隙产品介绍：1. 高精度背隙低于3分、定位精确。2. 高刚性，高扭矩使用整体式滚针轴承，大大提高了刚性和扭矩。3. 高负载容量主轴承采用锥形滚针轴承，实现高负载容量。4. 无润滑脂泄露使用高粘度，不易分离的润滑脂，有效防止润滑脂泄露。5. 维护方便在产品寿命期内无需更换润滑脂，安装更便捷。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_55.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_56.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_57.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_58.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_59.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_60.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_61.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_62.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_63.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_64.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_65.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_66.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "EVB转角高精密型行星减速机": {
+      "产品名称": "EVB转角高精密型行星减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/EVB.jpg",
+      "产品介绍": "产品特点：高性能，用途广，高刚性，高效率，低噪音，低背隙产品介绍：1. 省空间直交型减速机使用螺旋式伞齿轮，马大的安装可实现90度弯曲，即节省了安装空间。2. 高刚性，高扭矩使用整体式滚针轴承，大大提高了刚性和扭矩。3. 连接器，轴套方式可以安装到世界上任一台马达上。4. 无润滑脂泄露使用高粘度，不易分离的润滑脂，有效防止润滑脂泄露。5. 维护方便在产品寿命期内无需更换润滑脂，安装更便捷。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_67.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_68.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_69.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_70.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "VRL高精密型行星减速机": {
+      "产品名称": "VRL高精密型行星减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/VRL.jpg",
+      "产品介绍": "产品特点：高性能，用途广，高刚性，高效率，低噪音，低背隙产品介绍：1. 高精度背隙低于3分、定位精确。2. 高刚性，高扭矩使用整体式滚针轴承，大大提高了刚性和扭矩。3. 高负载容量主轴承采用锥形滚针轴承，实现高负载容量。4.法兰、速接器方式可以安装到世界上任何一台马达上。5. 无润滑脂泄露使用高粘度，不易分离的润滑脂，有效防止润滑脂泄露。6. 维护方便在产品寿命期内无需更换润滑脂，安装更便捷。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_71.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_72.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_73.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_74.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_75.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_76.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_77.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_78.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_79.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_80.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_81.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "EVL转角高精密型行星减速机": {
+      "产品名称": "EVL转角高精密型行星减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/EVL.jpg",
+      "产品介绍": "产品介绍：1.高精度背隙低于3公分、定位精确。2.高刚性、高扭矩使用整体式滚珠轴承，大大提高了刚性和扭矩。3.高负载容量主轴承采用锥形滚针轴承，大大提高了刚性和扭矩4.法兰、连接器方式可以安装到世界上任何一台马达上。5.无润滑脂泄漏使用高粘度、不易分离的润滑脂，有效防止润滑脂泄漏。6.维护方便在产品寿命期内无需更换润滑脂，安装更便捷。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_82.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_83.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_84.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_85.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "VRS欧系高精密高力距型行星减速机": {
+      "产品名称": "VRS欧系高精密高力距型行星减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/VRS.jpg",
+      "产品介绍": "产品特点：高性能，用途广，高刚性，高效率，低噪音，低背隙产品介绍：1. 行星臂架与输出轴一体式结构确保最大耐扭力刚性及稳定性。2. 齿轮箱表面利用无电解镍处理，连接板采用黑色阳极处理，提高环境的耐受性和抗腐蚀能力。3. 最低的回程间隙。4. 高效率（95%）。5. 终身润滑。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_86.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_87.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_88.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_89.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "EVS转角欧系高精度高力矩型行星减速机": {
+      "产品名称": "EVS转角欧系高精度高力矩型行星减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/EVS.jpg",
+      "产品介绍": "产品特点：高性能，用途广，高刚性，高效率，低噪音，低背隙产品介绍：1. 省空间直交型减速机使用螺旋式伞齿轮，马大的安装可实现90度弯曲，即节省了安装空间。2. 高刚性，高扭矩使用整体式滚针轴承，大大提高了刚性和扭矩。3. 连接器，轴套方式可以安装到世界上任一台马达上。4. 无润滑脂泄露使用高粘度，不易分离的润滑脂，有效防止润滑脂泄露。5. 维护方便在产品寿命期内无需更换润滑脂，安装更便捷。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_90.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_91.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_92.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_93.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "MD中空旋转平台": {
+      "产品名称": "MD中空旋转平台",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/MD.jpg",
+      "产品介绍": "产品特点：高性能，用途广，高刚性，高效率，低噪音，低背隙产品介绍：●工作物可直接锁固旋转盘面可直接锁固工作物，提升工件转载之方便性。●配线方便此旋转平台为中空式设计，无论是配绫或配管均方便。●可替代DD马达和凸轮分割器机械动作不外乎是直绫、圆周运动，直运动以各类型滑台为主，而圆周运动则以分割器最具代表性，再则因技术的成熟与设备精度要求，使得D. D Motor日渐普及。然而，传统分割器已无法满足任意分割之需求；而D. D Motor虽能多元应用，且精度高，但其价格成本也往往成为使用者欲采用的一大门坎。“中空旋转盘”在两者之问取得平衡，填补了功能上的需求。不但能大幅降低D. d MotorE的成本，更能满足分割器所无法提供的高精度及数位化控制。●定位精准度高-反复定位精度为±15sec空转为（Lost motion）2min减速机构部分辨用超精密处理的齿轮，通过自身的调整机构消除齿隙，因此机构部分不会有齿隙。因单一方向的反复定位精度为±15sec；而从两方向定位时的空转为2mn，所以可以进行精准度高的定位。●直接连接-简易设计提升信赖中空的输出平台上，可直接安装设备的工作台及机器手臂。一般设备在通过皮带轮等机构零件进行定位运行时，多受机构零件传动效率的影响发生精度减低，或有维修机构零件的必要。而zK系列因不需通过中间零件，便可直接安装，所以除了能直接运用产品本身的精度以外，也可以免去维修的麻烦。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_94.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_95.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_96.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_97.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_98.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_99.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_100.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_101.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_102.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_103.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_104.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_105.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "DG精密中空旋转平台": {
+      "产品名称": "DG精密中空旋转平台",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/DG.jpg",
+      "产品介绍": "产品特点：高性能，用途广，高刚性，高效率，低噪音，低背隙产品介绍：●直接连接简易设计提升信赖●容易进行原点还原使用原点传感器套件（选购配件），可轻易地安装与实现原点还原●大口径中空旋转式传动装置简洁的配线与配管●定位精准度高反复定位精度为±15sec空转（Lost motion）为2min，角度传达误差为 4min●短时间定位可在短时间内，实现惯性负载的定位 !",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_106.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_107.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_108.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_109.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_110.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_111.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_112.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_113.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_114.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_115.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "WR精密直角减速机": {
+      "产品名称": "WR精密直角减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/WR.jpg",
+      "产品介绍": "产品特点：高性能，用途广，高刚性，高效率，低噪音，低背隙产品介绍：角度旋转低背隙小于10秒采用先进六轴精密机械加工，一次装夹同时加工完成，确保最佳几何精度。传动齿轮经精密硏制，运转低背隙、高精度。精密传动、寂静、稳定、顺畅、流程；达到精密传动，低噪音、高刚性等高品质要求。特性：本体结构扎实、体积小，有效节省安装空问。虽然体积小、重量轻。但具有高扭矩输出及低背隙的优异特性。订购时请告知马达法兰及心轴尺寸。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_116.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_117.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_118.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_119.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_120.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "RA精密直角减速机": {
+      "产品名称": "RA精密直角减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/RA.jpg",
+      "产品介绍": "产品介绍：1.省空间直交型减速机使用螺旋式伞齿轮，马达的安装可实现90度弯曲，节省了安装空间2.高刚性、高扭矩使用整体式滚珠轴承，大大提高了刚性和扭矩。3.连接器，轴套方式可以安装到世界上任何一台马达上。4.无润滑脂泄漏使用高粘度、不易分离的润滑脂，有效防止润滑脂泄漏。5.维护方便在产品寿命期内无需更换润滑脂，安装更便捷。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_121.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_122.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_123.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "RT精密直角减速机": {
+      "产品名称": "RT精密直角减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/RT.jpg",
+      "产品介绍": "产品特点：高性能，用途广，高刚性，高效率，低噪音，低背隙产品介绍：1.静音使用斜齿轮实现顺畅安静地运转。2.高精度背隙低于3分、定位精确。3.高刚性、高扭矩使用整体式滚珠轴承，大大提高了刚性和扭矩。4.法兰、速接器方式可以安装到世界上任何一台马达上。5无润滑盾泄漏使用高粘度、不易分离的润滑脂，有效防止润滑脂泄漏。6.维护方便在产品寿命期内无需更换润滑脂，安装更便捷。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_124.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_125.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "RD精密直角减速机": {
+      "产品名称": "RD精密直角减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/xx/RD.jpg",
+      "产品介绍": "产品介绍：1.省空间直交型减速机使用螺旋式伞齿轮，马达的安装可实现90度弯曲，节省了安装空间2.高刚性、高扭矩使用整体式滚珠轴承，大大提高了刚性和扭矩。3.连接器，轴套方式可以安装到世界上任何一台马达上。4.无润滑脂泄漏使用高粘度、不易分离的润滑脂，有效防止润滑脂泄漏。5.维护方便在产品寿命期内无需更换润滑脂，安装更便捷。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xx/xx_126.jpg",
+        "http://tama-kawa.com/uploads/product/xx/xx_127.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xx.zip",
+      "图纸下载": ""
+    },
+    "AT轴输入转向器": {
+      "产品名称": "AT轴输入转向器",
+      "产品图片": "http://tama-kawa.com/uploads/product/90/AT.jpg",
+      "产品介绍": "产品特点：一体化不锈钢本体确保最大刚性与耐蚀性，多重精密加工表面易于组装。采用顶级蜗织伞齿输的设计软件，经最佳化设计接触齿面负载均-容许高扭矩输出，齿轮采高强力渗碳合金钢，研磨精密度符合DIN 5级标准以内。多重不锈钢输出入力轴的设计可以适用于各种工业上应用的需求。高精密研磨的蜗缕伞齿轮组结合最佳化设计的行星式齿轮组可以达到500:1的减速比。高扭矩低背隙的精简结构设计适用于精密伺服的应用。专利的油封设计，免保养无需更换润滑油，运转高命长。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/90/x90_1.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_2.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_3.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_4.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_5.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_6.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_7.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_8.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/90.zip",
+      "图纸下载": ""
+    },
+    "AT-F法兰输入90度行星直角减速器": {
+      "产品名称": "AT-F法兰输入90度行星直角减速器",
+      "产品图片": "http://tama-kawa.com/uploads/product/90/AT-F.jpg",
+      "产品介绍": "产品特点：一体化不锈钢本体确保最大刚性与耐蚀性，多重精密加工表面易于组装。采用顶级蜗织伞齿输的设计软件，经最佳化设计接触齿面负载均-容许高扭矩输出，齿轮采高强力渗碳合金钢，研磨精密度符合DIN 5级标准以内。多重不锈钢输出入力轴的设计可以适用于各种工业上应用的需求。高精密研磨的蜗缕伞齿轮组结合最佳化设计的行星式齿轮组可以达到500:1的减速比。高扭矩低背隙的精简结构设计适用于精密伺服的应用。专利的油封设计，免保养无需更换润滑油，运转高命长。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/90/x90_9.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_10.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_11.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_12.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_13.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_14.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_15.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_16.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_17.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_18.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_19.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_20.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_21.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_22.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_23.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/90.zip",
+      "图纸下载": ""
+    },
+    "RTM-AS精密输入带法兰转向器": {
+      "产品名称": "RTM-AS精密输入带法兰转向器",
+      "产品图片": "http://tama-kawa.com/uploads/product/90/AATM.jpg",
+      "产品介绍": "产品特点：大型中空轴旋转法兰:适用于大负荷场合。TFT-LCD面板翻转，旋转机构，机械手臂底座旋转，摆臂旋转，分度旋转等机构。中空轴迫紧环:适用于大负荷场合。滚轮机构，凸轮机构，输送搬运等机构。出口轴型:适用于大负荷场合。联轴机构，皮带输送等机构。螺焊减速机:适用于直线运动场合。垂直，水平之直线运动等机构。中空旋转平台:适用于大负荷场合。TFT-LCD面板翻转，分度盘等机构。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/90/x90_25.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_26.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_27.jpg",
+        "http://tama-kawa.com/uploads/product/902/x90_28.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_29.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_30.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_31.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_32.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_33.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_34.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_35.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/90.zip",
+      "图纸下载": ""
+    },
+    "RT-AS精密轴输入转向器": {
+      "产品名称": "RT-AS精密轴输入转向器",
+      "产品图片": "http://tama-kawa.com/uploads/product/90/AAT.jpg",
+      "产品介绍": "产品特点：高强度：90度型式，高精度螺旋伞齿轮，采用镍铬合金钢SCM415 HRC60度。高效率：高效率行星机构和精密螺旋伞机构之组合。高刚性：本齿轮箱有优良的刚性结构，采用双锥形轴承支撑，对于输出端负载变化大的场合特别适合。多样化：输出轴种类多样化，有单出力轴型、双出力轴型、中空轴型、中空法兰型、中空轴锥形紧迫性、螺杆直线型、螺牙直线型。减速比：单段1:3~1:10双段：1:12~12:100体积小、省空间：框号55MM~220MM输出扭矩；15NM~1600NM，螺旋伞齿轮模数M1.0~M6.0安装容易：5个面方向皆可安装。适用容量：50W~15KW专利设计：本齿箱已申请通过多种专利。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/90/x90_36.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_37.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_38.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_39.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_40.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_41.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_42.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_43.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_44.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_45.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/90.zip",
+      "图纸下载": ""
+    },
+    "RXW-AS精密型90度行星直角减速器": {
+      "产品名称": "RXW-AS精密型90度行星直角减速器",
+      "产品图片": "http://tama-kawa.com/uploads/product/90/AAW-AS(BS).jpg",
+      "产品介绍": "产品特点：高强度：90度型式，高精度螺旋伞齿轮，采用镍铬合金钢SCM415 HRC60度。高效率：高效率行星机构和精密螺旋伞机构之组合。高刚性：本齿轮箱有优良的刚性结构，采用双锥形轴承支撑，对于输出端负载变化大的场合特别适合。多样化：输出轴种类多样化，有单出力轴型、双出力轴型、中空轴型、中空法兰型、中空轴锥形紧迫性、螺杆直线型、螺牙直线型。减速比：单段1:3~1:10双段：1:12~12:100体积小、省空间：框号55MM~220MM输出扭矩；15NM~1600NM，螺旋伞齿轮模数M1.0~M6.0安装容易：5个面方向皆可安装。适用容量：50W~15KW",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/90/x90_46.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_47.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_48.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_49.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_50.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_51.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_52.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_53.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_54.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_55.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_56.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/90.zip",
+      "图纸下载": ""
+    },
+    "RT-A标准轴输入转向器": {
+      "产品名称": "RT-A标准轴输入转向器",
+      "产品图片": "http://tama-kawa.com/uploads/product/90/PT.jpg",
+      "产品介绍": "产品特点：90度精密减速机多种输出轴型式、减速比：1:1~1:100适用之伺服马达容量：0.1kw~ 15kw中空轴+锥形迫紧环：使用于大负荷场合适用：滚轮机构，输送搬运机构，凸轮机构冶金面板翻转机构，齿条齿轮机构等任何产业之机构。中空轴旋转法兰：适用于大负荷场合。适用：旋转机构，CNC车床机械手臂之翻转结构。中空轴（夹紧式），单中空轴与双中空轴。适用：输送搬运机构。中空轴夹紧式加键槽：适用大负荷场合。适用：滚轮机构，输送搬运机构，凸轮机构液晶面板翻转机构，齿条齿轮机构中空轴有键槽：新型追加止付牙孔。一般输送机构。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/90/x90_57.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_58.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_59.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_60.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_61.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/90.zip",
+      "图纸下载": ""
+    },
+    "RXW-A标准型90度行星直角减速器": {
+      "产品名称": "RXW-A标准型90度行星直角减速器",
+      "产品图片": "http://tama-kawa.com/uploads/product/90/PAW-A(B).jpg",
+      "产品介绍": "产品特点：90度精密减速机多种输出轴型式、减速比：1:1~1:100适用之伺服马达容量：0.1kw~ 15kw中空轴+锥形迫紧环：使用于大负荷场合适用：滚轮机构，输送搬运机构，凸轮机构冶金面板翻转机构，齿条齿轮机构等任何产业之机构。中空轴旋转法兰：适用于大负荷场合。适用：旋转机构，CNC车床机械手臂之翻转结构。中空轴（夹紧式），单中空轴与双中空轴。适用：输送搬运机构。中空轴夹紧式加键槽：适用大负荷场合。适用：滚轮机构，输送搬运机构，凸轮机构液晶面板翻转机构，齿条齿轮机构中空轴有键槽：新型追加止付牙孔。一般输送机构。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/90/x90_62.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_63.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_64.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_65.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_66.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_67.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_68.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_69.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_70.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/90.zip",
+      "图纸下载": ""
+    },
+    "RB同步螺杆减速机": {
+      "产品名称": "RB同步螺杆减速机",
+      "产品图片": "http://tama-kawa.com/uploads/product/90/RB.jpg",
+      "产品介绍": "产品特点：1.螺捍型、电缸型、活塞型、多点型2.多轴选择：1轴/2轴/3轴/4轴/5轴/6轴3.客裂品之订购",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/90/x90_71.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_72.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_73.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_74.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_75.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_76.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_77.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_78.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_79.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_80.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_81.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_82.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_83.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_84.jpg",
+        "http://tama-kawa.com/uploads/product/90/x90_85.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/90.zip",
+      "图纸下载": ""
+    },
+    "CSG-CSF组合型": {
+      "产品名称": "CSG-CSF组合型",
+      "产品图片": "http://tama-kawa.com/uploads/product/xb/CSG-CSF.jpg",
+      "产品介绍": "谐波减速机主要由波发生器、柔性齿轮、柔性轴承、刚性齿轮四个基本构件组成，谐波传动减速器，是一种靠波发生器装配上柔 性轴承使柔性齿轮产生可控弹性变形，并与刚性齿轮相啮合来传递运动和动力的齿轮传动。应用学科：机械工程（一级学科）； 传动（二级学科）；齿轮传动（三级学科）谐波齿轮传动减速器是利用行星齿轮传动原理发展起来的一种新型减速器。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb20.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb21.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb22.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb23.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb24.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb25.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb26.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb27.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb28.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb29.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb30.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb31.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb32.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb33.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb34.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb35.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xb.zip",
+      "图纸下载": ""
+    },
+    "SHG-SHF系列组合型": {
+      "产品名称": "SHG-SHF系列组合型",
+      "产品图片": "http://tama-kawa.com/uploads/product/xb/SHG-SHF.jpg",
+      "产品介绍": "谐波减速机主要由波发生器、柔性齿轮、柔性轴承、刚性齿轮四个基本构件组成，谐波传动减速器，是一种靠波发生器装配上柔 性轴承使柔性齿轮产生可控弹性变形，并与刚性齿轮相啮合来传递运动和动力的齿轮传动。应用学科：机械工程（一级学科）； 传动（二级学科）；齿轮传动（三级学科）谐波齿轮传动减速器是利用行星齿轮传动原理发展起来的一种新型减速器。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb36.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb37.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb38.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb39.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb40.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb41.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb42.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb43.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb44.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb45.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb46.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb47.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb48.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb49.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb50.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb51.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb52.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb53.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb54.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb55.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb56.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xb.zip",
+      "图纸下载": ""
+    },
+    "CSD-组合型": {
+      "产品名称": "CSD-组合型",
+      "产品图片": "http://tama-kawa.com/uploads/product/xb/CSD.jpg",
+      "产品介绍": "谐波减速机主要由波发生器、柔性齿轮、柔性轴承、刚性齿轮四个基本构件组成，谐波传动减速器，是一种靠波发生器装配上柔 性轴承使柔性齿轮产生可控弹性变形，并与刚性齿轮相啮合来传递运动和动力的齿轮传动。应用学科：机械工程（一级学科）； 传动（二级学科）；齿轮传动（三级学科）谐波齿轮传动减速器是利用行星齿轮传动原理发展起来的一种新型减速器。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb57.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb58.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb59.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb60.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb61.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb62.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb63.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb64.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xb.zip",
+      "图纸下载": ""
+    },
+    "SHD-组合型": {
+      "产品名称": "SHD-组合型",
+      "产品图片": "http://tama-kawa.com/uploads/product/xb/SHD.jpg",
+      "产品介绍": "谐波减速机主要由波发生器、柔性齿轮、柔性轴承、刚性齿轮四个基本构件组成，谐波传动减速器，是一种靠波发生器装配上柔 性轴承使柔性齿轮产生可控弹性变形，并与刚性齿轮相啮合来传递运动和动力的齿轮传动。应用学科：机械工程（一级学科）； 传动（二级学科）；齿轮传动（三级学科）谐波齿轮传动减速器是利用行星齿轮传动原理发展起来的一种新型减速器。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb65.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb66.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb67.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb68.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb69.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb70.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb71.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb72.jpg",
+        "http://tama-kawa.com/uploads/product/xb/xlm_xb73.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/xb.zip",
+      "图纸下载": ""
+    },
+    "RV-E系列": {
+      "产品名称": "RV-E系列",
+      "产品图片": "http://tama-kawa.com/uploads/product/rv/RV-E.jpg",
+      "产品介绍": "此系列专为机械手臂开发，而RV-E拥有轻盈的机身，薄型的身长大大的减速机手臂传动的惯性使其定位更佳的精准。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv1.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv2.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv3.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv4.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv5.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv6.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv7.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv8.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv9.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv10.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv11.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv12.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv13.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv14.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv15.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv16.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/rv.zip",
+      "图纸下载": ""
+    },
+    "RV-C系列": {
+      "产品名称": "RV-C系列",
+      "产品图片": "http://tama-kawa.com/uploads/product/rv/RV-C.jpg",
+      "产品介绍": "此系列专为机械手臂开发，而RV-C拥有轻盈的机身，薄型的身长大大的减速机手臂传动的惯性使其定位更佳的精准。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv17.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv18.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv19.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv20.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv21.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv22.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv23.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv24.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv25.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv26.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv27.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv28.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv29.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv30.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv31.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv32.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv33.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv34.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/rv.zip",
+      "图纸下载": ""
+    },
+    "RV-EM系列": {
+      "产品名称": "RV-EM系列",
+      "产品图片": "http://tama-kawa.com/uploads/product/rv/RV-EM.jpg",
+      "产品介绍": "许多设计师因空间关系，管线无法存放甚至做动时拉扯到管线，这款RV-EM将可以排除这个困难，因机身为中空可让管线通过避免了机械做动时的管线拉扯。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv35.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv36.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv37.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv38.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv39.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv40.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv41.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv42.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv43.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/rv.zip",
+      "图纸下载": ""
+    },
+    "RV-CM、CK、CW系列": {
+      "产品名称": "RV-CM、CK、CW系列",
+      "产品图片": "http://tama-kawa.com/uploads/product/rv/RV-CM.jpg",
+      "产品介绍": "许多设计师因空间关系，管线无法存放甚至做动时拉扯到管线，这款RV-EM将可以排除这个困难，因机身为中空可让管线通过避免了机械做动时的管线拉扯。",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv44.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv45.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv46.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv47.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv48.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv49.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv50.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv51.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv52.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv53.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv54.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv55.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv56.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv57.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv58.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv59.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv60.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv61.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv62.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv63.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv64.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv65.jpg",
+        "http://tama-kawa.com/uploads/product/rv/xlm_rv66.jpg"
+      ],
+      "样本下载": "http://tama-kawa.com/uploads/soft/rv.zip",
+      "图纸下载": ""
+    }
+  },
+  "防爆电机": {
+    "防爆交流伺服/直流伺服/直流无刷伺服": {
+      "产品名称": "防爆交流伺服/直流伺服/直流无刷伺服",
+      "产品图片": "http://tama-kawa.com/uploads/product/fb/fb_sf.jpg",
+      "产品介绍": "",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/fb/fb_xx5.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx6.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx7.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx8.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx9.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx10.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx11.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx12.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx13.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx14.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "防爆步进电机": {
+      "产品名称": "防爆步进电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/fb/fb_bj.jpg",
+      "产品介绍": "",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/fb/fb_xx15.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "媒安型矿用防爆伺服电机": {
+      "产品名称": "媒安型矿用防爆伺服电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/fb/fb_ky.jpg",
+      "产品介绍": "",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/fb/fb_xx16.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx17.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx18.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx19.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx20.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx21.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx22.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx23.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "耐辐射-高低温-真空步进电机": {
+      "产品名称": "耐辐射-高低温-真空步进电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/fb/fb_fs.jpg",
+      "产品介绍": "",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/fb/fb_xx24.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx25.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx26.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx27.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx28.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx29.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx30.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx31.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx32.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "耐辐射-高低温-真空伺服电机": {
+      "产品名称": "耐辐射-高低温-真空伺服电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/fb/fb_gw.jpg",
+      "产品介绍": "",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/fb/fb_xx33.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx34.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "耐辐射-高低温-真空无刷电机": {
+      "产品名称": "耐辐射-高低温-真空无刷电机",
+      "产品图片": "http://tama-kawa.com/uploads/product/fb/fb_zk.jpg",
+      "产品介绍": "",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/fb/fb_xx35.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx36.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "耐辐射-高低温-真空减速箱FB系列": {
+      "产品名称": "耐辐射-高低温-真空减速箱FB系列",
+      "产品图片": "http://tama-kawa.com/uploads/product/fb/fb_jsj.jpg",
+      "产品介绍": "",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/fb/fb_xx37.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "步进电机适配驱动器": {
+      "产品名称": "步进电机适配驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/fb/fb_bjqdq.jpg",
+      "产品介绍": "",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/fb/fb_xx38.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "通用型-伺服电机驱动器": {
+      "产品名称": "通用型-伺服电机驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/fb/fb_tyqdq.jpg",
+      "产品介绍": "",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/fb/fb_xx39.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx40.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "SE直流伺服驱动器": {
+      "产品名称": "SE直流伺服驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/fb/fb_se.jpg",
+      "产品介绍": "",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/fb/fb_xx41.jpg",
+        "http://tama-kawa.com/uploads/product/fb/fb_xx42.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    },
+    "通用型直流无刷电机驱动器": {
+      "产品名称": "通用型直流无刷电机驱动器",
+      "产品图片": "http://tama-kawa.com/uploads/product/fb/fb_zlqdq.jpg",
+      "产品介绍": "",
+      "产品详情": [
+        "http://tama-kawa.com/uploads/product/fb/fb_xx43.jpg"
+      ],
+      "样本下载": "",
+      "图纸下载": ""
+    }
+  }
+}

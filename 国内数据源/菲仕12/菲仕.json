@@ -1,0 +1,402 @@
+{
+  "伺服电机系列": {
+    "Express系列交流永磁同步伺服电机": {
+      "产品名称": "Express系列交流永磁同步伺服电机",
+      "产品介绍": "l 功率范围：7.9kw~220KWl 扭矩范围：1~1400Nml 转速范围：0~4000rpml 冷却方式：风冷",
+      "产品图片": "http://www.physis.com.cn/uploadfiles/2023/05/20230512180621824.png?MjAyMzA1MTIxNzMxNDA2NzMucG5n",
+      "产品特点": [
+        "功率密度高提供符合GB30549，一级能效和IEC60034，IE4的解决方案。体积小采用全新的内嵌电磁和结构方案，响应更快，转速更高，使电机结构紧凑简单，便于安装。过载能力强搭配菲仕PH系列专用伺服驱动器，使电机过载能力更强。"
+      ],
+      "产品参数": [
+        "http://www.physis.com.cn/uploadfiles/2023/05/20230512180643258.jpg",
+        "http://www.physis.com.cn/uploadfiles/2023/05/20230512180639514.jpg",
+        "http://www.physis.com.cn/uploadfiles/2023/05/20230512180640934.jpg",
+        "http://www.physis.com.cn/uploadfiles/2023/05/20230512180642026.jpg"
+      ],
+      "资料下载": {
+        "型录手册": [
+          "http://www.physis.com.cn/uploadfiles/2023/04/20230406140108012.pdf"
+        ],
+        "3D图纸": [
+          "http://www.physis.com.cn/uploadfiles/2023/07/20230725150357233.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/07/20230725150335315.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/07/20230725150301401.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/07/20230725150223025.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/07/20230725144749284.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/07/20230725144718646.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/07/20230725144638445.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/07/20230725144606792.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/07/20230725144508885.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/07/20230725144406766.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/07/20230725144321588.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/07/20230725144153776.stp"
+        ],
+        "操作说明书": [],
+        "驱动器配置软件": []
+      }
+    },
+    "Ultract Ⅲ系列标准交流永磁同步伺服电机": {
+      "产品名称": "Ultract Ⅲ系列标准交流永磁同步伺服电机",
+      "产品介绍": "l 功率范围：0.2~310KWl 扭矩范围：1~3500Nml 转速范围：0~4000rpml 冷却方式：自然冷，风冷，液冷l 位置反馈：Sincos、Absolute、Encoder、Resolver、Digital incremental",
+      "产品图片": "http://www.physis.com.cn/uploadfiles/2023/07/20230727151003803.png?VUlJSeezu+WIly5wbmc=",
+      "产品特点": [
+        "高效率高牌号稀土永磁体，成熟的电磁和冷却方案，提供符合GB30549，最高一级和IEC60034能效，最高IE5的解决方案。轻巧采用高强度合金材质和高分子材料，较高的转矩/体积比和功率/体积比，是普通电机的2~3倍。低噪精密自动化的制造工艺，高精度的核心零部件，成熟的电磁方案，电机运行更平滑稳定，更低噪。灵活7种基座型号适用多应用场景，还能提供基于平台的全方位非标定制方案。"
+      ],
+      "产品参数": [
+        "http://www.physis.com.cn/uploadfiles/2023/05/20230515010829314.png",
+        "http://www.physis.com.cn/uploadfiles/2023/05/20230515010828534.png"
+      ],
+      "资料下载": {
+        "型录手册": [
+          "http://www.physis.com.cn/uploadfiles/2022/09/20220927162145031.pdf"
+        ],
+        "3D图纸": [
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630143746995.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630143722316.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630143702395.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630143628667.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630143601133.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630143534208.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630143514333.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630143451682.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630143426114.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142913349.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142847032.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142830730.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142759655.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142746130.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142713916.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142655102.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142626726.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142559878.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142543451.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142519849.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142456480.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142433735.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142411287.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142351927.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142321008.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142257920.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142230620.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142153929.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142120404.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142034930.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630142012357.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630141950205.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630141927835.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630141903748.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630141835153.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630141811363.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630141544084.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630141530761.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630141440186.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630141418627.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630141341249.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630141317038.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630141246306.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630141019354.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630140736506.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630140540223.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630140456777.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630140015478.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630135947913.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630135909693.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630135813985.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134948343.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134921308.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134850186.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134758316.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134729705.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134649364.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134614264.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134546730.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134509976.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134446046.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134345253.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134309029.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134239187.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134224835.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134136989.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134113418.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134041797.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630134012172.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133935200.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133915466.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133839649.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133802739.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133745142.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133709013.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133651837.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133624537.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133549000.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133527909.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133500406.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133427475.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133347523.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133326666.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133235685.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133207995.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133044145.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630133016658.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630132939514.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630132900233.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630132809128.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630131758622.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630131735331.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630131707345.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630131637923.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630131607129.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630131532918.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630131447272.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630112717297.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630112644922.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630112606339.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630112534557.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630112507831.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630112442103.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630112414644.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630112339586.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630112306036.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630112240302.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630112218470.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630112143451.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630111906786.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630111829974.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630111804390.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630111624565.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230630111543491.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629143543723.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629143402198.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629143326131.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629143303838.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629143212811.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629143130831.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629143104046.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629143026855.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629142946358.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629142913847.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629142843084.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629142744974.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629142657550.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629142633838.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629142459131.stp",
+          "http://www.physis.com.cn/uploadfiles/2023/06/20230629142020546.stp"
+        ],
+        "操作说明书": [
+          "http://www.physis.com.cn/uploadfiles/2023/09/20230906104930239.pdf"
+        ],
+        "驱动器配置软件": []
+      }
+    },
+    "TK系列永磁同步力矩伺服电机": {
+      "产品名称": "TK系列永磁同步力矩伺服电机",
+      "产品介绍": "l 功率范围：3.2~800 KWl 扭矩范围：3~120000 Nml 转速范围：0~30000rpml 直径范围：85~2000mml 冷却方式：自然冷，风冷，液冷l 适用范围：自动化工业通用伺服。",
+      "产品图片": "http://www.physis.com.cn/uploadfiles/2023/07/20230727123459074.png?RUsyNzAgLSDlia/mnKwgKDIpLnBuZw==",
+      "产品特点": [
+        "高功率密度采用高性能的永磁材料，高牌号硅钢片，先进的电磁方案，实现高转速和高转矩能力以及弱磁控制能力，恒功率范围可达10：1。高效率提供符合GB30549，最高一级，和IEC60034，最高IE5的解决方案。结构简单无框架结构，适于集成到设备内部，适配性强，安装方便，容易维护。耐用定子采用真空环氧浸漆工艺和超行业水平的绝缘材料，提高电机防护等级和散热性能，使电机更持久耐用。灵活定制整机和无框架可选，为不同应用场景提供基于平台的全方位非标定制方案，目前最大直径可达45m。"
+      ],
+      "产品参数": [
+        "http://www.physis.com.cn/uploadfiles/2023/07/20230703131635420.jpg",
+        "http://www.physis.com.cn/uploadfiles/2023/07/20230703131909345.jpg",
+        "http://www.physis.com.cn/uploadfiles/2023/07/20230703131919890.jpg",
+        "http://www.physis.com.cn/uploadfiles/2023/07/20230703132044723.jpg",
+        "http://www.physis.com.cn/uploadfiles/2023/07/20230703132129526.jpg",
+        "http://www.physis.com.cn/uploadfiles/2023/07/20230703132154845.jpg",
+        "http://www.physis.com.cn/uploadfiles/2023/07/20230703132213269.jpg",
+        "http://www.physis.com.cn/uploadfiles/2023/07/20230703132259991.jpg",
+        "http://www.physis.com.cn/uploadfiles/2023/07/20230703132318087.jpg",
+        "http://www.physis.com.cn/uploadfiles/2023/07/20230703132336744.jpg",
+        "http://www.physis.com.cn/uploadfiles/2023/07/20230703132359489.jpg"
+      ],
+      "资料下载": {
+        "型录手册": [
+          "http://www.physis.com.cn/uploadfiles/2023/07/20230727134528951.pdf"
+        ],
+        "3D图纸": [],
+        "操作说明书": [
+          "http://www.physis.com.cn/uploadfiles/2023/07/20230717093421959.pdf"
+        ],
+        "驱动器配置软件": []
+      }
+    }
+  },
+  "伺服驱动器系列": {
+    "AxN-DC系列共直流母线多轴驱动器": {
+      "产品名称": "AxN-DC系列共直流母线多轴驱动器",
+      "产品介绍": "l 整流单元：0~500Vac  额定功率80KW，支持整流模块并联l 逆变单元：0~800Vdc  额定功率11~200KWl 总线通讯：EtherCAT、CANopen、EthPMCl 编码器支持：Endat、Hiperface、Sincos、Hall、Resolver、Nikon、Tamagawa等l 散热方式：风冷、水冷、油冷l 安装方式：柜内安装、穿墙安装、底板安装",
+      "产品图片": "http://www.physis.com.cn/uploadfiles/2023/07/20230703134646346.png?QVhOLURDLnBuZw==",
+      "产品特点": [
+        "内置PLC（IEC6113103 标准语言）可编程：可用5种PLC 编程语言进行二次开发，符合IEC61131-3 标准。一体化：PLC 集成在控制卡上，省去外部的PLC 控制器，节省空间和成本。速度快：驱动器由内部PLC 直接控制，执行速度更快。电机、减速器和控制器高度集成，电机和减速机共端盖，体积更小。定子端部短，铜耗更低，整体重量更轻。自主开发的EthPMC 内部总线基于以太网技术：具有硬实时性，拓扑灵活等特点。支持交互通信：在每个同步周期内主站与从站，从站间实现直接的数据通信。通信调整稳定：循环周期125μs，传输延时低于2μs，同步时钟抖动小于100ns。",
+        "高精度控制环电流环采样循环时间：1μs速度环采样循环时间：125μs位置环采样循环时间：125μs 实时同步通讯和更新位置角度，采用前馈及补偿角度算法、高性能电压控制算法，可达到最高10 倍弱磁节能主动前段AFE能量回馈电网功能、共直流母线技术，多轴系统能量互用提高效率，整个系统更加低碳节能",
+        "节省空间体积更小，更紧凑，采用分布式直流母线连接方式节省器件多机并联方案，仅需一组电阻、滤波器、输入电缆"
+      ],
+      "产品参数": [
+        "http://www.physis.com.cn/uploadfiles/2023/04/20230417094804991.png"
+      ],
+      "资料下载": {
+        "型录手册": [],
+        "3D图纸": [],
+        "操作说明书": [],
+        "驱动器配置软件": []
+      }
+    },
+    "AxN系列全数字交流伺服驱动器": {
+      "产品名称": "AxN系列全数字交流伺服驱动器",
+      "产品介绍": "l 额定功率：2.2kW~110kWl 三相输入电压：0~500Vacl 编码器支持：Endat、Hiperface、Sincos、Hall、Resolver、Nikon、Tamagawa等l 散热方式：风冷、水冷、油冷l 总线通讯：Modbus、CANopen、EtherCAT。l 安装方式：柜内安装、穿墙安装、冷却板安装",
+      "产品图片": "http://www.physis.com.cn/uploadfiles/2023/07/20230703134801740.png?QXhOLnBuZw==",
+      "产品特点": [
+        "内置PLC可编程：可用5种PLC 编程语言进行二次开发，符合IEC61131-3 标准。一体化：PLC 集成在控制卡上，省去外部的PLC 控制器，节省空间和成本。速度快：驱动器由内部PLC 直接控制，执行速度更快。高速电流环控制电流环循环周期：1us（即刷新频率1000kHz），实时性、高响应控制采用高精度驱动器扭矩补偿技术，降低大扭矩低速电机的扭矩波动，2rpm速度下扭矩波动±1%。",
+        "位置和速度双环并联控制同时规划位置及速度曲线，提高速度响应特性支持多种高精度编码器及双编码器全闭环控制，实现伺服系统的高响应、高精度的位置和速度控制。高速弱磁控制内置快速过压保护模块，弱磁倍数从1.5倍提高至10倍，实现伺服电机的高速弱磁运行功能，提高伺服电机的速度范围及高速过载性能。"
+      ],
+      "产品参数": [
+        "http://www.physis.com.cn/uploadfiles/2023/04/20230417100336250.png",
+        "http://www.physis.com.cn/uploadfiles/2023/04/20230417100337670.png"
+      ],
+      "资料下载": {
+        "型录手册": [],
+        "3D图纸": [],
+        "操作说明书": [],
+        "驱动器配置软件": []
+      }
+    },
+    "PH300系列高性能闭环矢量驱动器": {
+      "产品名称": "PH300系列高性能闭环矢量驱动器",
+      "产品介绍": "l 额定输出功率：7.5kW~450kWl 最高频率：0~599Hzl 载波频率：1KHz~12KHzl 总线通讯：标准Modbus、CANopenl 调速范围：1：1000（FVC）l 散热方式：强制风冷",
+      "产品图片": "http://www.physis.com.cn/uploadfiles/image/PicList002045-img22.png?UGljTGlzdDAwMjA0NS1pbWcyMi5wbmc=",
+      "产品特点": [
+        "控制精准内置PID控制，支持闭环矢量控制，V/F控制，支持多种类型PG卡过载能力150%额定电流可持续60S，180%额定电流可持续3S简单易用结构简单，体积小，便于安装故障率低具备快速限流功能，减少驱动器频繁出现故障报警的概率保护功能具有输出缺相保护、过流/过压过载/过热保护等功能"
+      ],
+      "产品参数": [
+        "http://www.physis.com.cn/uploadfiles/2023/05/20230515011241301.png",
+        "http://www.physis.com.cn/uploadfiles/2023/05/20230515011242065.png",
+        "http://www.physis.com.cn/uploadfiles/2023/05/20230515011243110.png",
+        "http://www.physis.com.cn/uploadfiles/2023/05/20230515011244702.png"
+      ],
+      "资料下载": {
+        "型录手册": [],
+        "3D图纸": [],
+        "操作说明书": [],
+        "驱动器配置软件": []
+      }
+    }
+  },
+  "直流无刷电机系列": {
+    "BLDC内转子系列直流无刷电机": {
+      "产品名称": "BLDC内转子系列直流无刷电机",
+      "产品介绍": "l 电机功率范围：750W~15kWl 额定扭矩范围：2Nm~50Nml 转速范围：0~8000rpml 电机效率：IE5l 防尘防水等级：IP55、IP67",
+      "产品图片": "http://www.physis.com.cn/uploadfiles/2023/04/20230420140502108.png?5Zu+54mHMi5wbmc=",
+      "产品特点": [
+        "高功率密度比、高效率无传感FOC控制内置PLC可进行恒压控制带Can、RS485通信结构更紧凑，控制器与电机集成一体设计，低成本转矩波动小"
+      ],
+      "产品参数": [
+        "http://www.physis.com.cn/uploadfiles/2023/05/20230510161426095.jpg"
+      ],
+      "资料下载": {
+        "型录手册": [],
+        "3D图纸": [],
+        "操作说明书": [],
+        "驱动器配置软件": []
+      }
+    },
+    "BLDC外转子系列直流无刷电机电机功率范围：200W~1.5kW额定扭矩范围：2Nm~150Nm转速范围：0~300rpm电机效率：≥80%电机直径：170mm~380mm": {
+      "产品名称": "BLDC外转子系列直流无刷电机电机功率范围：200W~1.5kW额定扭矩范围：2Nm~150Nm转速范围：0~300rpm电机效率：≥80%电机直径：170mm~380mm",
+      "产品介绍": "",
+      "产品图片": "http://www.physis.com.cn/uploadfiles/2020/10/20201020101825581.jpg?QkwyMjIgLSDlia/mnKwuSlBH",
+      "产品特点": [
+        "结构紧凑，直驱，有整机和无框架可选减少连接机构能耗更高效高动态响应可靠性高、免维护低噪音"
+      ],
+      "产品参数": [
+        "http://www.physis.com.cn/uploadfiles/2023/05/20230510161534689.jpg"
+      ],
+      "资料下载": {
+        "型录手册": [],
+        "3D图纸": [],
+        "操作说明书": [],
+        "驱动器配置软件": []
+      }
+    }
+  },
+  "新能源汽车电驱系列": {
+    "乘用车三合一": {
+      "产品名称": "乘用车三合一",
+      "产品介绍": "",
+      "产品图片": "http://www.physis.com.cn/uploadfiles/2023/05/20230515122804412.png?5LmY55So6L2m5LiJ5ZCI5LiALnBuZw==",
+      "产品特点": [
+        "高、小、轻、低电机、减速器和控制器高度集成，电机和减速机共端盖，体积更小。定子端部短，铜耗更低，整体重量更轻。高功率密度和转矩密度采用扁铜线三相永磁同步电机，发卡式铜牌布局，槽满率更高，齿槽转矩及转矩纹波低，电机效率更高。单边焊点，减少绕组发热点散热性能优电机设计内部结构更紧凑，扁铜线之间接触面积大，绕组和铁芯槽接触更好，增大散热面积。可选用水冷或油冷两种冷却方式，冷却效率更高。噪音低扁线电机导线应力大，电枢刚度更优，能有效抑制电枢噪音。槽口尺寸小，减少齿槽力矩，进一步降低电机噪音。灵活定制控制器功率模块可选用SiC或双面水冷封装模块、HPD模块，功率模块820A或950A  IGBT可选。减速器（P档选装）多种不同速比可选，轴齿NVH效果达到行业先进水平。Class 3+带载EMC搭载Class 3+带载EMC，抗干扰性能优异。"
+      ],
+      "产品参数": [],
+      "资料下载": {
+        "型录手册": [],
+        "3D图纸": [],
+        "操作说明书": [],
+        "驱动器配置软件": []
+      }
+    },
+    "主驱电机控制器": {
+      "产品名称": "主驱电机控制器",
+      "产品介绍": "",
+      "产品图片": "http://www.physis.com.cn/uploadfiles/2023/05/20230515095256096.png?TUNVLnBuZw==",
+      "产品特点": [
+        "高可靠性高安全性",
+        "柔性定制兼容高压SiC平台",
+        "合理布局出水口与电机直连",
+        "扁平设计体积更小",
+        "双向高压母线输入适用前后驱",
+        "TPAK &  Hpdrive封装单元可选"
+      ],
+      "产品参数": [
+        "http://www.physis.com.cn/uploadfiles/2023/06/20230601173714392.png",
+        "http://www.physis.com.cn/uploadfiles/2023/06/20230601173715328.png",
+        "http://www.physis.com.cn/uploadfiles/2023/06/20230601173716342.png",
+        "http://www.physis.com.cn/uploadfiles/2023/06/20230601173717387.png",
+        "http://www.physis.com.cn/uploadfiles/2023/06/20230601173718433.png"
+      ],
+      "资料下载": {
+        "型录手册": [],
+        "3D图纸": [],
+        "操作说明书": [],
+        "驱动器配置软件": []
+      }
+    },
+    "新能源乘用汽车主驱电机": {
+      "产品名称": "新能源乘用汽车主驱电机",
+      "产品介绍": "",
+      "产品图片": "http://www.physis.com.cn/uploadfiles/2020/10/20201020111933334.png?5LmY55So6L2m5Ly65pyN55S15py6LeawtOWNsCAtIOWJr+acrC5wbmc=",
+      "产品特点": [
+        "优秀的极槽配比，提高有效材料利用率；多层磁钢增大磁阻占比，减少磁钢用量；精细化的槽型调整，优化高效区分布。采用扁铜线三相永磁同步电机，发卡式铜牌布局，槽满率更高，齿槽转矩及转矩纹波低，电机效率更高。单边焊点，减少绕组发热点。电机设计内部结构更紧凑，扁铜线之间接触面积大，绕组和铁芯槽接触更好，增大散热面积。可选用水冷或油冷两种冷却方式，冷却效率更高。扁线电机导线应力大，电枢刚度更优，能有效抑制电枢噪音;槽口尺寸小，减少齿槽力矩，进一步降低电机噪音。独特的环氧灌封技术，在保证电机绝缘性能的基础上，显著提高电机的导热性，提高整体刚性，降低电机噪音。"
+      ],
+      "产品参数": [
+        "http://www.physis.com.cn/uploadfiles/2023/06/20230602084532435.png",
+        "http://www.physis.com.cn/uploadfiles/2023/06/20230602091645716.png",
+        "http://www.physis.com.cn/uploadfiles/2023/06/20230602091646684.png",
+        "http://www.physis.com.cn/uploadfiles/2023/06/20230602091647744.png",
+        "http://www.physis.com.cn/uploadfiles/2023/06/20230602091648774.png",
+        "http://www.physis.com.cn/uploadfiles/2023/06/20230602091649804.png"
+      ],
+      "资料下载": {
+        "型录手册": [],
+        "3D图纸": [],
+        "操作说明书": [],
+        "驱动器配置软件": []
+      }
+    },
+    "减速机": {
+      "产品名称": "减速机",
+      "产品介绍": "",
+      "产品图片": "http://www.physis.com.cn/uploadfiles/2023/05/20230504143437889.png?5YeP6YCf5py6IOmFjeWbvi5wbmc=",
+      "产品特点": [
+        "低噪音高重合度齿轮副，齿轮副采用轮磨齿工艺，使减速器NVH性能更好，鬼频风险极低三轴采用调整垫片控制轴向间隙，规避纯电动汽车能量回收工况时的冲击噪音；高效率齿轮副滑移率小，可避免齿轮在高转速下发生烧蚀，且传递效率更高；三轴支撑轴承均选用深沟球轴承，摩擦损失较少，效率较高；体积小结构紧凑，重量轻，整机扭质大。"
+      ],
+      "产品参数": [
+        "http://www.physis.com.cn/uploadfiles/2023/05/20230504154342239.jpg",
+        "http://www.physis.com.cn/uploadfiles/2023/05/20230504154350804.jpg"
+      ],
+      "资料下载": {
+        "型录手册": [],
+        "3D图纸": [],
+        "操作说明书": [],
+        "驱动器配置软件": []
+      }
+    }
+  }
+}

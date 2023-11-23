@@ -1,0 +1,80 @@
+{
+  "网络/无线模块——WIFI/以太网/GPRS/CX-WIFI-2NET/4G模块": {
+    "产品名称": "网络/无线模块——WIFI/以太网/GPRS/CX-WIFI-2NET/4G模块",
+    "产品图片": "http://www.coolmay.com/kindeditor/attached/image/myUpload/7cr2Tt202125144405.png",
+    "产品特点": "",
+    "产品参数": {
+      "产品类型": {
+        "485/232转WIFI模块 CM-WIFI": {
+          "产  品  图  片": {
+            "正面": "http://www.coolmay.com/kindeditor/attached/image/20200104/20200104144924_1276.jpg",
+            "反面": "http://www.coolmay.com/kindeditor/attached/image/20200104/20200104145029_5541.jpg"
+          },
+          "安装方式": "标准导轨安装，可安装在NS35\\7.5或NS35导槽上",
+          "外观尺寸": "90*60*32mm",
+          "接线方式": "电源及RS232/485均采用可插拔端子",
+          "频率范围": "2.412GHz-2.484GHz",
+          "网络标准": "802.11 b/g/n",
+          "数据接口": "RS232、RS485 300bps～460800bps",
+          "网络类型": "STA/AP/STA+AP",
+          "网络协议": "IPv4,TCP/UDP/HTTP",
+          "用户配置": "内置网页/ 串口AT命令",
+          "串口速率": "300-460800bps",
+          "相关手册下载：《CM-WIFI模块手册》 《CM-GPRS模块手册》 《CX-WIFI-2NET手册》 《CX-4G模块手册》 软件下载： 《虚拟串口软件CM-VCOM》 《CM-GPRS模块设置软件》 《CM-NET模块设置软件》 《CX-4G模块设置软件 》": "相关手册下载：《CM-WIFI模块手册》 《CM-GPRS模块手册》 《CX-WIFI-2NET手册》 《CX-4G模块手册》 软件下载： 《虚拟串口软件CM-VCOM》 《CM-GPRS模块设置软件》 《CM-NET模块设置软件》 《CX-4G模块设置软件 》"
+        },
+        "485/232转GPRS 模块 CM-GPRS/ CX-GPRS-G (支持GPS定位功能)": {
+          "产  品  图  片": {
+            "正面": "http://www.coolmay.com/kindeditor/attached/image/20200104/20200104145118_4924.png",
+            "反面": "http://www.coolmay.com/kindeditor/attached/image/20200104/20200104145357_5398.png"
+          },
+          "安装方式": "标准导轨安装，可安装在NS35\\7.5或NS35导槽上",
+          "外观尺寸": "90*60*32mm",
+          "接线方式": "电源及RS232/485均采用可插拔端子",
+          "频率范围": "850/900/1800/  1900MHz 四频",
+          "网络标准": "GSM/GPRS/EDGE",
+          "数据接口": "RS232、RS485 2400bps～921600bps",
+          "网络类型": "GSM/GPRS/EDGE",
+          "网络协议": "TCP/UDP/DNS/HTTP",
+          "用户配置": "串口/网络/短信AT 指令  (提供配置软件)",
+          "串口速率": "2400-921600bps",
+          "相关手册下载：《CM-WIFI模块手册》 《CM-GPRS模块手册》 《CX-WIFI-2NET手册》 《CX-4G模块手册》 软件下载： 《虚拟串口软件CM-VCOM》 《CM-GPRS模块设置软件》 《CM-NET模块设置软件》 《CX-4G模块设置软件 》": "相关手册下载：《CM-WIFI模块手册》 《CM-GPRS模块手册》 《CX-WIFI-2NET手册》 《CX-4G模块手册》 软件下载： 《虚拟串口软件CM-VCOM》 《CM-GPRS模块设置软件》 《CM-NET模块设置软件》 《CX-4G模块设置软件 》"
+        },
+        "485/232转WIFI和以太网模块 CX-WIFI-2NET": {
+          "产  品  图  片": {
+            "正面": "https://cbu01.alicdn.com/img/ibank/2017/714/224/4022422417_952223100.jpg_.webp",
+            "反面": "https://cbu01.alicdn.com/img/ibank/2017/613/146/4024641316_952223100.jpg_.webp"
+          },
+          "安装方式": "标准导轨安装，可安装在NS35\\7.5或NS35导槽上",
+          "外观尺寸": "65*90*36mm",
+          "接线方式": "电源及RS232/485均采用可插拔端子",
+          "频率范围": "2.412GHz-2.484GHz",
+          "网络标准": "802.11 b/g/n",
+          "数据接口": "RS232、RS485 300bps-460800bps 以太网：100Mpbs",
+          "网络类型": "Station/AP 模式",
+          "网络协议": "TCP/UDP/ARP/ICMP/  DHCP/DNS/HTTP",
+          "用户配置": "Web 服务器＋AT 命令配置",
+          "串口速率": "2.412GHz-2.484GHz",
+          "相关手册下载：《CM-WIFI模块手册》 《CM-GPRS模块手册》 《CX-WIFI-2NET手册》 《CX-4G模块手册》 软件下载： 《虚拟串口软件CM-VCOM》 《CM-GPRS模块设置软件》 《CM-NET模块设置软件》 《CX-4G模块设置软件 》": "相关手册下载：《CM-WIFI模块手册》 《CM-GPRS模块手册》 《CX-WIFI-2NET手册》 《CX-4G模块手册》 软件下载： 《虚拟串口软件CM-VCOM》 《CM-GPRS模块设置软件》 《CM-NET模块设置软件》 《CX-4G模块设置软件 》"
+        },
+        "485/232转4G 模块 CX-4G": {
+          "产  品  图  片": {
+            "正面": "https://cbu01.alicdn.com/img/ibank/2017/400/514/4021415004_952223100.jpg_.webp",
+            "反面": "https://cbu01.alicdn.com/img/ibank/2017/379/304/4021403973_952223100.jpg_.webp"
+          },
+          "安装方式": "标准导轨安装，可安装在NS35\\7.5或NS35导槽上",
+          "外观尺寸": "65*90*36mm",
+          "接线方式": "电源及RS232/485均采用可插拔端子",
+          "频率范围": "5模12频",
+          "网络标准": "TDD-LTE/FDD-LTE WCDMA/ TD-SCDMA GSM/GPRS/EDGE",
+          "数据接口": "RS232、RS485 300-230400bps",
+          "网络类型": "TDD-LTE/FDD-LTE WCDMA/ TD-SCDMA GSM/GPRS/EDGE",
+          "网络协议": "TCP/UDP/DNS/HTT",
+          "用户配置": "串口/网络/短信 AT命令(提供配置软件)",
+          "串口速率": "300-230400bps",
+          "相关手册下载：《CM-WIFI模块手册》 《CM-GPRS模块手册》 《CX-WIFI-2NET手册》 《CX-4G模块手册》 软件下载： 《虚拟串口软件CM-VCOM》 《CM-GPRS模块设置软件》 《CM-NET模块设置软件》 《CX-4G模块设置软件 》": "相关手册下载：《CM-WIFI模块手册》 《CM-GPRS模块手册》 《CX-WIFI-2NET手册》 《CX-4G模块手册》 软件下载： 《虚拟串口软件CM-VCOM》 《CM-GPRS模块设置软件》 《CM-NET模块设置软件》 《CX-4G模块设置软件 》"
+        }
+      }
+    },
+    "安装尺寸": ""
+  }
+}

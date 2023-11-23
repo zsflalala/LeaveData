@@ -1,0 +1,3978 @@
+{
+  "机器人控制器": {
+    "产品名称": "机器人控制器",
+    "产品类别": "MRC01",
+    "产品网址": "https://www.orientalmotor.com.cn/products/ct/mrc01_f/",
+    "产品图片": "https://www.orientalmotor.com.cn/image/products/ct/series/mrc01_01.jpg",
+    "产品简介": "机器人控制器通过“初始设定”、“动作编程”、“动作确认”3 步，可轻松导入、控制自制机器人。可控制使用了混合控制系统αSTEP AZ系列/搭载AZ系列电动传动装置的自制机器人。下载目录PDF相关解决方案关联产品相关样机视频",
+    "资料下载": {
+      "下载目录PDF": "https://www.orientalmotor.com.cn/download/retry/?document_kind=4&product_name=3G4O5P6P7M2&file_name=document%2Fproducts%2Ffan%2Fcatalog%2F2211c003cpcpmrc01.pdf&title=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8E%A7%E5%88%B6%E5%99%A8%20MRC01&cad_no=",
+      "相关解决方案": "https://www.orientalmotor.com.cn/service/solution_application2/?CATEGORY=&BRAND_CD=OTHER",
+      "关联产品": "https://www.orientalmotor.com.cn/products/st/alpha_stepaz_p",
+      "相关样机视频": "https://www.orientalmotor.com.cn/video/list2/?CATEGORY=&BRAND_CD=ST"
+    },
+    "特征": {
+      "无PLC编程经验的机械设计人员也能简单操作": "MRC01可以通过编程软件MRC Studio设定的动作程序，仅用电脑轻松进行示教、动作确认。✽需要客户按照实际使用条件进行编程，本公司无法提供编程服务。",
+      "使用惯用的操作方法自动运行": "MRC01即使是控制的初学者，也可简单通过开关的ON／OFF来直接控制运行。另外，可以和既有的PLC连接进行自动运行、也可通过连接对应EtherNet/IP™的PLC／IPC、触摸屏一边监控一边自动运行。",
+      "在现有系统中轻松导入自制机器人": "通过EtherNet/IP™直接控制MRC01与上一级系统的协作。无需对现有设备的控制系统进行较大更改，即可轻松追加导入自制机器人。✽ 1 MRC01也可通过I/O连接（无上一级设备）运行。✽ 2 MRC01和AZ系列的驱动器之间通过RS-485通信进行控制。✽启动机器人前客户应负责事先对机器人实施充分的安全确认。对于机器人系统整体的安全性，本公司不承担任何责任。",
+      "即使第一次也能简单设置": "备有从自制机器人的初期设定到动作编程都能简单进行设定的“编程软件MRC Studio”另外，也备有用于在购买MRC01之前体验操作感的编程软件体验版。▶点此下载编程软件MRC Studio。Step1. 按照指导说明，可简单地初始设定。以向导形式进行机器人类型的选择和机构信息的输入等一系列初始设定。\r\n通过边看图解边按照指导说明进行设定，即使是第一次，也能在短时间内完成机器人的初始设定。■按步骤设定根据向导菜单推荐机器人的初始设定。■边看机器人的图解边输入机械臂长度等尺寸尺寸直接输入到图解内的输入栏中。■选择机器人类型■自制机器人可以很简单Step2. 不需要梯形图知识。通过项目选择，对动作进行编程。创建程序是选择指令的简单方法。无需梯形图等专业知识即可直观地创建程序。支持P to P运行、线性插补运行、圆弧插补运行、拱形运动等 。\r\n此外，也可从上一级控制器经由EtherNet/IP直接执行运行数据。■拖放所需指令从“指令”栏中选择必要的动作，拖放到“程序”栏中，\r\n则显示“指令设定”栏。■设定目标位置和速度“指令设定”栏中输入目标位置的坐标·移动量、速度。Step3.在线3D模拟中确认动作。可在3D模拟器上确认机器人的工作程序。运行实机前，可对程序进行简单的检查。✽ 不能在脱机时使用。",
+      "对应产品": "AZ系列及搭载了AZ系列的电动传动装置。产品种类丰富，机器人设计自由度高有助于配合自制机器人。AZ系列电动机▶查看详细介绍AZ系列内藏定位型驱动器▶查看详细介绍AZ系列mini驱动器RS-485通信型▶查看详细介绍搭载AZ系列的电动传动装置 ---------------------------------------------------------------------电动滑台▶EAS系列▶EZS系列▶电动缸EAC系列小型电动缸▶DR系列▶DRS2系列▶中空旋转式传动装置DGII系列齿轮·齿条系统▶L系列▶LJ直线减速机▶电动夹爪EH系列",
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/ct/series/mrc01_08.jpg",
+        "https://www.orientalmotor.com.cn/image/products/ct/series/mrc01_02.jpg",
+        "https://www.orientalmotor.com.cn/image/products/ct/series/mrc01_09.jpg",
+        "https://www.orientalmotor.com.cn/image/products/ct/series/mrc01_03.jpg",
+        "https://www.orientalmotor.com.cn/image/products/ct/series/mrc01_04.jpg",
+        "https://www.orientalmotor.com.cn/image/products/ct/series/mrc01_10.jpg",
+        "https://www.orientalmotor.com.cn/image/products/ct/series/mrc01_05.jpg",
+        "https://www.orientalmotor.com.cn/image/products/ct/series/mrc01_06.jpg",
+        "https://www.orientalmotor.com.cn/image/products/ct/series/mrc01_07.jpg",
+        "https://www.orientalmotor.com.cn/products_file/st/image/pcj_azm66ac_d.jpg",
+        "https://www.orientalmotor.com.cn/image/service/s71_16.jpg",
+        "https://www.orientalmotor.com.cn/image/service/mobile_automation_07.png",
+        "https://www.orientalmotor.com.cn/image/service/s71_12.jpg",
+        "https://www.orientalmotor.com.cn/image/service/s71_13.jpg",
+        "https://www.orientalmotor.com.cn/image/service/s71_11.jpg",
+        "https://www.orientalmotor.com.cn/image/service/s71_10.jpg",
+        "https://www.orientalmotor.com.cn/image/service/s71_14.jpg",
+        "https://www.orientalmotor.com.cn/image/service/s71_15.jpg"
+      ],
+      "movie": [
+        "https://www.orientalmotor.com.cn/file/video_det/mrc01.mp4",
+        "https://www.orientalmotor.com.cn/file/video_det/orimo_robot.mp4"
+      ],
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/service/softwaredl/mrcstudio/",
+        "https://www.orientalmotor.com.cn/products/st/az_mini_f/",
+        "https://www.orientalmotor.com.cn/products/st/astep_az_f/",
+        "https://www.orientalmotor.com.cn/products/st/astep_az_v/",
+        "https://www.orientalmotor.com.cn/products/st/astep_az_f/",
+        "https://www.orientalmotor.com.cn/products/st/az_mini_f/",
+        "https://www.orientalmotor.com.cn/products/limo/slider_eas_f/",
+        "https://www.orientalmotor.com.cn/products/limo/slider_ezs_f/",
+        "https://www.orientalmotor.com.cn/products/limo/cylinder_eac_f/",
+        "https://www.orientalmotor.com.cn/products/limo/draz_f/",
+        "https://www.orientalmotor.com.cn/products/limo/cla_drs2_az_f/",
+        "https://www.orientalmotor.com.cn/products/limo/rha_dg2_az_f/",
+        "https://www.orientalmotor.com.cn/products/limo/l_az_f/",
+        "https://www.orientalmotor.com.cn/products/limo/lj_az_f/",
+        "https://www.orientalmotor.com.cn/products/limo/eh_f/"
+      ]
+    },
+    "规格选购": {
+      "text": "以下产品暂时无法在线购买，如需购买还请联络客户咨询中心或距离您最近的销售点（",
+      "table": {
+        "Unnamed: 0": {
+          "机器人控制器": [
+            {
+              "品名": "MRC01"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "免增益调整AC伺服电动机组合产品": {
+    "产品名称": "免增益调整AC伺服电动机组合产品",
+    "产品类别": "NX系列",
+    "产品网址": "https://www.orientalmotor.com.cn/products/sv/tuningless_nx_f/",
+    "产品图片": "https://www.orientalmotor.com.cn/image/products/sv/series/nx_image_stop.jpg",
+    "产品简介": "简单操作可实现高精度控制的AC伺服电动机组合产品。免增益调整，可进行大惯性负载及皮带驱动下的顺畅运行。",
+    "特征": {
+      "简单运转": "像步进电动机那样，无需进行增益调整，能够稳定地运行大惯性驱动及皮带机构的驱动。此外，如手动进行增益调整，则能够进行更严格负载条件下的运行。◇ 实现了大惯性驱动自动增益调整时最大可进行转子转动惯量50倍的运行。此外，手动增益调整时，最大可进行转子转动惯量100倍的运行。◇ 实现了皮带机构下的顺畅运行皮带机构也能够像步进电动机那样运行。运行时不会在停止前发生振动等现象。",
+      "简单操作": "各种基本设定、调整可通过面板上的开关· 旋钮进行。无需繁琐的UP · DOWN键操作或使用电脑等。",
+      "简单设定· 简单监控": "使用另售的数据设定器（OPX-2A）或数据设定软件（MEXE02），可实现更匹配客户系统的参数变更· 功能设定· 各种监控。● 运行状态波形监控✽✽ 进行运行状态波形监控，需要另售的数据设定软件（MEXE02）。",
+      "4种控制模式": "可在4种控制模式下执行运转。此外，使用另售的数据设定器（OPX-2A）或数据设定软件（MEXE02）可扩展各控制模式的功能。更多信息",
+      "保护等级IP65": "适合在切削粉尘及水滴飞溅等需要防尘、防水的环境下使用的IP65标准。（标准型、带电磁制动、PS减速机型：不包括安装面和连接器部PJ减速机型：不包括连接器部）",
+      "使用附属电缆进行简单连接": "NX系列附属连接电动机与驱动器的电缆线。可选择1m、2m、3m。此外，需要3m以上电缆线或耐弯曲性更好的电缆线时请从选购配件（另售）中选择。",
+      "将主电源与控制用电源隔开": "与主电源分开，单独安装控制电源输入端子。即使发生紧急停止等导致主电源被断开，只要向控制电源输入端子供电（DC24V），就能够进行位置检测· 警报内容确认等。（即使只给主电源供电，也仍能够运转。）",
+      "对应半导体制造设备规格「SEMI F47」": "● 对应SEMI规格中的电源电压下降规格。● 用于半导体制造装置时有效。（请务必使用实机装置进行评估。）",
+      "高性能减速电动机": "提供60∼104mm的4种安装尺寸的减速电动机及驱动器的组合产品。更多信息",
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/sv/series/nx_01_stop.jpg",
+        "https://www.orientalmotor.com.cn/image/products/sv/series/nx_02_stop.jpg",
+        "https://www.orientalmotor.com.cn/image/products/sv/series/nx_03_stop.jpg",
+        "https://www.orientalmotor.com.cn/image/products/sv/series/nx_09_stop.jpg"
+      ],
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/products/sv/tuningless_nx_f_1/",
+        "https://www.orientalmotor.com.cn/products/sv/tuningless_nx_f_2/"
+      ]
+    },
+    "规格选购": {
+      "text": "请点击相应链接进一步选购产品",
+      "机型链接": [
+        "https://www.orientalmotor.com.cn/products/sv/list/?series_code=KE00&type_code=Standard_component",
+        "https://www.orientalmotor.com.cn/products/sv/list/?series_code=KE00&type_code=PS_component"
+      ],
+      "table": {
+        "机型": {
+          "标准型": [
+            {
+              "额定输出 [W]": "50",
+              "安装尺寸 [mm]": "42.0",
+              "减速比": "-",
+              "额定转矩 [N･m]": "0.159",
+              "容许转矩 [N･m]": "-",
+              "齿隙 [min]": "-"
+            },
+            {
+              "额定输出 [W]": "100",
+              "安装尺寸 [mm]": "42.0",
+              "减速比": "-",
+              "额定转矩 [N･m]": "0.318",
+              "容许转矩 [N･m]": "-",
+              "齿隙 [min]": "-"
+            },
+            {
+              "额定输出 [W]": "200",
+              "安装尺寸 [mm]": "60.0",
+              "减速比": "-",
+              "额定转矩 [N･m]": "0.637",
+              "容许转矩 [N･m]": "-",
+              "齿隙 [min]": "-"
+            },
+            {
+              "额定输出 [W]": "400",
+              "安装尺寸 [mm]": "60.0",
+              "减速比": "-",
+              "额定转矩 [N･m]": "1.27",
+              "容许转矩 [N･m]": "-",
+              "齿隙 [min]": "-"
+            }
+          ],
+          "PS减速机型": [
+            {
+              "额定输出 [W]": "50",
+              "安装尺寸 [mm]": "60.0",
+              "减速比": "1:5 1:10 1:25",
+              "额定转矩 [N･m]": "-",
+              "容许转矩 [N･m]": "0.716 ～ 3.22",
+              "齿隙 [min]": "15"
+            },
+            {
+              "额定输出 [W]": "100",
+              "安装尺寸 [mm]": "60.0",
+              "减速比": "1:5 1:10 1:25",
+              "额定转矩 [N･m]": "-",
+              "容许转矩 [N･m]": "1.43 ～ 6.44",
+              "齿隙 [min]": "15"
+            },
+            {
+              "额定输出 [W]": "200",
+              "安装尺寸 [mm]": "90.0",
+              "减速比": "1:5 1:10 1:25",
+              "额定转矩 [N･m]": "-",
+              "容许转矩 [N･m]": "2.87 ～ 12.9",
+              "齿隙 [min]": "15"
+            },
+            {
+              "额定输出 [W]": "400",
+              "安装尺寸 [mm]": "90.0",
+              "减速比": "1:5 1:10 1:25",
+              "额定转矩 [N･m]": "-",
+              "容许转矩 [N･m]": "5.72 ～ 25.7",
+              "齿隙 [min]": "15"
+            }
+          ],
+          "1:5 1:10 1:25": [
+            {
+              "额定输出 [W]": "-",
+              "安装尺寸 [mm]": "nan",
+              "减速比": "nan",
+              "额定转矩 [N･m]": "nan",
+              "容许转矩 [N･m]": "nan",
+              "齿隙 [min]": "nan"
+            },
+            {
+              "额定输出 [W]": "-",
+              "安装尺寸 [mm]": "nan",
+              "减速比": "nan",
+              "额定转矩 [N･m]": "nan",
+              "容许转矩 [N･m]": "nan",
+              "齿隙 [min]": "nan"
+            },
+            {
+              "额定输出 [W]": "-",
+              "安装尺寸 [mm]": "nan",
+              "减速比": "nan",
+              "额定转矩 [N･m]": "nan",
+              "容许转矩 [N･m]": "nan",
+              "齿隙 [min]": "nan"
+            },
+            {
+              "额定输出 [W]": "-",
+              "安装尺寸 [mm]": "nan",
+              "减速比": "nan",
+              "额定转矩 [N･m]": "nan",
+              "容许转矩 [N･m]": "nan",
+              "齿隙 [min]": "nan"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "αSTEP AZ系列": {
+    "产品名称": "步进伺服混合控制系统αSTEP",
+    "产品类别": "αSTEP AZ系列 ",
+    "产品网址": "https://www.orientalmotor.com.cn/products/st/astep_az_f/",
+    "产品图片": "https://www.orientalmotor.com.cn/image/products/st/azcp.jpg",
+    "产品简介": "搭载新研发的ABZO编码器，无需电池就能实现绝对方式的定位。驱动方式有脉冲序列型和可实现I/O控制的内藏定位型供选择。产品种类丰富。下载目录PDF相关解决方案关联产品相关样机视频申请纸质目录",
+    "资料下载": {
+      "下载目录PDF": "https://www.orientalmotor.com.cn/download/retry/?document_kind=4&product_name=3G4O5P6P7M2&file_name=document%2Fproducts%2Ffan%2Fcatalog%2F2107l034cpcpaz.pdf&title=AZ系列 搭载免电池绝对式编码器%0D%0A&cad_no=",
+      "相关解决方案": "https://www.orientalmotor.com.cn/service/solution_application2/?CATEGORY=&BRAND_CD=ALPHA",
+      "关联产品": "https://www.orientalmotor.com.cn/products/st/alpha_stepaz_p",
+      "相关样机视频": "https://www.orientalmotor.com.cn/video/list2/?CATEGORY=&BRAND_CD=ST"
+    },
+    "特征": {
+      "搭载新研发的ABZO编码器": "东方马达全新开发的小型·低成本，不需要电池的机械式绝对编码器。有助于提升生产性及降低成本，销售价格也相当实惠。●机械式编码器模拟时钟根据秒针、长针、短针的位置测定当前时间。ABZO编码器是搭载多个相当于时钟时针的齿轮的机械式编码器。通过识别各齿轮的角度来检测位置信息，因此，不需要电池。●多回转绝对式编码器可根据作为基准的原点，利用电动机轴检测±900 转（1800次旋转）✽ 的绝对位置。✽安装尺寸20mm、28mm为±450转（900次旋转）。●轻松设定原点设定原点时，只需按下驱动器表面的开关，非常简单，通过ABZO编码器保存原点位置。此外，还可使用支援软件（MEXE02）及外部输入信号设定原点。▶点此下载支援软件MEXE02",
+      "无需外部传感器": "由于是绝对定位，因此，不需要原点传感器、限位传感器等外部传感器。●提升：高速原点返回+原点返回运行精度在无外部传感器的情况下可执行原点返回，因此，无需考虑传感器感应的规格，就能够高速执行原点返回，缩短机器工作周期。而且，无需考虑原点传感器的误差，执行原点返回，可提升原点精度。●降低成本可减少传感器费用及配线费用，降低系统成本。●节省配线可节省配线，提升装置设计的自由度。●不会受到外部传感器误动作的影响无需担心外部传感器误动作（金属加工时，金属片溅飞的环境及油雾干扰的环境等）及故障、断线等情况。・不安装限位传感器时，使用驱动器的软件限位，可防止出现超出界限值的动作。●AZ系列-免外部传感器多轴样机演示视频：",
+      "无需电池": "由于是机械式编码器，因此，不需要电池。位置信息由ABZO编码器以机械方式管理。●保持位置信息定位运行中，切断电源或拆掉电动机/驱动器之间的电缆线，仍会保持位置信息。内藏定位型时，在生产线紧急停止及从停电状态下恢复运行时，即使不执行原点返回也能够重新开始定位运行。・位置信息保持在ABZO编码器中，因此，临时更换电动机时，需重新设定原点。●AZ系列-断电后重新启动演示视频：●降低维护成本无需更换电池，可减少维护的工时及降低成本。●可自由安装驱动器无需预留用于更换电池的空间，因此，驱动器的安装场所不受限制，有效提升控制盘等布局设计的自由度。●海外运输也安心普通电池会自行放电，因此，出口海外等需长时间运输时，需引起注意。ABZO编码器无需电池，可无限期保持位置信息。而且也无需考虑出口海外时针对电池的各种限制等。",
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/st/azcp_2.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/astep_az01.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/astep_az02.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/astep_az03.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/astep_az04.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/astep_az05.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/astep_az06.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/astep_az07.jpg"
+      ],
+      "movie": [
+        "https://www.orientalmotor.com.cn/file/video_det/az_typing.mp4",
+        "https://www.orientalmotor.com.cn/file/video_det/az005.mp4"
+      ],
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/products/st/astep_az_f/",
+        "https://www.orientalmotor.com.cn/products/st/astep_az_f/02",
+        "https://www.orientalmotor.com.cn/products/st/astep_az_f/03",
+        "https://www.orientalmotor.com.cn/products/st/astep_az_f/04",
+        "https://www.orientalmotor.com.cn/service/softwaredl/mexe02_dl/"
+      ]
+    },
+    "规格选购": {
+      "品名阅读方法": "https://www.orientalmotor.com.cn/image/service/azpm.jpg",
+      "AC电源输入": {
+        "table": {
+          "驱动器类型": {
+            "内藏定位型 / 脉冲序列输入型 / 带RS485通信的 脉冲序列输入型 / 对应EtherCAT / 对应 EtherNet/IP / 对应PROFINET": [
+              {
+                "机型": "标准型NEW",
+                "安装尺寸 [mm]": "42.0",
+                "励磁最大静止转矩 [N・m]": "0.3 ～0.77",
+                "齿隙 [arcmin]": "-",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.36",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "标准型NEW",
+                "安装尺寸 [mm]": "60.0",
+                "励磁最大静止转矩 [N・m]": "1.2 ～ 2",
+                "齿隙 [arcmin]": "-",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.36",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "标准型NEW",
+                "安装尺寸 [mm]": "85.0",
+                "励磁最大静止转矩 [N・m]": "2 ～ 4",
+                "齿隙 [arcmin]": "-",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.36",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-TS减速机型NEW （直齿轮机构）",
+                "安装尺寸 [mm]": "42.0",
+                "励磁最大静止转矩 [N・m]": "0.65 ～ 2.3",
+                "齿隙 [arcmin]": "15 ～ 45",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.012 ～ 0.1",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-TS减速机型NEW （直齿轮机构）",
+                "安装尺寸 [mm]": "60.0",
+                "励磁最大静止转矩 [N・m]": "1.8 ～ 6",
+                "齿隙 [arcmin]": "10 ～ 35",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.012 ～ 0.1",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-TS减速机型NEW （直齿轮机构）",
+                "安装尺寸 [mm]": "90.0",
+                "励磁最大静止转矩 [N・m]": "6 ～ 25",
+                "齿隙 [arcmin]": "10 ～ 25",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.012 ～ 0.1",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-PS减速机型 （行星齿轮机构）",
+                "安装尺寸 [mm]": "42.0",
+                "励磁最大静止转矩 [N・m]": "1 ～ 3",
+                "齿隙 [arcmin]": "15",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.0072 ～ 0.072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-PS减速机型 （行星齿轮机构）",
+                "安装尺寸 [mm]": "60.0",
+                "励磁最大静止转矩 [N・m]": "3.5 ～ 8",
+                "齿隙 [arcmin]": "7 ～ 9",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.0072 ～ 0.072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-PS减速机型 （行星齿轮机构）",
+                "安装尺寸 [mm]": "90.0",
+                "励磁最大静止转矩 [N・m]": "10 ～ 37",
+                "齿隙 [arcmin]": "7 ～ 9",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.0072 ～ 0.072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-HPG减速机型（凸缘输出） （Harmonic Planetary®）",
+                "安装尺寸 [mm]": "40.0",
+                "励磁最大静止转矩 [N・m]": "1.5 ～ 2.5",
+                "齿隙 [arcmin]": "3",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.04 ～ 0.024",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-HPG减速机型（凸缘输出） （Harmonic Planetary®）",
+                "安装尺寸 [mm]": "60.0",
+                "励磁最大静止转矩 [N・m]": "5.9 ～ 9",
+                "齿隙 [arcmin]": "3",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.04 ～ 0.024",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-HPG减速机型（凸缘输出） （Harmonic Planetary®）",
+                "安装尺寸 [mm]": "90.0",
+                "励磁最大静止转矩 [N・m]": "10 ～ 24",
+                "齿隙 [arcmin]": "3",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.024 ～ 0.072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-HPG减速机型（轴输出） （Harmonic Planetary®）",
+                "安装尺寸 [mm]": "40.0",
+                "励磁最大静止转矩 [N・m]": "1.5 ～ 2.5",
+                "齿隙 [arcmin]": "3",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.04 ～ 0.024",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-HPG减速机型（轴输出） （Harmonic Planetary®）",
+                "安装尺寸 [mm]": "60.0",
+                "励磁最大静止转矩 [N・m]": "5.9 ～ 9",
+                "齿隙 [arcmin]": "3",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.04 ～ 0.024",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-HPG减速机型（轴输出） （Harmonic Planetary®）",
+                "安装尺寸 [mm]": "90.0",
+                "励磁最大静止转矩 [N・m]": "10 ～ 24",
+                "齿隙 [arcmin]": "3",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.024 ～ 0.072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-谐波减速机型 （谐波驱动®）",
+                "安装尺寸 [mm]": "42.0",
+                "励磁最大静止转矩 [N・m]": "3.5 ～ 5",
+                "齿隙 [arcmin]": "-",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.0036 ～ 0.0072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-谐波减速机型 （谐波驱动®）",
+                "安装尺寸 [mm]": "60.0",
+                "励磁最大静止转矩 [N・m]": "7 ～ 10",
+                "齿隙 [arcmin]": "-",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.0036 ～ 0.0072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-谐波减速机型 （谐波驱动®）",
+                "安装尺寸 [mm]": "90.0",
+                "励磁最大静止转矩 [N・m]": "33 ～ 52",
+                "齿隙 [arcmin]": "-",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.0036 ～ 0.0072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-直交轴 FC减速机型（朝上）",
+                "安装尺寸 [mm]": "42.0",
+                "励磁最大静止转矩 [N・m]": "0.7 ～ 3",
+                "齿隙 [arcmin]": "15 ～ 25",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.012 ～ 0.05",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-直交轴 FC减速机型（朝上）",
+                "安装尺寸 [mm]": "60.0",
+                "励磁最大静止转矩 [N・m]": "2.5 ～ 10.5",
+                "齿隙 [arcmin]": "10 ～ 25",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.012 ～ 0.05",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-直交轴 FC减速机型（朝下）",
+                "安装尺寸 [mm]": "42.0",
+                "励磁最大静止转矩 [N・m]": "0.7 ～ 3",
+                "齿隙 [arcmin]": "15 ～ 25",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.012 ～ 0.05",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-直交轴 FC减速机型（朝下）",
+                "安装尺寸 [mm]": "60.0",
+                "励磁最大静止转矩 [N・m]": "2.5 ～ 10.5",
+                "齿隙 [arcmin]": "10 ～ 25",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.012 ～ 0.05",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "直交轴 FC减速机型（朝下）",
+                "安装尺寸 [mm]": "nan",
+                "励磁最大静止转矩 [N・m]": "nan",
+                "齿隙 [arcmin]": "nan",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "nan",
+                "电磁制动-有": "nan",
+                "电磁制动-无": "nan"
+              },
+              {
+                "机型": "nan",
+                "安装尺寸 [mm]": "nan",
+                "励磁最大静止转矩 [N・m]": "nan",
+                "齿隙 [arcmin]": "nan",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "nan",
+                "电磁制动-有": "nan",
+                "电磁制动-无": "nan"
+              },
+              {
+                "机型": "nan",
+                "安装尺寸 [mm]": "nan",
+                "励磁最大静止转矩 [N・m]": "nan",
+                "齿隙 [arcmin]": "nan",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "nan",
+                "电磁制动-有": "nan",
+                "电磁制动-无": "nan"
+              }
+            ]
+          }
+        },
+        "机型链接": []
+      },
+      "DC电源输入": {
+        "table": {
+          "驱动器类型": {
+            "内藏定位型 / 脉冲序列输入型 / 带RS-485通信 的脉冲序列输入型 / 对应EtherCAT / 对应 EtherNet/IP / 对应PROFINET": [
+              {
+                "机型": "标准型",
+                "安装尺寸 [mm]": "20",
+                "励磁最大静止转矩 [N・m]": "0.02 ～ 0.036",
+                "齿隙 [arcmin]": "-",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.36",
+                "电磁制动-有": "-",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "标准型",
+                "安装尺寸 [mm]": "28",
+                "励磁最大静止转矩 [N・m]": "0.095 ～ 0.19",
+                "齿隙 [arcmin]": "-",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.36",
+                "电磁制动-有": "-",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "标准型",
+                "安装尺寸 [mm]": "42NEW",
+                "励磁最大静止转矩 [N・m]": "0.3 ～0.72",
+                "齿隙 [arcmin]": "-",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.36",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "标准型",
+                "安装尺寸 [mm]": "60NEW",
+                "励磁最大静止转矩 [N・m]": "1 ～ 2",
+                "齿隙 [arcmin]": "-",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.36",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-TS减速机型NEW （直齿轮机构）",
+                "安装尺寸 [mm]": "42",
+                "励磁最大静止转矩 [N・m]": "0.65 ～ 2.3",
+                "齿隙 [arcmin]": "15 ～ 45",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.012 ～ 0.1",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-TS减速机型NEW （直齿轮机构）",
+                "安装尺寸 [mm]": "60",
+                "励磁最大静止转矩 [N・m]": "1.8 ～ 6",
+                "齿隙 [arcmin]": "10 ～ 35",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.012 ～ 0.1",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-PS减速机型 （行星齿轮机构）",
+                "安装尺寸 [mm]": "28NEW",
+                "励磁最大静止转矩 [N・m]": "0.3 ～ 0.5",
+                "齿隙 [arcmin]": "35",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.036 ～ 0.05",
+                "电磁制动-有": "-",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-PS减速机型 （行星齿轮机构）",
+                "安装尺寸 [mm]": "42",
+                "励磁最大静止转矩 [N・m]": "1 ～ 3",
+                "齿隙 [arcmin]": "15",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.0072 ～ 0.072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-PS减速机型 （行星齿轮机构）",
+                "安装尺寸 [mm]": "60",
+                "励磁最大静止转矩 [N・m]": "3.5 ～ 8",
+                "齿隙 [arcmin]": "7 ～ 9",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.0072 ～ 0.072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-HPG减速机型（凸缘输出） （Harmonic Planetary®）",
+                "安装尺寸 [mm]": "40",
+                "励磁最大静止转矩 [N・m]": "1.5 ～ 2.5",
+                "齿隙 [arcmin]": "3",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.04 ～ 0.072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-HPG减速机型（凸缘输出） （Harmonic Planetary®）",
+                "安装尺寸 [mm]": "60",
+                "励磁最大静止转矩 [N・m]": "5 ～ 9",
+                "齿隙 [arcmin]": "3",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.04 ～ 0.072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-HPG减速机型（轴输出） （Harmonic Planetary®）",
+                "安装尺寸 [mm]": "40",
+                "励磁最大静止转矩 [N・m]": "1.5 ～ 2.5",
+                "齿隙 [arcmin]": "3",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.04 ～ 0.072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-HPG减速机型（轴输出） （Harmonic Planetary®）",
+                "安装尺寸 [mm]": "60",
+                "励磁最大静止转矩 [N・m]": "5 ～ 9",
+                "齿隙 [arcmin]": "3",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.04 ～ 0.072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-谐波减速机型 （谐波驱动®）",
+                "安装尺寸 [mm]": "30NEW",
+                "励磁最大静止转矩 [N・m]": "1.8 ～ 2.4",
+                "齿隙 [arcmin]": "-",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.0036 ～ 0.0072",
+                "电磁制动-有": "-",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-谐波减速机型 （谐波驱动®）",
+                "安装尺寸 [mm]": "42",
+                "励磁最大静止转矩 [N・m]": "3.5 ～ 5",
+                "齿隙 [arcmin]": "-",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.0036 ～ 0.0072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "无 齿 隙-谐波减速机型 （谐波驱动®）",
+                "安装尺寸 [mm]": "60",
+                "励磁最大静止转矩 [N・m]": "7 ～ 10",
+                "齿隙 [arcmin]": "-",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.0036 ～ 0.0072",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-直交轴 FC减速机（朝上）",
+                "安装尺寸 [mm]": "42",
+                "励磁最大静止转矩 [N・m]": "0.7 ～ 3",
+                "齿隙 [arcmin]": "15 ～ 25",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.012 ～ 0.05",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-直交轴 FC减速机（朝上）",
+                "安装尺寸 [mm]": "60",
+                "励磁最大静止转矩 [N・m]": "2.5 ～ 10.5",
+                "齿隙 [arcmin]": "10 ～ 15",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.012 ～ 0.05",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-直交轴 FC减速机（朝下）",
+                "安装尺寸 [mm]": "42",
+                "励磁最大静止转矩 [N・m]": "0.7 ～ 3",
+                "齿隙 [arcmin]": "15 ～ 25",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.012 ～ 0.05",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              },
+              {
+                "机型": "小 齿 隙-直交轴 FC减速机（朝下）",
+                "安装尺寸 [mm]": "60",
+                "励磁最大静止转矩 [N・m]": "2.5 ～ 10.5",
+                "齿隙 [arcmin]": "10 ～ 15",
+                "分辨率 （1000P/R设定时） [゜/脉冲]": "0.012 ～ 0.05",
+                "电磁制动-有": "○",
+                "电磁制动-无": "○"
+              }
+            ]
+          }
+        },
+        "机型链接": []
+      },
+      "AZ系列 多轴驱动器（DC电源输入）": {
+        "text": "对应EtherCAT、MECHATROLINK-Ⅲ、SSCNETⅢ/H 的多轴驱动器、可连接本公司AZ系列DC电源输入电动机及搭载该电动机的电动传动装置。 备有可连接双轴、3轴、4轴的驱动器。 ▶点此查看详细介绍",
+        "table": {
+          "对应网络": {
+            "对应SSCNETⅢ/H": [
+              {
+                "电源电压": "DC24V / 48V",
+                "轴数-双轴": "●",
+                "轴数-3轴": "●",
+                "轴数-4轴": "●"
+              }
+            ],
+            "对应MECHATROLINK-Ⅲ": [
+              {
+                "电源电压": "DC24V / 48V",
+                "轴数-双轴": "●",
+                "轴数-3轴": "●",
+                "轴数-4轴": "●"
+              }
+            ],
+            "对应EtherCAT※": [
+              {
+                "电源电压": "DC24V / 48V",
+                "轴数-双轴": "●",
+                "轴数-3轴": "●",
+                "轴数-4轴": "●"
+              }
+            ]
+          }
+        },
+        "机型链接": [
+          "https://www.orientalmotor.com.cn/products/st/list/?series_code=HS02&type_code=AZ%e7%b3%bb%e5%88%97%e5%a4%9a%e8%bd%b4%e9%a9%b1%e5%8a%a8%e5%99%a8%20%e5%af%b9%e5%ba%94%20SSCNET%20III%2fH",
+          "https://www.orientalmotor.com.cn/products/st/list/?series_code=HS02&type_code=AZ%e7%b3%bb%e5%88%97%e5%a4%9a%e8%bd%b4%e9%a9%b1%e5%8a%a8%e5%99%a8%20%e5%af%b9%e5%ba%94%20MECHATROLINK%2dIII",
+          "https://www.orientalmotor.com.cn/products/st/list/?series_code=HS02&type_code=AZ%e7%b3%bb%e5%88%97%e5%a4%9a%e8%bd%b4%e9%a9%b1%e5%8a%a8%e5%99%a8%20%e5%af%b9%e5%ba%94%20EtherCAT%20%e9%a9%b1%e5%8a%a8%e5%99%a8%e9%85%8d%e7%bd%ae%e6%96%87%e4%bb%b6"
+        ]
+      },
+      "AZ系列 对应 EtherNet/IP ™ 驱动器；AZ系列 对应EtherCAT驱动器AZ系列 对应PROFINET驱动器": {
+        "text": "可与本公司AZ系列的电动机和搭载此类电动机的电动传动装置连接。用途广泛。 ▶查看 对应 EtherNet/IP ™ 驱动器 详细介绍 ▶查看 对应EtherCAT 驱动器 详细介绍 ▶查看 对应PROFINET驱动器 详细介绍",
+        "table1": {
+          "电源输入": {
+            "单相 100-120V": [
+              {
+                "对应 EtherNet/IP ™ 驱动器 品名": "AZD-AEP"
+              }
+            ],
+            "单相/三相 200-240V": [
+              {
+                "对应 EtherNet/IP ™ 驱动器 品名": "AZD-CEP"
+              }
+            ],
+            "DC24/48V": [
+              {
+                "对应 EtherNet/IP ™ 驱动器 品名": "AZD-KEP"
+              }
+            ]
+          }
+        },
+        "table2": {
+          "电源输入": {
+            "单相 100-120V": [
+              {
+                "EtherCAT 配置文件对应驱动器 品名": "AZD-AED"
+              }
+            ],
+            "单相/三相 200-240V": [
+              {
+                "EtherCAT 配置文件对应驱动器 品名": "AZD-CED"
+              }
+            ],
+            "DC24/48V": [
+              {
+                "EtherCAT 配置文件对应驱动器 品名": "AZD-KED"
+              }
+            ]
+          }
+        },
+        "table3": {
+          "电源输入": {
+            "单相 100-120V": [
+              {
+                "对应PROFINET驱动器 品名※": "AZD-APN"
+              }
+            ],
+            "单相/三相 200-240V": [
+              {
+                "对应PROFINET驱动器 品名※": "AZD-CPN"
+              }
+            ],
+            "DC24/48V": [
+              {
+                "对应PROFINET驱动器 品名※": "AZD-KPN"
+              }
+            ]
+          }
+        },
+        "机型链接": [
+          "https://www.orientalmotor.com.cn/products/st/az_ethernetdriver_f/",
+          "https://www.orientalmotor.com.cn/products/st/az_ethercatdriver_f/",
+          "https://www.orientalmotor.com.cn/products/st/az_profinet_f/",
+          "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-AEP",
+          "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-CEP",
+          "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-KEP",
+          "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-AED",
+          "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-CED",
+          "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-KED"
+        ]
+      },
+      "AZ系列 DC电源输入 mini驱动器 ": {
+        "text": "比盒型驱动器更小。通过mini驱动器，实现装置的小型化、 节能化。 可对应电池驱动，可用于比以往更多的用途。 ▶查看详细介绍",
+        "机型链接": [
+          "https://www.orientalmotor.com.cn/products/st/az_mini_f/"
+        ]
+      },
+      "选购配件": [
+        {
+          "AC电源输入用电缆线": [
+            {
+              "连接用电缆线套件": {
+                "种类": {
+                  "标准电动机用": [
+                    {
+                      "品名": "CC005VZF",
+                      "品名.1": "CC010VZF"
+                    },
+                    {
+                      "品名": "CC015VZF",
+                      "品名.1": "CC020VZF"
+                    },
+                    {
+                      "品名": "CC025VZF",
+                      "品名.1": "CC030VZF"
+                    },
+                    {
+                      "品名": "CC040VZF",
+                      "品名.1": "CC050VZF"
+                    },
+                    {
+                      "品名": "CC070VZF",
+                      "品名.1": "CC100VZF"
+                    },
+                    {
+                      "品名": "CC150VZF",
+                      "品名.1": "CC200VZF"
+                    }
+                  ],
+                  "带电磁制动电动机用": [
+                    {
+                      "品名": "CC005VZFB",
+                      "品名.1": "CC010VZFB"
+                    },
+                    {
+                      "品名": "CC015VZFB",
+                      "品名.1": "CC020VZFB"
+                    },
+                    {
+                      "品名": "CC025VZFB",
+                      "品名.1": "CC030VZFB"
+                    },
+                    {
+                      "品名": "CC040VZFB",
+                      "品名.1": "CC050VZFB"
+                    },
+                    {
+                      "品名": "CC070VZFB",
+                      "品名.1": "CC100VZFB"
+                    },
+                    {
+                      "品名": "CC150VZFB",
+                      "品名.1": "CC200VZFB"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "可动连接用电缆线套件": {
+                "种类": {
+                  "标准电动机用": [
+                    {
+                      "品名": "CC005VZR",
+                      "品名.1": "CC010VZR"
+                    },
+                    {
+                      "品名": "CC015VZR",
+                      "品名.1": "CC020VZR"
+                    },
+                    {
+                      "品名": "CC025VZR",
+                      "品名.1": "CC030VZR"
+                    },
+                    {
+                      "品名": "CC040VZR",
+                      "品名.1": "CC050VZR"
+                    },
+                    {
+                      "品名": "CC070VZR",
+                      "品名.1": "CC100VZR"
+                    },
+                    {
+                      "品名": "CC150VZR",
+                      "品名.1": "CC200VZR"
+                    }
+                  ],
+                  "带电磁制动电动机用": [
+                    {
+                      "品名": "CC005VZRB",
+                      "品名.1": "CC010VZRB"
+                    },
+                    {
+                      "品名": "CC015VZRB",
+                      "品名.1": "CC020VZRB"
+                    },
+                    {
+                      "品名": "CC025VZRB",
+                      "品名.1": "CC030VZRB"
+                    },
+                    {
+                      "品名": "CC040VZRB",
+                      "品名.1": "CC050VZRB"
+                    },
+                    {
+                      "品名": "CC070VZRB",
+                      "品名.1": "CC100VZRB"
+                    },
+                    {
+                      "品名": "CC150VZRB",
+                      "品名.1": "CC200VZRB"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "中继电缆线套件": {
+                "种类": {
+                  "标准电动机用": [
+                    {
+                      "品名": "CC010VZFT",
+                      "品名.1": "CC070VZFT"
+                    },
+                    {
+                      "品名": "CC020VZFT",
+                      "品名.1": "CC100VZFT"
+                    },
+                    {
+                      "品名": "CC030VZFT",
+                      "品名.1": "CC150VZFT"
+                    },
+                    {
+                      "品名": "CC050VZFT",
+                      "品名.1": "nan"
+                    }
+                  ],
+                  "带电磁制动电动机用": [
+                    {
+                      "品名": "CC010VZFBT",
+                      "品名.1": "CC070VZFBT"
+                    },
+                    {
+                      "品名": "CC020VZFBT",
+                      "品名.1": "CC100VZFBT"
+                    },
+                    {
+                      "品名": "CC030VZFBT",
+                      "品名.1": "CC150VZFBT"
+                    },
+                    {
+                      "品名": "CC050VZFBT",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "可动中继电缆线套件": {
+                "种类": {
+                  "标准电动机用": [
+                    {
+                      "品名": "CC010VZRT",
+                      "品名.1": "CC070VZRT"
+                    },
+                    {
+                      "品名": "CC020VZRT",
+                      "品名.1": "CC100VZRT"
+                    },
+                    {
+                      "品名": "CC030VZRT",
+                      "品名.1": "CC150VZRT"
+                    },
+                    {
+                      "品名": "CC050VZRT",
+                      "品名.1": "nan"
+                    }
+                  ],
+                  "带电磁制动电动机用": [
+                    {
+                      "品名": "CC010VZRBT",
+                      "品名.1": "CC070VZRBT"
+                    },
+                    {
+                      "品名": "CC020VZRBT",
+                      "品名.1": "CC100VZRBT"
+                    },
+                    {
+                      "品名": "CC030VZRBT",
+                      "品名.1": "CC150VZRBT"
+                    },
+                    {
+                      "品名": "CC050VZRBT",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "其他电缆线": {
+                "种类": {
+                  "输入/输出信号用 通用电缆线": [
+                    {
+                      "品名": "CC06D005B-1",
+                      "品名.1": "CC06D010B-1"
+                    },
+                    {
+                      "品名": "CC06D015B-1",
+                      "品名.1": "CC06D020B-1"
+                    },
+                    {
+                      "品名": "CC10D005B-1",
+                      "品名.1": "CC10D010B-1"
+                    },
+                    {
+                      "品名": "CC10D015B-1",
+                      "品名.1": "CC10D020B-1"
+                    },
+                    {
+                      "品名": "CC12D005B-1",
+                      "品名.1": "CC12D010B-1"
+                    },
+                    {
+                      "品名": "CC12D015B-1",
+                      "品名.1": "CC12D020B-1"
+                    },
+                    {
+                      "品名": "CC16D005B-1",
+                      "品名.1": "CC16D010B-1"
+                    },
+                    {
+                      "品名": "CC16D015B-1",
+                      "品名.1": "CC16D020B-1"
+                    }
+                  ],
+                  "RS-485通信用电缆线": [
+                    {
+                      "品名": "CC002-RS4",
+                      "品名.1": "nan"
+                    },
+                    {
+                      "品名": "nan",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "DC电源输入用电缆线": [
+            {
+              "连接用电缆线套件": {
+                "种类": {
+                  "标准电动机用 [AZM14、AZM15、AZM24、AZM26用]": [
+                    {
+                      "品名": "CC005VZ2F2",
+                      "品名.1": "CC010VZ2F2"
+                    },
+                    {
+                      "品名": "CC015VZ2F2",
+                      "品名.1": "CC020VZ2F2"
+                    },
+                    {
+                      "品名": "CC025VZ2F2",
+                      "品名.1": "CC030VZ2F2"
+                    },
+                    {
+                      "品名": "CC040VZ2F2",
+                      "品名.1": "CC050VZ2F2"
+                    },
+                    {
+                      "品名": "CC070VZ2F2",
+                      "品名.1": "CC100VZ2F2"
+                    },
+                    {
+                      "品名": "CC150VZ2F2",
+                      "品名.1": "CC200VZ2F2"
+                    }
+                  ],
+                  "标准电动机用 [AZM46、AZM66、AZM69用]": [
+                    {
+                      "品名": "CC005VZF2",
+                      "品名.1": "CC010VZF2"
+                    },
+                    {
+                      "品名": "CC015VZF2",
+                      "品名.1": "CC020VZF2"
+                    },
+                    {
+                      "品名": "CC025VZF2",
+                      "品名.1": "CC030VZF2"
+                    },
+                    {
+                      "品名": "CC040VZF2",
+                      "品名.1": "CC050VZF2"
+                    },
+                    {
+                      "品名": "CC070VZF2",
+                      "品名.1": "CC100VZF2"
+                    },
+                    {
+                      "品名": "CC150VZF2",
+                      "品名.1": "CC200VZF2"
+                    }
+                  ],
+                  "带电磁制动电动机用 [AZM46、AZM66、AZM69用]": [
+                    {
+                      "品名": "CC005VZFB2",
+                      "品名.1": "CC010VZFB2"
+                    },
+                    {
+                      "品名": "CC015VZFB2",
+                      "品名.1": "CC020VZFB2"
+                    },
+                    {
+                      "品名": "CC025VZFB2",
+                      "品名.1": "CC030VZFB2"
+                    },
+                    {
+                      "品名": "CC040ZFB2",
+                      "品名.1": "CC050VZFB2"
+                    },
+                    {
+                      "品名": "CC070VZFB2",
+                      "品名.1": "CC100VZFB2"
+                    },
+                    {
+                      "品名": "CC150VZFB2",
+                      "品名.1": "CC200VZFB2"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "可动连接用电缆线套件": {
+                "种类": {
+                  "标准电动机用 [AZM14、AZM15、AZM24、AZM26用]": [
+                    {
+                      "品名": "CC005VZ2R2",
+                      "品名.1": "CC010VZ2R2"
+                    },
+                    {
+                      "品名": "CC015VZ2R2",
+                      "品名.1": "CC020VZ2R2"
+                    },
+                    {
+                      "品名": "CC025VZ2R2",
+                      "品名.1": "CC030VZ2R2"
+                    },
+                    {
+                      "品名": "CC040VZR2",
+                      "品名.1": "CC050VZ2R2"
+                    },
+                    {
+                      "品名": "CC070VZR2",
+                      "品名.1": "CC100VZ2R2"
+                    },
+                    {
+                      "品名": "CC150VZR2",
+                      "品名.1": "CC200VZ2R2"
+                    }
+                  ],
+                  "标准电动机用 [AZM46、AZM66、AZM69用]": [
+                    {
+                      "品名": "CC005VZR2",
+                      "品名.1": "CC010VZR2"
+                    },
+                    {
+                      "品名": "CC015VZR2",
+                      "品名.1": "CC020VZR2"
+                    },
+                    {
+                      "品名": "CC025VZR2",
+                      "品名.1": "CC030VZR2"
+                    },
+                    {
+                      "品名": "CC040VZR2",
+                      "品名.1": "CC050VZR2"
+                    },
+                    {
+                      "品名": "CC070VZR2",
+                      "品名.1": "CC100VZR2"
+                    },
+                    {
+                      "品名": "CC150VZR2",
+                      "品名.1": "CC200VZR2"
+                    }
+                  ],
+                  "带电磁制动电动机用 [AZM46、AZM66、AZM69用]": [
+                    {
+                      "品名": "CC005VZRB2",
+                      "品名.1": "CC010VZRB2"
+                    },
+                    {
+                      "品名": "CC015VZRB2",
+                      "品名.1": "CC020VZRB2"
+                    },
+                    {
+                      "品名": "CC025VZRB2",
+                      "品名.1": "CC030VZRB2"
+                    },
+                    {
+                      "品名": "CC040VZRB2",
+                      "品名.1": "CC050VZRB2"
+                    },
+                    {
+                      "品名": "CC070VZRB2",
+                      "品名.1": "CC100VZRB2"
+                    },
+                    {
+                      "品名": "CC150VZRB2",
+                      "品名.1": "CC200VZRB2"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "中继电缆线/中继电缆线套件": {
+                "种类": {
+                  "中继电缆线 标准电动机用 [AZM14、AZM15、AZM24、AZM26用]": [
+                    {
+                      "品名": "CC010VZ2FT",
+                      "品名.1": "CC070VZ2FT"
+                    },
+                    {
+                      "品名": "CC020VZ2FT",
+                      "品名.1": "CC100VZ2FT"
+                    },
+                    {
+                      "品名": "CC030VZ2FT",
+                      "品名.1": "CC150VZ2FT"
+                    },
+                    {
+                      "品名": "CC050VZ2FT",
+                      "品名.1": "nan"
+                    }
+                  ],
+                  "中继电缆线套件 标准电动机用 [AZM46、AZM66、AZM69用]": [
+                    {
+                      "品名": "CC010VZFT",
+                      "品名.1": "CC070VZFT"
+                    },
+                    {
+                      "品名": "CC020VZFT",
+                      "品名.1": "CC100VZFT"
+                    },
+                    {
+                      "品名": "CC030VZFT",
+                      "品名.1": "CC150VZFT"
+                    },
+                    {
+                      "品名": "CC050VZFT",
+                      "品名.1": "nan"
+                    }
+                  ],
+                  "中继电缆线套件 带电磁制动电动机用 [AZM46、AZM66、AZM69用]": [
+                    {
+                      "品名": "CC010VZFBT",
+                      "品名.1": "CC070VZFBT"
+                    },
+                    {
+                      "品名": "CC020VZFBT",
+                      "品名.1": "CC100VZFBT"
+                    },
+                    {
+                      "品名": "CC030VZFBT",
+                      "品名.1": "CC150VZFBT"
+                    },
+                    {
+                      "品名": "CC050VZFBT",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "可动中继电缆线/可动中继电缆线套件": {
+                "种类": {
+                  "可动中继电缆线 标准电动机用 [AZM14、AZM15、AZM24、AZM26用]": [
+                    {
+                      "品名": "CC010VZ2RT",
+                      "品名.1": "CC070VZ2RT"
+                    },
+                    {
+                      "品名": "CC020VZ2RT",
+                      "品名.1": "CC100VZ2RT"
+                    },
+                    {
+                      "品名": "CC030VZ2RT",
+                      "品名.1": "CC150VZ2RT"
+                    },
+                    {
+                      "品名": "CC050VZ2RT",
+                      "品名.1": "nan"
+                    }
+                  ],
+                  "可动中继电缆线套件 标准电动机用 [AZM46、AZM66、AZM69用]": [
+                    {
+                      "品名": "CC010VZRT",
+                      "品名.1": "CC070VZRT"
+                    },
+                    {
+                      "品名": "CC020VZRT",
+                      "品名.1": "CC100VZRT"
+                    },
+                    {
+                      "品名": "CC030VZRT",
+                      "品名.1": "CC150VZRT"
+                    },
+                    {
+                      "品名": "CC050VZRT",
+                      "品名.1": "nan"
+                    }
+                  ],
+                  "可动中继电缆线套件 带电磁制动电动机用 [AZM46、AZM66、AZM69用]": [
+                    {
+                      "品名": "CC010VZRBT",
+                      "品名.1": "CC070VZRBT"
+                    },
+                    {
+                      "品名": "CC020VZRBT",
+                      "品名.1": "CC100VZRBT"
+                    },
+                    {
+                      "品名": "CC030VZRBT",
+                      "品名.1": "CC150VZRBT"
+                    },
+                    {
+                      "品名": "CC050VZRBT",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "其他电缆线": {
+                "种类": {
+                  "输入/输出信号用 通用电缆线": [
+                    {
+                      "品名": "CC06D005B-1",
+                      "品名.1": "CC06D010B-1"
+                    },
+                    {
+                      "品名": "CC06D015B-1",
+                      "品名.1": "CC06D020B-1"
+                    },
+                    {
+                      "品名": "CC10D005B-1",
+                      "品名.1": "CC10D010B-1"
+                    },
+                    {
+                      "品名": "CC10D015B-1",
+                      "品名.1": "CC10D020B-1"
+                    },
+                    {
+                      "品名": "CC12D005B-1",
+                      "品名.1": "CC12D010B-1"
+                    },
+                    {
+                      "品名": "CC12D015B-1",
+                      "品名.1": "CC12D020B-1"
+                    },
+                    {
+                      "品名": "CC16D005B-1",
+                      "品名.1": "CC16D010B-1"
+                    },
+                    {
+                      "品名": "CC16D015B-1",
+                      "品名.1": "CC16D020B-1"
+                    }
+                  ],
+                  "RS-485通信用电缆线": [
+                    {
+                      "品名": "CC001-RS4",
+                      "品名.1": "CC002-RS4"
+                    },
+                    {
+                      "品名": "nan",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "系统构成": {
+      "AC电源输入": {
+        "img": [
+          "https://www.orientalmotor.com.cn/image/products/st/azs01.jpg",
+          "https://www.orientalmotor.com.cn/image/products/st/azs02.jpg"
+        ]
+      },
+      "DC电源输入": {
+        "img": [
+          "https://www.orientalmotor.com.cn/image/products/st/azsdc03.jpg",
+          "https://www.orientalmotor.com.cn/image/products/st/azsdc04.jpg"
+        ]
+      }
+    }
+  },
+  "2相·5相步进步进电动机驱动器": {
+    "产品名称": "2相·5相步进步进电动机驱动器",
+    "产品类别": "CVD系列",
+    "产品网址": "https://www.orientalmotor.com.cn/products/st/cvd_f/",
+    "产品图片": "https://www.orientalmotor.com.cn/image/products/st/cvd00.jpg",
+    "产品简介": "2相·5相步进步进电动机用DC电源输入驱动器。\r\n低振动设计的驱动器搭载微步驱动功能，实现更低振动。\r\n提供可根据安装方式、电缆线出线方向选择的3种驱动器 。下载目录PDF相关解决方案关联产品相关样机视频申请纸质目录",
+    "资料下载": {
+      "下载目录PDF": "https://www.orientalmotor.com.cn/image/service/goucheng.png",
+      "相关解决方案": "https://www.orientalmotor.com.cn/service/solution_application2/?CATEGORY=&BRAND_CD=ST",
+      "关联产品": "https://www.orientalmotor.com.cn/products/st/stepmotor_pkp2_f/",
+      "相关样机视频": "https://www.orientalmotor.com.cn/video/list2/?CATEGORY=&BRAND_CD=ST"
+    },
+    "特征": {
+      "可根据用途来选择的驱动器": "●脉冲序列输入型满足希望通过脉冲序列输入简单同步运行的需求。高效率设计·高转矩·底振动化，性能有了更好的提升的脉冲序列输入型驱动器。●RS-485通信型驱动器满足希望通过Modbus（RTU）控制移动、通过触摸屏简单设定数据的驱动器。和步进电动机PKP系列配合使用可提升多种性能",
+      "低速状态下高转矩、低振动的2相": "和PKP系列搭配使用更能发挥通过修改电动机线圈设计及驱动电路的高效率设计，实现高电流化，低速状态下大幅提升转矩。特别是250r/min左右的转矩与原有产品相比提升了50%。此外，与普通的2相步进电动机相比，振动、噪音也得以大幅改进。◇ 低速状态下高转矩采用双极性接线，保持转矩得以提升。◇ 低振动采用全数字控制的微步驱动器，全速度范围内抗振特性显著提升。",
+      "全速度状态下高转矩、低振动· 低噪音的5相": "和PKP系列搭配使用更能发挥通过修改电动机线圈设计及驱动电路的\r\n高效率设计，较大限度发挥5相电动机的性能，实现全速度状态下大\r\n幅提升转矩。500r/min左右的转矩与原有产品相比提升了85%。此\r\n外，利用全数字控制的微步驱动功能，进一步提升原有产品的基本性\r\n能，振动、噪音更小。◇ 全速度状态下高转矩通过电动机线圈规格的高电流化大幅扩展应用领域。◇ 更低振动、更小噪音采用全数字控制的微步驱动器，实现更低振动，更小噪音。",
+      "使用微步驱动": "有效抑制振动领域。采用全数字控制的微步驱动器，大幅改善振动幅度，在全速度领域下实现更低振动，更小噪音。",
+      "高精度定位，选择5相。": "通过微步驱动，可将分辨率提高到最大125000P/R。微步驱动时与整步驱动时相比，普遍有停止精度变差的情况，2相尤为显著。这种情况下，可采用PKP系列5相电动机搭配CVD驱动器实现更高精度的定位。",
+      "小规格的高性能驱动器": "●有利于节省空间的小型、轻量驱动器●可提早发现驱动器异常的保护功能●可实现平衡运行的平滑驱动功能●可通过数字开关设定运行电流",
+      "高效率设计": "CVD系列与原有产品相比，增加了输出电流，实现了高转矩。为了能够增加输出电流，在设计时充分考虑了降低发热。",
+      "可根据安装方法来选择驱动器": "备有符合安装方法的形状、连接器朝向不同的驱动器。●备有2相、5相。●带安装板水平出线型连接器为横向水平方向。●带安装板垂直出线型连接器为向上垂直方向。●基板安装型 S型安装有基板型的驱动器。・本产品暂时无法在线购买，如需购买还请联络距离您最近的销售点（▶点此查看联络方式）",
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/st/cvd09.png",
+        "https://www.orientalmotor.com.cn/image/products/st/cvd01.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/cvd02.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/cvd03.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/cvd04.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/cvd05.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/cvd06.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/cvd07.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/cvd08.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/cvd13.png",
+        "https://www.orientalmotor.com.cn/image/products/st/cvd10.png",
+        "https://www.orientalmotor.com.cn/image/products/st/cvd11.png",
+        "https://www.orientalmotor.com.cn/image/products/st/cvd12.png"
+      ],
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/ask/"
+      ]
+    },
+    "规格选购": {
+      "品名阅读方法": "https://www.orientalmotor.com.cn/image/products/st/cvdpm.jpg",
+      "table": {
+        "种类": {
+          "2相步进电动机用双极驱动驱动器": [
+            {
+              "种类.1": "带安装板 水平出线型 带安装板 不带安装板",
+              "电源输入": "DC24V"
+            }
+          ],
+          "5步进电动机用驱动器": [
+            {
+              "种类.1": "带安装板 水平出线型 带安装板 不带安装板",
+              "电源输入": "DC24V"
+            }
+          ]
+        }
+      },
+      "RS-485通信型驱动器": "满足希望通过Modbus（RTU）控制移动、通过触摸屏简单设定数据的驱动器。（点击品名查看详细规格）2相：、5相：、",
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/products/st/list/?series_code=HT02",
+        "https://www.orientalmotor.com.cn/products/st/list/?series_code=HT05",
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=CVD2B-KR",
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=CVD2BR-KR",
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=CVD5B-KR",
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=CVD5BR-KR"
+      ]
+    }
+  },
+  "2相步进电动机": {
+    "产品名称": "2相步进电动机",
+    "产品类别": "PKP系列（2相）",
+    "产品网址": "https://www.orientalmotor.com.cn/products/st/stepmotor_pkp2_f/",
+    "产品图片": "https://www.orientalmotor.com.cn/image/products/st/pkp2.jpg",
+    "产品简介": "高转矩的2相步进电动机。备有每转200分割（基本步距角：1.8°/step）的标准型，每转400分割（基本步距角：0.9°/step）的高分辨率型，高转矩、高分辨率的SH减速机型、CS减速机型等丰富的产品阵容。▶PKP系列短交期产品订购次日即可出库！（点此查看）下载目录PDF相关解决方案关联产品相关样机视频申请纸质目录",
+    "资料下载": {
+      "下载目录PDF": "https://www.orientalmotor.com.cn/image/service/goucheng.png",
+      "相关解决方案": "https://www.orientalmotor.com.cn/service/solution_application2/?CATEGORY=&BRAND_CD=ST",
+      "关联产品": "https://www.orientalmotor.com.cn/products/st/stepmotor_pkp5_f/",
+      "相关样机视频": "https://www.orientalmotor.com.cn/video/list2/?CATEGORY=&BRAND_CD=ST"
+    },
+    "特征": {
+      "从低速领域到高速领域的转矩提升": "PKP系列更改磁性设计及构造设计后，与同尺寸的PK系列标准型相比，实现了转矩的大幅提升。此外，使用高电流型的电动机，可实现高速领\r\n域的转矩提升。通过更改电动机线圈设计以及驱动器电路的高效率化设计，可实现高电流化。实\r\n现了从低速领域到高速领域的转矩提升。",
+      "采用小型、薄型连接器": "PKP系列采用小型·薄型连接器，缩短了连接器部位的伸出长度。此外，出线方向改为朝上，使电动机电缆线的出线方向自由度提升。●仅为部分产品，详情请参阅各电动机的外形图。",
+      "更低振动": "通过更改磁性设计，实现了比原有产品更低的振动。",
+      "小型化": "使用与PK系列标准型相同转矩的PKP系列，可实现电动机小型化。",
+      "高分辨率型": "基本步进角0.9°的高分辨率步进电动机。停止精度大为提高。●分辨率提升（相比标准型）转子的齿数设定成标准型50个小齿的2倍100个，因此，基本步距角变成标准型的一半0.9°。●停止精度提高（相比标准型）由于转矩起动快，摩擦负载的影响小，因此，停止精度大为提高。●避开共振领域如果使用的脉冲速度位于共振领域，可能会出现振动增大的情况。更改成高分辨率型，就能够避开共振领域。●点击观看介绍视频：PKP系列高分辨率型",
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/st/pkp2_01.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/pkp2_02.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/pkp2_03.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/pkp2_04.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/pkp2_05.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/pkp2_06.jpg"
+      ],
+      "movie": [
+        "https://www.orientalmotor.com.cn/file/video_det/PKP_03_High_Resolution_Type.mp4 "
+      ],
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/image/products/st/astep_az09.jpg"
+      ]
+    },
+    "规格选购": {
+      "品名阅读方法": "https://www.orientalmotor.com.cn/file/products/st/series/pkp2pm.pdf",
+      "标准型": {
+        "电动机类型": {
+          "标准": [
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "20.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.02～0.036",
+              "额定电流 [A/相]": "0.5～0.6",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "20.0",
+              "接线方式": "单极性5根导线",
+              "最大励磁转矩 [N・m]": "0.014～0.026",
+              "额定电流 [A/相]": "0.5～0.6",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "28.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.095～0.19",
+              "额定电流 [A/相]": "1.5",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "28.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.075～0.135",
+              "额定电流 [A/相]": "0.95",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "35.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.2～0.37",
+              "额定电流 [A/相]": "1.5～2.3",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "35.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.16～0.3",
+              "额定电流 [A/相]": "1.2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.35～0.99",
+              "额定电流 [A/相]": "0.85～2.3",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "单极性5根导线",
+              "最大励磁转矩 [N・m]": "0.26～0.75",
+              "额定电流 [A/相]": "0.8～1.6",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.25～0.75",
+              "额定电流 [A/相]": "0.4～1.2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "50.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.63～1.99",
+              "额定电流 [A/相]": "2.8",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "50.0",
+              "接线方式": "单极性5根导线",
+              "最大励磁转矩 [N・m]": "0.48～1.54",
+              "额定电流 [A/相]": "2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "56.4",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.6～2.5",
+              "额定电流 [A/相]": "1.4～4.2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "56.4",
+              "接线方式": "单极性5根导线",
+              "最大励磁转矩 [N・m]": "0.58～2",
+              "额定电流 [A/相]": "1～2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "56.4",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.51～1.75",
+              "额定电流 [A/相]": "1～3",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "60.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "1.06～3.1",
+              "额定电流 [A/相]": "2.8",
+              "系列": "PK"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "60.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.75～2.2",
+              "额定电流 [A/相]": "2",
+              "系列": "PK"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "85.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "3.3～9.5",
+              "额定电流 [A/相]": "4.5～6.3",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "85.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "2.6～7.3",
+              "额定电流 [A/相]": "2～4.5",
+              "系列": "PKP"
+            }
+          ],
+          "带编码器": [
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "20.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.02～0.036",
+              "额定电流 [A/相]": "0.5～0.6",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "20.0",
+              "接线方式": "单极性5根导线",
+              "最大励磁转矩 [N・m]": "0.014～0.026",
+              "额定电流 [A/相]": "0.5～0.6",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "28.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.095～0.19",
+              "额定电流 [A/相]": "1.5",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "28.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.075～0.135",
+              "额定电流 [A/相]": "0.95",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "35.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.2～0.37",
+              "额定电流 [A/相]": "1.5～2.3",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "35.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.16～0.3",
+              "额定电流 [A/相]": "1.2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.35～0.99",
+              "额定电流 [A/相]": "0.85～2.3",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "单极性5根导线",
+              "最大励磁转矩 [N・m]": "0.26～0.75",
+              "额定电流 [A/相]": "0.8～1.6",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "50.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.63～1.99",
+              "额定电流 [A/相]": "2.8",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "50.0",
+              "接线方式": "单极性5根导线",
+              "最大励磁转矩 [N・m]": "0.48～1.54",
+              "额定电流 [A/相]": "2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "56.4",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.74～2.5",
+              "额定电流 [A/相]": "1.4～4.2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "56.4",
+              "接线方式": "单极性5根导线",
+              "最大励磁转矩 [N・m]": "0.58～2",
+              "额定电流 [A/相]": "1～2",
+              "系列": "PKP"
+            }
+          ],
+          "带电磁制动": [
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "28.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.095～0.19",
+              "额定电流 [A/相]": "1.5",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "28.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.075～0.135",
+              "额定电流 [A/相]": "0.95",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "35.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.2～0.37",
+              "额定电流 [A/相]": "1.5",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "35.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.16～0.3",
+              "额定电流 [A/相]": "1.2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.35～0.99",
+              "额定电流 [A/相]": "2.3",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.25～0.75",
+              "额定电流 [A/相]": "0.95～1.2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "56.4",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.74～2.5",
+              "额定电流 [A/相]": "2.8",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "56.4",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.51～1.75",
+              "额定电流 [A/相]": "2",
+              "系列": "PKP"
+            }
+          ]
+        }
+      },
+      "高分辨率型": {
+        "电动机类型": {
+          "标准": [
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "28.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.086～0.165",
+              "额定电流 [A/相]": "1.5",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "28.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.07～0.124",
+              "额定电流 [A/相]": "0.95",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.3～0.82",
+              "额定电流 [A/相]": "1.5",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "单极性5根导线",
+              "最大励磁转矩 [N・m]": "0.26～0.65",
+              "额定电流 [A/相]": "1.2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.25～0.35",
+              "额定电流 [A/相]": "0.95～1.2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "56.4",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.6～2.3",
+              "额定电流 [A/相]": "2.8",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "56.4",
+              "接线方式": "单极性5根导线",
+              "最大励磁转矩 [N・m]": "0.55～1.8",
+              "额定电流 [A/相]": "2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "56.4",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.51～1.75",
+              "额定电流 [A/相]": "2",
+              "系列": "PKP"
+            }
+          ],
+          "带编码器": [
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "28.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.086～0.165",
+              "额定电流 [A/相]": "1.5",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "28.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.07～0.124",
+              "额定电流 [A/相]": "0.95",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.32～0.82",
+              "额定电流 [A/相]": "1.5",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "单极性5根导线",
+              "最大励磁转矩 [N・m]": "0.26～0.65",
+              "额定电流 [A/相]": "0.95～1.2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.25",
+              "额定电流 [A/相]": "0.95",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "56.4",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.7～2.3",
+              "额定电流 [A/相]": "2.8",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "56.4",
+              "接线方式": "单极性5根导线",
+              "最大励磁转矩 [N・m]": "0.55～1.8",
+              "额定电流 [A/相]": "2",
+              "系列": "PKP"
+            }
+          ],
+          "带电磁制动": [
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.3～0.42",
+              "额定电流 [A/相]": "1.5",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "42.0",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.25～0.35",
+              "额定电流 [A/相]": "0.95～1.2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "56.4",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.6～2.23",
+              "额定电流 [A/相]": "2.8",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.9",
+              "安装尺寸 [mm]": "56.4",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.51～1.75",
+              "额定电流 [A/相]": "2",
+              "系列": "PKP"
+            }
+          ]
+        }
+      },
+      "SH减速机型": {
+        "电动机类型": {
+          "标准": [
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "42 （厚17mm）",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.1",
+              "额定电流 [A/相]": "2.3",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "1.8",
+              "安装尺寸 [mm]": "60 （厚16mm）",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.18",
+              "额定电流 [A/相]": "1.5",
+              "系列": "PKP"
+            }
+          ],
+          "带谐波减速机": [
+            {
+              "基本步距角 [°]": "0.018 ～0.036",
+              "安装尺寸 [mm]": "51 (厚29.5mm)",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "1.8～2.4",
+              "额定电流 [A/相]": "2.3",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.018 ～0.036",
+              "安装尺寸 [mm]": "61 (厚32mm)",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "3.7～5",
+              "额定电流 [A/相]": "1.5",
+              "系列": "PKP"
+            }
+          ]
+        }
+      },
+      "薄型": {
+        "电动机类型": {
+          "标准": [
+            {
+              "基本步距角 [°]": "0.05～0.5",
+              "安装尺寸 [mm]": "28",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.3～0.4",
+              "额定电流 [A/相]": "1.5",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.05～0.5",
+              "安装尺寸 [mm]": "28",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "0.3～0.4",
+              "额定电流 [A/相]": "0.95",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.05～0.5",
+              "安装尺寸 [mm]": "42",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.2～0.8",
+              "额定电流 [A/相]": "1.5～2.3",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.05～0.5",
+              "安装尺寸 [mm]": "42",
+              "接线方式": "单极性5根导线",
+              "最大励磁转矩 [N・m]": "0.2～0.8",
+              "额定电流 [A/相]": "0.95",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.05～0.5",
+              "安装尺寸 [mm]": "60",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "1～4",
+              "额定电流 [A/相]": "1.4～2.8",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.05～0.5",
+              "安装尺寸 [mm]": "60",
+              "接线方式": "单极性5根导线",
+              "最大励磁转矩 [N・m]": "1～4",
+              "额定电流 [A/相]": "1～2",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.05～0.5",
+              "安装尺寸 [mm]": "90",
+              "接线方式": "单极性6根导线",
+              "最大励磁转矩 [N・m]": "2.5～12",
+              "额定电流 [A/相]": "1.5～3",
+              "系列": "PK"
+            }
+          ],
+          "带编码器": [
+            {
+              "基本步距角 [°]": "0.05～0.5",
+              "安装尺寸 [mm]": "28",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.2～0.8",
+              "额定电流 [A/相]": "1.5～2.3",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.05～0.5",
+              "安装尺寸 [mm]": "28",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "1.5～2.3",
+              "额定电流 [A/相]": "PKP",
+              "系列": "nan"
+            },
+            {
+              "基本步距角 [°]": "0.05～0.5",
+              "安装尺寸 [mm]": "42",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "1～4",
+              "额定电流 [A/相]": "PKP",
+              "系列": "nan"
+            },
+            {
+              "基本步距角 [°]": "0.05～0.5",
+              "安装尺寸 [mm]": "42",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "1～4",
+              "额定电流 [A/相]": "2.8",
+              "系列": "PKP"
+            }
+          ]
+        }
+      },
+      "CS减速机型": {
+        "电动机类型": {
+          "标准 NEW": [
+            {
+              "基本步距角 [°]": "0.09 ～ 0.18",
+              "安装尺寸 [mm]": "28※",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.4 ～ 0.8",
+              "额定电流 [A/相]": "1.5",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.09 ～ 0.18",
+              "安装尺寸 [mm]": "28※",
+              "接线方式": "双极性6根导线",
+              "最大励磁转矩 [N・m]": "0.4 ～ 0.8",
+              "额定电流 [A/相]": "0.95",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.09 ～ 0.36",
+              "安装尺寸 [mm]": "42",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "0.5 ～ 2",
+              "额定电流 [A/相]": "1.5 ～ 2.3",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "0.09 ～ 0.36",
+              "安装尺寸 [mm]": "60",
+              "接线方式": "双极性4根导线",
+              "最大励磁转矩 [N・m]": "1.3 ～ 4.5",
+              "额定电流 [A/相]": "1.4 ～ 2.8",
+              "系列": "PKP"
+            },
+            {
+              "基本步距角 [°]": "PKP",
+              "安装尺寸 [mm]": "nan",
+              "接线方式": "nan",
+              "最大励磁转矩 [N・m]": "nan",
+              "额定电流 [A/相]": "nan",
+              "系列": "nan"
+            }
+          ],
+          "PKP": [
+            {
+              "基本步距角 [°]": "nan",
+              "安装尺寸 [mm]": "nan",
+              "接线方式": "nan",
+              "最大励磁转矩 [N・m]": "nan",
+              "额定电流 [A/相]": "nan",
+              "系列": "nan"
+            }
+          ]
+        }
+      },
+      "选购配件": [
+        {
+          "电动机连接用电缆线": [
+            {
+              "连接用电缆线": {
+                "种类": {
+                  "安装尺寸28mm 双极性（4根导线）用 连接用电缆线": [
+                    {
+                      "品名": "CCM005V2AAF",
+                      "品名.1": "CCM010V2AAF"
+                    },
+                    {
+                      "品名": "CCM015V2AAF",
+                      "品名.1": "CCM020V2AAF"
+                    },
+                    {
+                      "品名": "CCM025V2AAF",
+                      "品名.1": "CCM030V2AAF"
+                    },
+                    {
+                      "品名": "CCM040V2AAF",
+                      "品名.1": "CCM050V2AAF"
+                    },
+                    {
+                      "品名": "CCM070V2AAF",
+                      "品名.1": "CCM100V2AAF"
+                    }
+                  ],
+                  "安装尺寸28mm 双极性（4根导线）用 可动连接用电缆线": [
+                    {
+                      "品名": "CCM005V2AAR",
+                      "品名.1": "CCM010V2AAR"
+                    },
+                    {
+                      "品名": "CCM015V2AAR",
+                      "品名.1": "CCM020V2AAR"
+                    },
+                    {
+                      "品名": "CCM025V2AAR",
+                      "品名.1": "CCM030V2AAR"
+                    },
+                    {
+                      "品名": "CCM040V2AAR",
+                      "品名.1": "CCM050V2AAR"
+                    },
+                    {
+                      "品名": "CCM070V2AAR",
+                      "品名.1": "CCM100V2AAR"
+                    }
+                  ],
+                  "安装尺寸35mm 双极性（4根导线）用 连接用电缆线": [
+                    {
+                      "品名": "CCM005V2ABF",
+                      "品名.1": "CCM010V2ABF"
+                    },
+                    {
+                      "品名": "CCM015V2ABF",
+                      "品名.1": "CCM020V2ABF"
+                    },
+                    {
+                      "品名": "CCM025V2ABF",
+                      "品名.1": "CCM030V2ABF"
+                    },
+                    {
+                      "品名": "CCM040V2ABF",
+                      "品名.1": "CCM050V2ABF"
+                    },
+                    {
+                      "品名": "CCM070V2ABF",
+                      "品名.1": "CCM100V2ABF"
+                    }
+                  ],
+                  "安装尺寸35mm 双极性（4根导线）用 可动连接用电缆线": [
+                    {
+                      "品名": "CCM005V2ABR",
+                      "品名.1": "CCM010V2ABR"
+                    },
+                    {
+                      "品名": "CCM015V2ABR",
+                      "品名.1": "CCM020V2ABR"
+                    },
+                    {
+                      "品名": "CCM025V2ABR",
+                      "品名.1": "CCM030V2ABR"
+                    },
+                    {
+                      "品名": "CCM040V2ABR",
+                      "品名.1": "CCM050V2ABR"
+                    },
+                    {
+                      "品名": "CCM070V2ABR",
+                      "品名.1": "CCM100V2ABR"
+                    }
+                  ],
+                  "安装尺寸42/50/51/56.4/60mm 双极性（4根导线）用 连接用电缆线": [
+                    {
+                      "品名": "CCM005V2AEF",
+                      "品名.1": "CCM010V2AEF"
+                    },
+                    {
+                      "品名": "CCM015V2AEF",
+                      "品名.1": "CCM020V2AEF"
+                    },
+                    {
+                      "品名": "CCM025V2AEF",
+                      "品名.1": "CCM030V2AEF"
+                    },
+                    {
+                      "品名": "CCM040V2AEF",
+                      "品名.1": "CCM050V2AEF"
+                    },
+                    {
+                      "品名": "CCM070V2AEF",
+                      "品名.1": "CCM100V2AEF"
+                    }
+                  ],
+                  "安装尺寸42/50/51/56.4/60mm 双极性（4根导线）用 可动连接用电缆线": [
+                    {
+                      "品名": "CCM005V2AER",
+                      "品名.1": "CCM010V2AER"
+                    },
+                    {
+                      "品名": "CCM015V2AER",
+                      "品名.1": "CCM020V2AER"
+                    },
+                    {
+                      "品名": "CCM025V2AER",
+                      "品名.1": "CCM030V2AER"
+                    },
+                    {
+                      "品名": "CCM040V2AER",
+                      "品名.1": "CCM050V2AER"
+                    },
+                    {
+                      "品名": "CCM070V2AER",
+                      "品名.1": "CCM100V2AER"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "中继电缆线（驱动器侧）": {
+                "种类": {
+                  "中继电缆线": [
+                    {
+                      "品名": "CCM005V5ADFT",
+                      "品名.1": "CCM010V5ADFT"
+                    },
+                    {
+                      "品名": "CCM015V5ADFT",
+                      "品名.1": "CCM020V5ADFT"
+                    },
+                    {
+                      "品名": "CCM025V5ADFT",
+                      "品名.1": "CCM030V5ADFT"
+                    },
+                    {
+                      "品名": "CCM040V5ADFT",
+                      "品名.1": "CCM050V5ADFT"
+                    },
+                    {
+                      "品名": "CCM070V5ADFT",
+                      "品名.1": "CCM090V5ADFT"
+                    }
+                  ],
+                  "可动中继电缆线": [
+                    {
+                      "品名": "CCM005V5ADRT",
+                      "品名.1": "CCM010V5ADRT"
+                    },
+                    {
+                      "品名": "CCM015V5ADRT",
+                      "品名.1": "CCM020V5ADRT"
+                    },
+                    {
+                      "品名": "CCM025V5ADRT",
+                      "品名.1": "CCM030V5ADRT"
+                    },
+                    {
+                      "品名": "CCM040V5ADRT",
+                      "品名.1": "CCM050V5ADRT"
+                    },
+                    {
+                      "品名": "CCM070V5ADRT",
+                      "品名.1": "CCM090V5ADRT"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "连接用电缆线（电动机侧）": {
+                "种类": {
+                  "电动机电缆线（双极性用）": [
+                    {
+                      "品名": "LC2B06A",
+                      "品名.1": "LC2B06B"
+                    },
+                    {
+                      "品名": "LC2B06C",
+                      "品名.1": "LC2B06E"
+                    },
+                    {
+                      "品名": "LC2B10A",
+                      "品名.1": "LC2B10B"
+                    },
+                    {
+                      "品名": "LC2B10C",
+                      "品名.1": "LC2B06E"
+                    }
+                  ],
+                  "电动机电缆线（单极性用）": [
+                    {
+                      "品名": "LC2U06A",
+                      "品名.1": "LC2U10A"
+                    },
+                    {
+                      "品名": "LC2U06B",
+                      "品名.1": "LC2U10B"
+                    },
+                    {
+                      "品名": "LC2U06C",
+                      "品名.1": "LC2U10C"
+                    },
+                    {
+                      "品名": "LC2U06E",
+                      "品名.1": "LC2U10E"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "连接用电缆线（驱动器侧）": {
+                "种类": {
+                  "连接用电缆线（驱动器侧）": [
+                    {
+                      "品名": "CC005N1",
+                      "品名.1": "CC010N1"
+                    },
+                    {
+                      "品名": "CC005N1R",
+                      "品名.1": "CC010N1R"
+                    },
+                    {
+                      "品名": "CC005U1",
+                      "品名.1": "CC010U1"
+                    },
+                    {
+                      "品名": "CC005U1R",
+                      "品名.1": "CC010U1R"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "连接用电缆线无终端处理": {
+                "种类": {
+                  "连接用电缆线无终端处理": [
+                    {
+                      "品名": "CC05PK5",
+                      "品名.1": "CC10PK5"
+                    },
+                    {
+                      "品名": "CC05PK5R",
+                      "品名.1": "C10PK5R"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "编码器连接用电缆线": [
+            {
+              "编码器连接用电缆线": {
+                "种类": {
+                  "导线": [
+                    {
+                      "品名": "LCE08A-006",
+                      "品名.1": "nan"
+                    }
+                  ],
+                  "可动屏蔽电缆线": [
+                    {
+                      "品名": "CC010E1R",
+                      "品名.1": "CC020E1R"
+                    },
+                    {
+                      "品名": "CC030E1R",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "电磁制动连接用电缆线": [
+            {
+              "连接用电缆线": {
+                "种类": {
+                  "连接用电缆线": [
+                    {
+                      "品名": "CCB005VYAF",
+                      "品名.1": "CCB010VYAF"
+                    },
+                    {
+                      "品名": "CCB015VYAF",
+                      "品名.1": "CCB020VYAF"
+                    },
+                    {
+                      "品名": "CCB025VYAF",
+                      "品名.1": "CCB030VYAF"
+                    },
+                    {
+                      "品名": "CCB040VYAF",
+                      "品名.1": "CCB050VYAF"
+                    },
+                    {
+                      "品名": "CCB070VYAF",
+                      "品名.1": "CCB100VYAF"
+                    }
+                  ],
+                  "可动连接用电缆线": [
+                    {
+                      "品名": "CCB005VYAR",
+                      "品名.1": "CCB010VYAR"
+                    },
+                    {
+                      "品名": "SCCB015VYAR",
+                      "品名.1": "CCB020VYAR"
+                    },
+                    {
+                      "品名": "CCB025VYAR",
+                      "品名.1": "CCB030VYAR"
+                    },
+                    {
+                      "品名": "CCB040VYAR",
+                      "品名.1": "CCB050VYAR"
+                    },
+                    {
+                      "品名": "CCB070VYAR",
+                      "品名.1": "CCB100VYAR"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "中继电缆线": {
+                "种类": {
+                  "中继电缆线": [
+                    {
+                      "品名": "CCB005VBAFT",
+                      "品名.1": "CCB010VBAFT"
+                    },
+                    {
+                      "品名": "CCB015VBAFT",
+                      "品名.1": "CCB020VBAFT"
+                    },
+                    {
+                      "品名": "CCB025VBAFT",
+                      "品名.1": "CCB030VBAFT"
+                    },
+                    {
+                      "品名": "CCB040VBAFT",
+                      "品名.1": "CCB050VBAFT"
+                    },
+                    {
+                      "品名": "CCB070VBAFT",
+                      "品名.1": "CCB090VBAFT"
+                    }
+                  ],
+                  "可动中继电缆线": [
+                    {
+                      "品名": "CCB005VBART",
+                      "品名.1": "CCB010VBART"
+                    },
+                    {
+                      "品名": "CCB015VBART",
+                      "品名.1": "CCB020VBART"
+                    },
+                    {
+                      "品名": "CCB025VBART",
+                      "品名.1": "CCB030VBART"
+                    },
+                    {
+                      "品名": "CCB040VBART",
+                      "品名.1": "CCB050VBART"
+                    },
+                    {
+                      "品名": "CCB070VBART",
+                      "品名.1": "CCB090VBART"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "导线": {
+                "种类": {
+                  "导线": [
+                    {
+                      "品名": "LCM02A-006",
+                      "品名.1": "LCM02A-010"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "其他电缆线": [
+            {
+              "输入/输出信号用电缆线（脉冲序列输入型用）": {
+                "种类": {
+                  "附连接器型": [
+                    {
+                      "品名": "CC12D005-2",
+                      "品名.1": "CC12D010-2"
+                    },
+                    {
+                      "品名": "CC12D015-2",
+                      "品名.1": "CC12D020-2"
+                    }
+                  ],
+                  "通用型": [
+                    {
+                      "品名": "CC06D005B-1",
+                      "品名.1": "CC06D010B-1"
+                    },
+                    {
+                      "品名": "CC06D015B-1",
+                      "品名.1": "CC06D020B-1"
+                    },
+                    {
+                      "品名": "CC10D005B-1",
+                      "品名.1": "CC10D010B-1"
+                    },
+                    {
+                      "品名": "CC10D015B-1",
+                      "品名.1": "CC10D020B-1"
+                    },
+                    {
+                      "品名": "CC12D005B-1",
+                      "品名.1": "CC12D010B-1"
+                    },
+                    {
+                      "品名": "CC12D015B-1",
+                      "品名.1": "CC12D020B-1"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "DC电源用电缆线（脉冲序列输入型用）": {
+                "种类": {
+                  "DC电源用电缆线（脉冲序列输入型用）": [
+                    {
+                      "品名": "CC02D005-2",
+                      "品名.1": "CC02D010-2"
+                    },
+                    {
+                      "品名": "CC02D015-2",
+                      "品名.1": "CC02D020-2"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "驱动器连接用电缆线套件（脉冲序列输入型）": {
+                "种类": {
+                  "驱动器连接用电缆线套件（脉冲序列输入型）": [
+                    {
+                      "品名": "LCS04SD5",
+                      "品名.1": "LCS05SD5"
+                    },
+                    {
+                      "品名": "LCS01CVK2",
+                      "品名.1": "LCS02CVK2"
+                    },
+                    {
+                      "品名": "LCS01CMK2",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "电源电缆线/输入/输出信号电缆线套件（RS-485通信型用）": {
+                "种类": {
+                  "电源电缆线/输入/输出信号电缆线套件（RS-485通信型用）": [
+                    {
+                      "品名": "LHS003CC",
+                      "品名.1": "LHS010CC"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "RS-485通信用电缆线（RS-485通信型用）": {
+                "种类": {
+                  "上一级系统连接用": [
+                    {
+                      "品名": "CC030-RS",
+                      "品名.1": "nan"
+                    }
+                  ],
+                  "驱动器间连接用": [
+                    {
+                      "品名": "LH0015-RWN",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "安装底座": [
+            {
+              "电动机安装底座": {
+                "种类": {
+                  "电动机安装底座 （标准型、高分辨率型用）": [
+                    {
+                      "品名": "PALS03P-2",
+                      "品名.1": "PALW03P-2"
+                    },
+                    {
+                      "品名": "PALS03P-5",
+                      "品名.1": "PALW03P-5"
+                    },
+                    {
+                      "品名": "PALS02P",
+                      "品名.1": "PALW02P"
+                    },
+                    {
+                      "品名": "PFB28A",
+                      "品名.1": "PALS01P"
+                    },
+                    {
+                      "品名": "PALW01P",
+                      "品名.1": "PAF0PA"
+                    },
+                    {
+                      "品名": "PALW0P",
+                      "品名.1": "PFB42A"
+                    },
+                    {
+                      "品名": "PALW1P",
+                      "品名.1": "PALW2P-2"
+                    },
+                    {
+                      "品名": "PALW2P-5",
+                      "品名.1": "PALW4P-2"
+                    },
+                    {
+                      "品名": "PALW4P-5",
+                      "品名.1": "nan"
+                    }
+                  ],
+                  "电动机安装底座 （SH减速机型用）": [
+                    {
+                      "品名": "SOLS02P",
+                      "品名.1": "SOLW02P"
+                    },
+                    {
+                      "品名": "PFB28A",
+                      "品名.1": "SOL0A"
+                    },
+                    {
+                      "品名": "PFB42A",
+                      "品名.1": "SOL2A"
+                    },
+                    {
+                      "品名": "SOL5A",
+                      "品名.1": "nan"
+                    }
+                  ],
+                  "电动机安装底座 （CS减速机型、TS减速机型用）": [
+                    {
+                      "品名": "SOL0B",
+                      "品名.1": "SOL2M4"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "电路产品安装底座": {
+                "种类": {
+                  "电路产品安装底座": [
+                    {
+                      "品名": "MADP01",
+                      "品名.1": "MADP07"
+                    },
+                    {
+                      "品名": "MADP01S1",
+                      "品名.1": "nan"
+                    },
+                    {
+                      "品名": "nan",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "其他": [
+            {
+              "电动机用连接器套件": {
+                "种类": {
+                  "电动机用连接器套件": [
+                    {
+                      "品名": "CS2U30A",
+                      "品名.1": "CS2U30B"
+                    },
+                    {
+                      "品名": "CS5N30A",
+                      "品名.1": "CS5N30B"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "电路产品盖": {
+                "种类": {
+                  "电路产品盖": [
+                    {
+                      "品名": "PADC-CVD",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "制振器": {
+                "种类": {
+                  "制振器": [
+                    {
+                      "品名": "D4CL-5.0F",
+                      "品名.1": "D6CL-6.3F"
+                    },
+                    {
+                      "品名": "D6CL-8.0F",
+                      "品名.1": "D9CL-14F"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "系统构成": {
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/st/pkp2_s01.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/pkp2_s.jpg"
+      ]
+    }
+  },
+  "5相步进电动机": {
+    "产品名称": "5相步进电动机",
+    "产品类别": "PKP系列(5相)",
+    "产品网址": "https://www.orientalmotor.com.cn/products/st/stepmotor_pkp5_f/",
+    "产品图片": "https://www.orientalmotor.com.cn/image/products/st/pkp5.jpg",
+    "产品简介": "基本步距角度0.72˚ （每转500分割）的高转矩、低振动型步进电动机。实现低振动·低噪音下的高精度定位。下载目录PDF相关解决方案关联产品相关样机视频申请纸质目录",
+    "资料下载": {
+      "下载目录PDF": "https://www.orientalmotor.com.cn/image/service/goucheng.png",
+      "相关解决方案": "https://www.orientalmotor.com.cn/service/solution_application2/?CATEGORY=&BRAND_CD=ST",
+      "关联产品": "https://www.orientalmotor.com.cn/products/st/stepmotor_pkp2_f/",
+      "相关样机视频": "https://www.orientalmotor.com.cn/video/list2/?CATEGORY=&BRAND_CD=ST"
+    },
+    "特征": {
+      "高精度": "5相步进电动机PKP系列的步距角为0.72˚ （高分辨率型0.36˚）、停止精度为±0.05˚，因此可实现高精度定位。此外，通过微步驱动的驱动器控制时的静止角度误差，可实现与整步驱动时基本不变的高精度。*安装尺寸：42mm、60mm备有分辨率1000P/R的产品，详情请点此查看。",
+      "低振动· 低噪音": "基本步距角度为较小的0.72˚（高分辨率型0.36˚），相比基本步距角度为1.8˚的2相步进电动机，实现了低振动、低噪音。此外，通过微步驱动驱动器的控制，可实现更低振动、低噪音驱动。",
+      "提供采用小型、薄型连接器的产品种类": "提供采用小型、薄型连接器的产品种类。电动机电缆线的出线方向改为朝上，使出线方向自由度提升。",
+      "产品介绍视频": "●点击观看介绍视频：PKP系列带编码器型●点击观看介绍视频：PKP系列高分辨率型",
+      "组合驱动器（另售）": "●双极驱动用驱动器●带安装板水平出线型连接器方向为横向水平方向。●带安装板垂直出线型连接器方向为向上垂直方向。●不带安装板连接器方向为向上垂直方向。●单极驱动用驱动器",
+      "相关产品--PKP系列（2相）": "高转矩的2相PKP系列步进电动机。备有每转200分割（基本步距角：1.8°/step）的标准型，每转400分割（基本步距角：0.9°/step）的高分辨率型，高转矩、高分辨率的SH减速机型等丰富的产品阵容。>>>>点此查看详情",
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/st/pkp5_01.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/pkp5_02.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/pkp5_03.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/pkp2_14.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/pkp2_15.jpg"
+      ],
+      "movie": [
+        "https://www.orientalmotor.com.cn/file/video_det/PKP_04_encoder_type.mp4 ",
+        "https://www.orientalmotor.com.cn/file/video_det/PKP_03_High_Resolution_Type.mp4 "
+      ],
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/download/retry/?document_kind=4&product_name=3G4O5P6P7M2&file_name=document%2Fproducts%2Ffan%2Fcatalog%2F2212v036cpcppkp.pdf&title=%E6%AD%A5%E8%BF%9B%E7%94%B5%E5%8A%A8%E6%9C%BA%20PKP%E7%B3%BB%E5%88%97%20%E6%A0%87%E5%87%86%E5%9E%8B%20%E5%B8%A6%E7%BC%96%E7%A0%81%E5%99%A8%201000P%2FR&cad_no=",
+        "https://www.orientalmotor.com.cn/products/st/stepmotor_pkp2_f/"
+      ]
+    },
+    "规格选购": {
+      "品名阅读方法": "https://www.orientalmotor.com.cn/image/products/st/pkp5pm.jpg",
+      "table": {
+        "类型": {
+          "标准型": [
+            {
+              "基本步距角  [°]": "0.72",
+              "安装尺寸  [mm]": "20",
+              "最大励磁转矩  [N・m]": "0.0231",
+              "额定电流  [A/相]": "0.35"
+            },
+            {
+              "基本步距角  [°]": "0.72",
+              "安装尺寸  [mm]": "28",
+              "最大励磁转矩  [N・m]": "0.052 ～ 0.091",
+              "额定电流  [A/相]": "1.2"
+            },
+            {
+              "基本步距角  [°]": "0.72",
+              "安装尺寸  [mm]": "42",
+              "最大励磁转矩  [N・m]": "0.22 ～ 0.5",
+              "额定电流  [A/相]": "1.8"
+            },
+            {
+              "基本步距角  [°]": "0.72",
+              "安装尺寸  [mm]": "56.4※",
+              "最大励磁转矩  [N・m]": "0.44 ～ 1.5",
+              "额定电流  [A/相]": "2.8"
+            },
+            {
+              "基本步距角  [°]": "0.72",
+              "安装尺寸  [mm]": "60",
+              "最大励磁转矩  [N・m]": "0.66 ～ 2.1",
+              "额定电流  [A/相]": "2.4 ～ 3.8"
+            },
+            {
+              "基本步距角  [°]": "0.72",
+              "安装尺寸  [mm]": "85",
+              "最大励磁转矩  [N・m]": "2.1 ～ 6.3",
+              "额定电流  [A/相]": "2.8"
+            }
+          ],
+          "高分辨率型": [
+            {
+              "基本步距角  [°]": "0.36",
+              "安装尺寸  [mm]": "42",
+              "最大励磁转矩  [N・m]": "0.26 ～ 0.44",
+              "额定电流  [A/相]": "1.8"
+            },
+            {
+              "基本步距角  [°]": "0.36",
+              "安装尺寸  [mm]": "60",
+              "最大励磁转矩  [N・m]": "0.78 ～ 2.3",
+              "额定电流  [A/相]": "2.4"
+            }
+          ],
+          "标准型  带编码器": [
+            {
+              "基本步距角  [°]": "0.72",
+              "安装尺寸  [mm]": "20",
+              "最大励磁转矩  [N・m]": "0.0231",
+              "额定电流  [A/相]": "0.35"
+            },
+            {
+              "基本步距角  [°]": "0.72",
+              "安装尺寸  [mm]": "42",
+              "最大励磁转矩  [N・m]": "0.22 ～ 0.5",
+              "额定电流  [A/相]": "1.8"
+            },
+            {
+              "基本步距角  [°]": "0.72",
+              "安装尺寸  [mm]": "56.4",
+              "最大励磁转矩  [N・m]": "0.44 ～ 1.5",
+              "额定电流  [A/相]": "2.8"
+            },
+            {
+              "基本步距角  [°]": "0.72",
+              "安装尺寸  [mm]": "60",
+              "最大励磁转矩  [N・m]": "0.66 ～ 2.1",
+              "额定电流  [A/相]": "2.4 ～ 3.8"
+            }
+          ],
+          "TS减速机型": [
+            {
+              "基本步距角  [°]": "0.024 ～ 0.2",
+              "安装尺寸  [mm]": "42",
+              "最大励磁转矩  [N・m]": "0.65 ～ 2.3",
+              "额定电流  [A/相]": "1.8"
+            },
+            {
+              "基本步距角  [°]": "0.024 ～ 0.2",
+              "安装尺寸  [mm]": "60",
+              "最大励磁转矩  [N・m]": "1.8 ～ 6",
+              "额定电流  [A/相]": "2.8"
+            }
+          ]
+        }
+      },
+      "选购配件": [
+        {
+          "电动机连接用电缆线": [
+            {
+              "连接用电缆线": {
+                "种类": {
+                  "安装尺寸20/28mm用 连接用电缆线": [
+                    {
+                      "品名": "CCM005V5AAF",
+                      "品名.1": "CCM010V5AAF"
+                    },
+                    {
+                      "品名": "CCM015V5AAF",
+                      "品名.1": "CCM020V5AAF"
+                    },
+                    {
+                      "品名": "CCM025V5AAF",
+                      "品名.1": "CCM030V5AAF"
+                    },
+                    {
+                      "品名": "CCM040V5AAF",
+                      "品名.1": "CCM050V5AAF"
+                    },
+                    {
+                      "品名": "CCM070V5AAF",
+                      "品名.1": "CCM100V5AAF"
+                    }
+                  ],
+                  "安装尺寸20/28mm用 可动连接用电缆线": [
+                    {
+                      "品名": "CCM005V5AAR",
+                      "品名.1": "CCM010V5AAR"
+                    },
+                    {
+                      "品名": "CCM015V5AAR",
+                      "品名.1": "CCM020V5AAR"
+                    },
+                    {
+                      "品名": "CCM025V5AAR",
+                      "品名.1": "CCM030V5AAR"
+                    },
+                    {
+                      "品名": "CCM040V5AAR",
+                      "品名.1": "CCM050V5AAR"
+                    },
+                    {
+                      "品名": "CCM070V5AAR",
+                      "品名.1": "CCM100V5AAR"
+                    }
+                  ],
+                  "安装尺寸42/60mm用 连接用电缆线": [
+                    {
+                      "品名": "CCM005V5AEF",
+                      "品名.1": "CCM010V5AEF"
+                    },
+                    {
+                      "品名": "CCM015V5AEF",
+                      "品名.1": "CCM020V5AEF"
+                    },
+                    {
+                      "品名": "CCM025V5AEF",
+                      "品名.1": "CCM030V5AEF"
+                    },
+                    {
+                      "品名": "CCM040V5AEF",
+                      "品名.1": "CCM050V5AEF"
+                    },
+                    {
+                      "品名": "CCM070V5AEF",
+                      "品名.1": "CCM100V5AEF"
+                    }
+                  ],
+                  "安装尺寸42/60mm用 可动连接用电缆线": [
+                    {
+                      "品名": "CCM005V5AER",
+                      "品名.1": "CCM010V5AER"
+                    },
+                    {
+                      "品名": "CCM015V5AER",
+                      "品名.1": "CCM020V5AER"
+                    },
+                    {
+                      "品名": "CCM025V5AER",
+                      "品名.1": "CCM030V5AER"
+                    },
+                    {
+                      "品名": "CCM040V5AER",
+                      "品名.1": "CCM050V5AER"
+                    },
+                    {
+                      "品名": "CCM070V5AER",
+                      "品名.1": "CCM100V5AER"
+                    }
+                  ],
+                  "安装尺寸42mm用 连接用电缆线": [
+                    {
+                      "品名": "CCM005V5ABF",
+                      "品名.1": "CCM010V5ABF"
+                    },
+                    {
+                      "品名": "CCM015V5ABF",
+                      "品名.1": "CCM020V5ABF"
+                    },
+                    {
+                      "品名": "CCM025V5ABF",
+                      "品名.1": "CCM030V5ABF"
+                    },
+                    {
+                      "品名": "CCM040V5ABF",
+                      "品名.1": "CCM050V5ABF"
+                    },
+                    {
+                      "品名": "CCM070V5ABF",
+                      "品名.1": "CCM100V5ABF"
+                    }
+                  ],
+                  "安装尺寸42mm用 可动连接用电缆线": [
+                    {
+                      "品名": "CCM005V5ABR",
+                      "品名.1": "CCM010V5ABR"
+                    },
+                    {
+                      "品名": "CCM015V5ABR",
+                      "品名.1": "CCM020V5ABR"
+                    },
+                    {
+                      "品名": "CCM025V5ABR",
+                      "品名.1": "CCM030V5ABR"
+                    },
+                    {
+                      "品名": "CCM040V5ABR",
+                      "品名.1": "CCM050V5ABR"
+                    },
+                    {
+                      "品名": "CCM070V5ABR",
+                      "品名.1": "CCM100V5ABR"
+                    }
+                  ],
+                  "安装尺寸60mm用 连接用电缆线": [
+                    {
+                      "品名": "CCM005V5ACF2",
+                      "品名.1": "CCM010V5ACF2"
+                    },
+                    {
+                      "品名": "CCM015V5ACF2",
+                      "品名.1": "CCM020V5ACF2"
+                    },
+                    {
+                      "品名": "CCM025V5ACF2",
+                      "品名.1": "CCM030V5ACF2"
+                    },
+                    {
+                      "品名": "CCM040V5ACF2",
+                      "品名.1": "CCM050V5ACF2"
+                    },
+                    {
+                      "品名": "CCM070V5ACF2",
+                      "品名.1": "CCM100V5ACF2"
+                    }
+                  ],
+                  "安装尺寸60mm用 可动连接用电缆线": [
+                    {
+                      "品名": "CCM005V5ACR2",
+                      "品名.1": "CCM010V5ACR2"
+                    },
+                    {
+                      "品名": "CCM015V5ACR2",
+                      "品名.1": "CCM020V5ACR2"
+                    },
+                    {
+                      "品名": "CCM025V5ACR2",
+                      "品名.1": "CCM030V5ACR2"
+                    },
+                    {
+                      "品名": "CCM040V5ACR2",
+                      "品名.1": "CCM050V5ACR2"
+                    },
+                    {
+                      "品名": "CCM070V5ACR2",
+                      "品名.1": "CCM100V5ACR2"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "中继电缆线（驱动器侧）": {
+                "种类": {
+                  "中继电缆线": [
+                    {
+                      "品名": "CCM005V5ADFT",
+                      "品名.1": "CCM010V5ADFT"
+                    },
+                    {
+                      "品名": "CCM015V5ADFT",
+                      "品名.1": "CCM020V5ADFT"
+                    },
+                    {
+                      "品名": "CCM025V5ADFT",
+                      "品名.1": "CCM030V5ADFT"
+                    },
+                    {
+                      "品名": "CCM040V5ADFT",
+                      "品名.1": "CCM050V5ADFT"
+                    },
+                    {
+                      "品名": "CCM070V5ADFT",
+                      "品名.1": "CCM090V5ADFT"
+                    }
+                  ],
+                  "可动中继电缆线": [
+                    {
+                      "品名": "CCM005V5ADRT",
+                      "品名.1": "CCM010V5ADRT"
+                    },
+                    {
+                      "品名": "CCM015V5ADRT",
+                      "品名.1": "CCM020V5ADRT"
+                    },
+                    {
+                      "品名": "CCM025V5ADRT",
+                      "品名.1": "CCM030V5ADRT"
+                    },
+                    {
+                      "品名": "CCM040V5ADRT",
+                      "品名.1": "CCM050V5ADRT"
+                    },
+                    {
+                      "品名": "CCM070V5ADRT",
+                      "品名.1": "CCM090V5ADRT"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "连接用电缆线（电动机侧）": {
+                "种类": {
+                  "连接用电缆线（电动机侧）": [
+                    {
+                      "品名": "LC5N06A",
+                      "品名.1": "LC5N10A"
+                    },
+                    {
+                      "品名": "LC5N06B",
+                      "品名.1": "LC5N10B"
+                    },
+                    {
+                      "品名": "LC5N06C2",
+                      "品名.1": "LC5N10C2"
+                    },
+                    {
+                      "品名": "LC5N06E",
+                      "品名.1": "LC5N10E"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "连接用电缆线（驱动器侧）": {
+                "种类": {
+                  "连接用电缆线（驱动器侧）": [
+                    {
+                      "品名": "CC005N1",
+                      "品名.1": "CC010N1"
+                    },
+                    {
+                      "品名": "CC005N1R",
+                      "品名.1": "CC010N1R"
+                    },
+                    {
+                      "品名": "CC005U1",
+                      "品名.1": "CC010U1"
+                    },
+                    {
+                      "品名": "CC005U1R",
+                      "品名.1": "CC010U1R"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "连接用电缆线无终端处理": {
+                "种类": {
+                  "连接用电缆线无终端处理": [
+                    {
+                      "品名": "CC05PK5",
+                      "品名.1": "CC10PK5"
+                    },
+                    {
+                      "品名": "CC05PK5R",
+                      "品名.1": "C10PK5R"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "编码器连接用电缆线": [
+            {
+              "编码器连接用电缆线": {
+                "种类": {
+                  "导线": [
+                    {
+                      "品名": "LCE08A-006",
+                      "品名.1": "nan"
+                    }
+                  ],
+                  "可动屏蔽电缆线": [
+                    {
+                      "品名": "CC010E1R",
+                      "品名.1": "CC020E1R"
+                    },
+                    {
+                      "品名": "CC030E1R",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "电磁制动连接用电缆线": [
+            {
+              "连接用电缆线": {
+                "种类": {
+                  "连接用电缆线": [
+                    {
+                      "品名": "CCB005VYAF",
+                      "品名.1": "CCB010VYAF"
+                    },
+                    {
+                      "品名": "CCB015VYAF",
+                      "品名.1": "CCB020VYAF"
+                    },
+                    {
+                      "品名": "CCB025VYAF",
+                      "品名.1": "CCB030VYAF"
+                    },
+                    {
+                      "品名": "CCB040VYAF",
+                      "品名.1": "CCB050VYAF"
+                    },
+                    {
+                      "品名": "CCB070VYAF",
+                      "品名.1": "CCB100VYAF"
+                    }
+                  ],
+                  "可动连接用电缆线": [
+                    {
+                      "品名": "CCB005VYAR",
+                      "品名.1": "CCB010VYAR"
+                    },
+                    {
+                      "品名": "SCCB015VYAR",
+                      "品名.1": "CCB020VYAR"
+                    },
+                    {
+                      "品名": "CCB025VYAR",
+                      "品名.1": "CCB030VYAR"
+                    },
+                    {
+                      "品名": "CCB040VYAR",
+                      "品名.1": "CCB050VYAR"
+                    },
+                    {
+                      "品名": "CCB070VYAR",
+                      "品名.1": "CCB100VYAR"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "中继电缆线": {
+                "种类": {
+                  "中继电缆线": [
+                    {
+                      "品名": "CCB005VBAFT",
+                      "品名.1": "CCB010VBAFT"
+                    },
+                    {
+                      "品名": "CCB015VBAFT",
+                      "品名.1": "CCB020VBAFT"
+                    },
+                    {
+                      "品名": "CCB025VBAFT",
+                      "品名.1": "CCB030VBAFT"
+                    },
+                    {
+                      "品名": "CCB040VBAFT",
+                      "品名.1": "CCB050VBAFT"
+                    },
+                    {
+                      "品名": "CCB070VBAFT",
+                      "品名.1": "CCB090VBAFT"
+                    }
+                  ],
+                  "可动中继电缆线": [
+                    {
+                      "品名": "CCB005VBART",
+                      "品名.1": "CCB010VBART"
+                    },
+                    {
+                      "品名": "CCB015VBART",
+                      "品名.1": "CCB020VBART"
+                    },
+                    {
+                      "品名": "CCB025VBART",
+                      "品名.1": "CCB030VBART"
+                    },
+                    {
+                      "品名": "CCB040VBART",
+                      "品名.1": "CCB050VBART"
+                    },
+                    {
+                      "品名": "CCB070VBART",
+                      "品名.1": "CCB090VBART"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "导线": {
+                "种类": {
+                  "导线": [
+                    {
+                      "品名": "LCM02A-006",
+                      "品名.1": "LCM02A-010"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "其他电缆线": [
+            {
+              "输入/输出信号用电缆线（脉冲序列输入型用）": {
+                "种类": {
+                  "附连接器型": [
+                    {
+                      "品名": "CC12D005-2",
+                      "品名.1": "CC12D010-2"
+                    },
+                    {
+                      "品名": "CC12D015-2",
+                      "品名.1": "CC12D020-2"
+                    }
+                  ],
+                  "通用型": [
+                    {
+                      "品名": "CC06D005B-1",
+                      "品名.1": "CC06D010B-1"
+                    },
+                    {
+                      "品名": "CC06D015B-1",
+                      "品名.1": "CC06D020B-1"
+                    },
+                    {
+                      "品名": "CC10D005B-1",
+                      "品名.1": "CC10D010B-1"
+                    },
+                    {
+                      "品名": "CC10D015B-1",
+                      "品名.1": "CC10D020B-1"
+                    },
+                    {
+                      "品名": "CC12D005B-1",
+                      "品名.1": "CC12D010B-1"
+                    },
+                    {
+                      "品名": "CC12D015B-1",
+                      "品名.1": "CC12D020B-1"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "DC电源用电缆线（脉冲序列输入型用）": {
+                "种类": {
+                  "DC电源用电缆线（脉冲序列输入型用）": [
+                    {
+                      "品名": "CC02D005-2",
+                      "品名.1": "CC02D010-2"
+                    },
+                    {
+                      "品名": "CC02D015-2",
+                      "品名.1": "CC02D020-2"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "驱动器连接用电缆线套件（脉冲序列输入型）": {
+                "种类": {
+                  "驱动器连接用电缆线套件（脉冲序列输入型）": [
+                    {
+                      "品名": "LCS04SD5",
+                      "品名.1": "LCS05SD5"
+                    },
+                    {
+                      "品名": "LCS01CVK2",
+                      "品名.1": "LCS02CVK2"
+                    },
+                    {
+                      "品名": "LCS01CMK2",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "电源电缆线/输入/输出信号电缆线套件（RS-485通信型用）": {
+                "种类": {
+                  "电源电缆线/输入/输出信号电缆线套件（RS-485通信型用）": [
+                    {
+                      "品名": "LHS003CC",
+                      "品名.1": "LHS010CC"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "RS-485通信用电缆线（RS-485通信型用）": {
+                "种类": {
+                  "上一级系统连接用": [
+                    {
+                      "品名": "CC030-RS",
+                      "品名.1": "nan"
+                    }
+                  ],
+                  "驱动器间连接用": [
+                    {
+                      "品名": "LH0015-RWN",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "安装底座": [
+            {
+              "电动机安装底座": {
+                "种类": {
+                  "电动机安装底座 （标准型、高分辨率型用）": [
+                    {
+                      "品名": "PALS03P-2",
+                      "品名.1": "PALW03P-2"
+                    },
+                    {
+                      "品名": "PALS03P-5",
+                      "品名.1": "PALW03P-5"
+                    },
+                    {
+                      "品名": "PALS02P",
+                      "品名.1": "PALW02P"
+                    },
+                    {
+                      "品名": "PFB28A",
+                      "品名.1": "PALS01P"
+                    },
+                    {
+                      "品名": "PALW01P",
+                      "品名.1": "PAF0PA"
+                    },
+                    {
+                      "品名": "PALW0P",
+                      "品名.1": "PFB42A"
+                    },
+                    {
+                      "品名": "PALW1P",
+                      "品名.1": "PALW2P-2"
+                    },
+                    {
+                      "品名": "PALW2P-5",
+                      "品名.1": "PALW4P-2"
+                    },
+                    {
+                      "品名": "PALW4P-5",
+                      "品名.1": "nan"
+                    }
+                  ],
+                  "电动机安装底座 （SH减速机型用）": [
+                    {
+                      "品名": "SOLS02P",
+                      "品名.1": "SOLW02P"
+                    },
+                    {
+                      "品名": "PFB28A",
+                      "品名.1": "SOL0A"
+                    },
+                    {
+                      "品名": "PFB42A",
+                      "品名.1": "SOL2A"
+                    },
+                    {
+                      "品名": "SOL5A",
+                      "品名.1": "nan"
+                    }
+                  ],
+                  "电动机安装底座 （CS减速机型、TS减速机型用）": [
+                    {
+                      "品名": "SOL0B",
+                      "品名.1": "SOL2M4"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "电路产品安装底座": {
+                "种类": {
+                  "电路产品安装底座": [
+                    {
+                      "品名": "MADP01",
+                      "品名.1": "MADP07"
+                    },
+                    {
+                      "品名": "MADP01S1",
+                      "品名.1": "nan"
+                    },
+                    {
+                      "品名": "nan",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "其他": [
+            {
+              "电动机用连接器套件": {
+                "种类": {
+                  "电动机用连接器套件": [
+                    {
+                      "品名": "CS2U30A",
+                      "品名.1": "CS2U30B"
+                    },
+                    {
+                      "品名": "CS5N30A",
+                      "品名.1": "CS5N30B"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "电路产品盖": {
+                "种类": {
+                  "电路产品盖": [
+                    {
+                      "品名": "PADC-CVD",
+                      "品名.1": "nan"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "制振器": {
+                "种类": {
+                  "制振器": [
+                    {
+                      "品名": "D4CL-5.0F",
+                      "品名.1": "D6CL-6.3F"
+                    },
+                    {
+                      "品名": "D6CL-8.0F",
+                      "品名.1": "D9CL-14F"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "系统构成": {
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/st/pkp5_s01.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/pkp5_s.jpg"
+      ]
+    }
+  },
+  "AZ系列对应 EtherNet/IP ™ 驱动器": {
+    "产品名称": "步进伺服混合控制系统αSTEP",
+    "产品类别": "AZ系列对应 EtherNet/IP ™ 驱动器",
+    "产品网址": "https://www.orientalmotor.com.cn/products/st/az_ethernetdriver_f/",
+    "产品图片": "https://www.orientalmotor.com.cn/image/products/st/ethernet01.png",
+    "产品简介": "对应EtherNet/IP驱动器。可与本公司AZ系列的电动机和搭载此类电动机的电动传动装置连接。用途广泛。下载目录PDF相关解决方案关联产品相关样机视频申请纸质目录",
+    "资料下载": {
+      "下载目录PDF": "https://www.orientalmotor.com.cn/download/retry/?document_kind=4&product_name=3G4O5P6P7M2&file_name=document%2Fproducts%2Ffan%2Fcatalog%2F2003l026cpcpethernetip.pdf&title=AZ%E7%B3%BB%E5%88%97_%E5%AF%B9%E5%BA%94_EtherNet%20IP_%E9%A9%B1%E5%8A%A8%E5%99%A8&cad_no=",
+      "相关解决方案": "https://www.orientalmotor.com.cn/service/solution_application2/?CATEGORY=&BRAND_CD=ALPHA",
+      "关联产品": "https://www.orientalmotor.com.cn/products/st/alpha_stepaz_p",
+      "相关样机视频": "https://www.orientalmotor.com.cn/video/list2/?CATEGORY=&BRAND_CD=ST"
+    },
+    "特征": {
+      "EtherNet/IP可与各种设备连接": "使用EtherNet/IP 时，只需在通信系统上追加AZ系列的电动机，就可实现控制。",
+      "网络控制电动机": "可实现网络直接控制。由于上一级控制系统与对应EtherNet/IP驱动器连接，只需一根EtherNet/IP通信电缆线，节省配线。●EDS文件备有EDS文件。 方便客户使用 EtherNet/IP对应产品。EDS文件下载请至相关各产品页。",
+      "相关产品--αSTEP AZ系列": "AZ系列产品种类丰富，标准品包括行星减速机、谐波驱动等各种减速电动机。▶点击查看αSTEP AZ系列产品种类",
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/st/ethernet02.png",
+        "https://www.orientalmotor.com.cn/image/products/st/ethernet03.png",
+        "https://www.orientalmotor.com.cn/image/products/st/azcp_1.jpg"
+      ],
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/products/st/astep_az_v/"
+      ]
+    },
+    "规格选购": {
+      "table": {
+        "电源输入": {
+          "单相 100-120V": [
+            {
+              "品名": "AZD-AEP"
+            }
+          ],
+          "单相/三相 200-240V": [
+            {
+              "品名": "AZD-CEP"
+            }
+          ],
+          "DC24/48V": [
+            {
+              "品名": "AZD-KEP"
+            }
+          ]
+        }
+      },
+      "相关产品--αSTEP AZ系列": "",
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/st/ethernet01.png",
+        "https://www.orientalmotor.com.cn/image/products/st/azehternetpm.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/azcp_1.jpg"
+      ],
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-AEP",
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-CEP",
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-KEP",
+        "https://www.orientalmotor.com.cn/products/st/astep_az_v/"
+      ]
+    }
+  },
+  "AZ系列 对应EtherCAT驱动器": {
+    "产品名称": "步进伺服混合控制系统αSTEP",
+    "产品类别": "AZ系列 对应EtherCAT ",
+    "产品网址": "https://www.orientalmotor.com.cn/products/st/az_ethercatdriver_f/",
+    "产品图片": "https://www.orientalmotor.com.cn/image/products/st/ethercat01.png",
+    "产品简介": "可对应EtherCAT通信、CiA402配置文件的驱动器。能够连接我司AZ系列电动机和搭载此类电动机的电动传动装置，具有广泛的用途。下载目录PDF相关解决方案关联产品相关样机视频申请纸质目录",
+    "资料下载": {
+      "下载目录PDF": "https://www.orientalmotor.com.cn/download/retry/?document_kind=4&product_name=3G4O5P6P7M2&file_name=document%2Fproducts%2Ffan%2Fcatalog%2F2003l027cpcpethercat.pdf&title=AZ%E7%B3%BB%E5%88%97_EtherCAT_%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%AF%B9%E5%BA%94%E9%A9%B1%E5%8A%A8%E5%99%A8&cad_no=",
+      "相关解决方案": "https://www.orientalmotor.com.cn/service/solution_application2/?CATEGORY=&BRAND_CD=ALPHA",
+      "关联产品": "https://www.orientalmotor.com.cn/products/st/alpha_stepaz_p",
+      "相关样机视频": "https://www.orientalmotor.com.cn/video/list2/?CATEGORY=&BRAND_CD=ST"
+    },
+    "特征": {
+      "网络控制电动机": "可实现网络直接控制。由于上一级控制系统与对应EtherCat驱动器连接，只需一根EtherCat通信电缆线，节省配线。●ESI文件备有ESI文件。 方便客户使用 EtherCat对应产品。EDS文件下载请至相关各产品页。●EtherCAT对应产品已通过正式的EtherCAT一致性测试。",
+      "相关产品--αSTEP AZ系列": "AZ系列产品种类丰富，标准品包括行星减速机、谐波驱动等各种减速电动机。▶点击查看αSTEP AZ系列产品种类",
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/st/ethercat02.png",
+        "https://www.orientalmotor.com.cn/image/products/st/azcp_1.jpg"
+      ],
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/products/st/astep_az_v/"
+      ]
+    },
+    "规格选购": {
+      "table": {
+        "电源输入": {
+          "单相 100-120V": [
+            {
+              "品名": "AZD-AED"
+            }
+          ],
+          "单相/三相 200-240V": [
+            {
+              "品名": "AZD-CED"
+            }
+          ],
+          "DC24/48V": [
+            {
+              "品名": "AZD-KED"
+            }
+          ]
+        }
+      },
+      "相关产品--αSTEP AZ系列": "AZ系列产品种类丰富，标准品包括行星减速机、谐波驱动等各种减速电动机。▶点击查看αSTEP AZ系列产品种类",
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/st/ethercat01.png",
+        "https://www.orientalmotor.com.cn/image/products/st/azehtercatpm.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/azcp_1.jpg"
+      ],
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-AED",
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-CED",
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-KED",
+        "https://www.orientalmotor.com.cn/products/st/astep_az_v/"
+      ]
+    }
+  },
+  "AZ系列对应 PROFINET 驱动器": {
+    "产品名称": "步进伺服混合控制系统αSTEP",
+    "产品类别": "AZ系列对应 PROFINET 驱动器",
+    "产品网址": "https://www.orientalmotor.com.cn/products/st/az_profinet_f/",
+    "产品图片": "https://www.orientalmotor.com.cn/image/products/st/azprofinet01.png",
+    "产品简介": "对应PROFINET驱动器。可与本公司AZ系列的电动机和搭载此类电动机的电动传动装置连接。用途广泛。下载目录PDF相关解决方案关联产品相关样机视频申请纸质目录",
+    "资料下载": {
+      "下载目录PDF": "https://www.orientalmotor.com.cn/download/retry/?document_kind=4&product_name=3G4O5P6P7M2&file_name=document%2Fproducts%2Ffan%2Fcatalog%2F2106l032cpcpazprofine.pdf&title=AZ%E7%B3%BB%E5%88%97%20PROFINET%E5%AF%B9%E5%BA%94%20%E9%A9%B1%E5%8A%A8%E5%99%A8&cad_no=",
+      "相关解决方案": "https://www.orientalmotor.com.cn/service/solution_application2/?CATEGORY=&BRAND_CD=ALPHA",
+      "关联产品": "https://www.orientalmotor.com.cn/products/st/alpha_stepaz_p",
+      "相关样机视频": "https://www.orientalmotor.com.cn/video/list2/?CATEGORY=&BRAND_CD=ST"
+    },
+    "特征": {
+      "利用PROFINET可连接各种机器": "使用PROFINET时，只需在其通信线上增加AZ系列的电动机就能够实现控制。PROFINET对应驱动器已取得一致性等级B。使用上一级控制器的诊断工具，可执行网络诊断及拓扑学检测。",
+      "网络控制电动机": "可通过网络直接控制。由于使用1根PROFINET通信电缆线连接上一级控制器与PROFINET对应驱动器，因此，节省配线。● GSD文件备有能够更简单使用PROFINET对应产品的GSD文件。GSD文件可从公司网站下载（即将上线）。",
+      "取得“功能安全✽”的认证（AC电源输入型）": "安全系统的对应有助于减少选购配件，实现配线简易化及省空间化。▶点此下载功能安全认证书",
+      "相关产品--αSTEP AZ系列": "AZ系列产品种类丰富，标准品包括行星减速机、谐波驱动等各种减速电动机。▶点击查看αSTEP AZ系列产品种类",
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/st/azprofinet02.png",
+        "https://www.orientalmotor.com.cn/image/products/st/azprofinet03.png",
+        "https://www.orientalmotor.com.cn/image/products/st/azprofinet04.png",
+        "https://www.orientalmotor.com.cn/image/products/st/azcp_1.jpg"
+      ],
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/file/products/st/series/tuvsud_z10_106467.pdf ",
+        "https://www.orientalmotor.com.cn/products/st/astep_az_v/"
+      ]
+    },
+    "规格选购": {
+      "table": {
+        "电源输入": {
+          "单相 100-120V": [
+            {
+              "品名": "AZD-APN"
+            }
+          ],
+          "单相/三相 200-240V": [
+            {
+              "品名": "AZD-CPN"
+            }
+          ],
+          "DC24/48V": [
+            {
+              "品名": "AZD-KPN"
+            }
+          ]
+        }
+      },
+      "品名阅读": "",
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/st/azprofinet01.png",
+        "https://www.orientalmotor.com.cn/image/products/st/azprofinet_pm.png",
+        "https://www.orientalmotor.com.cn/image/products/st/azcp_1.jpg"
+      ],
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-APN",
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-CPN",
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-KPN",
+        "https://www.orientalmotor.com.cn/products/st/astep_az_v/"
+      ]
+    },
+    "系统构成": {
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/st/azprofinet_s_ac.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/azprofinet_s_dc.jpg"
+      ]
+    }
+  },
+  "AZ系列mini驱动器": {
+    "产品名称": "步进伺服混合控制系统αSTEP",
+    "产品类别": " AZ系列mini驱动器",
+    "产品网址": "https://www.orientalmotor.com.cn/products/st/az_mini_f/",
+    "产品图片": "https://www.orientalmotor.com.cn/image/service/azmini01.png",
+    "产品简介": "比盒型驱动器更小。通过mini驱动器，实现装置的小型化、 节能化。可对应电池驱动，可用于比以往更多的用途。下载目录PDF相关解决方案关联产品相关样机视频申请纸质目录",
+    "资料下载": {
+      "下载目录PDF": "https://www.orientalmotor.com.cn/download/retry/?document_kind=4&product_name=3G4O5P6P7M2&file_name=document%2Fproducts%2Ffan%2Fcatalog%2F2206v034cpcpaz.pdf&title=AZ%E7%B3%BB%E5%88%97%20mini%E9%A9%B1%E5%8A%A8%E5%99%A8%20DC%E7%94%B5%E6%BA%90%E8%BE%93%E5%85%A5&cad_no=",
+      "相关解决方案": "https://www.orientalmotor.com.cn/service/solution_application2/?CATEGORY=&BRAND_CD=ALPHA",
+      "关联产品": "https://www.orientalmotor.com.cn/products/st/alpha_stepaz_p",
+      "相关样机视频": "https://www.orientalmotor.com.cn/video/list2/?CATEGORY=&BRAND_CD=ST",
+      "组装在自动位移装置时": "https://www.orientalmotor.com.cn/products/st/az_mini_f/",
+      "组装在固定装置时": "https://www.orientalmotor.com.cn/products/st/az_mini_f_02/"
+    },
+    "特征": {
+      "可收纳到狭窄空间的小型化设计": "可收纳到狭窄空间的小型化设计。使用2个螺丝，可直接安装到装置上。无需DIN导轨。安装空间也控制在最小限度。",
+      "减少车轮驱动轴负担": "mini驱动器的质量为56g。相当于1个M尺寸的鸡蛋。装置总质量越轻，车轮驱动轴的耗电量就越小，充电1次可以长时间驱动。*AZD-KR2D以外的质量为84∼110g。",
+      "电池电源对应": "可通过使用电池电源，电源电压规格广泛。可对应DC24V和DC48V。",
+      "优化电流控制方式，实现节能": "根据负载优化电动机的电流供应量（伺服仿真模式）并降低耗电量。减少电池的充电次数。",
+      "电源电压的可视化": "可通过上一级控制器监控驱动器的电源电压。驱动器的电源电压低于预先设定的阈值时，输出信号。",
+      "无需外部传感器节省配线": "AZ系列不需要外部传感器以及外部传感器相关的配线。使用外部传感器时的配线示意图通过免电池的机械式绝对编码器（ABZO编码器），实现无需外部传感器的高精度定位。",
+      "支持各种接口": "支持全球主要工业用网络。此外，也可通过脉冲序列进行控制。*AZD-KRED已通过正式的EtherCAT一致性测试。*AZD-KR2D同时使用网络转换器(网关)，可支持CC-Link、MECHATROLINK的控制。",
+      "相关产品--αSTEP AZ系列": "AZ系列产品种类丰富，标准品包括行星减速机、谐波驱动等各种减速电动机。▶点击查看αSTEP AZ系列产品种类",
+      "其他相关内容": "▶使自动化更自由-----开拓移动自动化未来的新概念提案自由布局、提高生产效率、多品种少量生产、节省空间、节能 ......东方马达开拓移动自动化未来的新概念提案。组装在自动位移装置时组装在固定装置时",
+      "img": [
+        "https://www.orientalmotor.com.cn/image/service/azmini02_on.png",
+        "https://www.orientalmotor.com.cn/image/service/azmini03.png",
+        "https://www.orientalmotor.com.cn/image/products/st/azmini_18.png",
+        "https://www.orientalmotor.com.cn/image/products/st/azmini_19.png",
+        "https://www.orientalmotor.com.cn/image/service/azmini05.png",
+        "https://www.orientalmotor.com.cn/image/service/azmini06.png",
+        "https://www.orientalmotor.com.cn/image/service/azmini07.png",
+        "https://www.orientalmotor.com.cn/image/service/azmini08.png",
+        "https://www.orientalmotor.com.cn/image/service/azmini09.png",
+        "https://www.orientalmotor.com.cn/image/service/azmini10.png",
+        "https://www.orientalmotor.com.cn/image/service/azmini11.png",
+        "https://www.orientalmotor.com.cn/image/products/st/azmini_20.png",
+        "https://www.orientalmotor.com.cn/image/products/st/azcp.jpg",
+        "https://www.orientalmotor.com.cn/image/service/mobile_automation_09.png"
+      ],
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/products/st/az_mini_f/",
+        "https://www.orientalmotor.com.cn/products/st/az_mini_f_02/",
+        "https://www.orientalmotor.com.cn/products/ct/netc_netconverter_f",
+        "https://www.orientalmotor.com.cn/products/st/astep_az_v/",
+        "https://www.orientalmotor.com.cn/service/solution/mobileautomation/",
+        "https://www.orientalmotor.com.cn/products/st/az_mini_f/",
+        "https://www.orientalmotor.com.cn/products/st/az_mini_f_02/"
+      ]
+    },
+    "规格选购": {
+      "table": {
+        "电源输入[V]": {
+          "DC24/DC48": [
+            {
+              "驱动器类型": "EtherCAT对应驱动器配置文件",
+              "品名": "AZD-KRED"
+            },
+            {
+              "驱动器类型": "EtheNet/IP对应New",
+              "品名": "AZD-KREP"
+            },
+            {
+              "驱动器类型": "PROFINET对应New",
+              "品名": "AZD-KRPN"
+            },
+            {
+              "驱动器类型": "RS-485通信型",
+              "品名": "AZD-KR2D"
+            },
+            {
+              "驱动器类型": "带RS-485通信的脉冲序列输入型New",
+              "品名": "AZD-KRX"
+            }
+          ]
+        }
+      },
+      "品名阅读": "",
+      "img": [
+        "https://www.orientalmotor.com.cn/image/service/azmini01.png",
+        "https://www.orientalmotor.com.cn/image/products/st/azmini_pm01.jpg",
+        "https://www.orientalmotor.com.cn/image/products/st/azcp.jpg"
+      ],
+      "其他产品链接": [
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-KRED",
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-KREP",
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-KRPN",
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-KR2D",
+        "https://www.orientalmotor.com.cn/products/st/list/detail/?brand_tbl_code=ST&product_name=AZD-KRX",
+        "https://www.orientalmotor.com.cn/products/st/astep_az_v/"
+      ]
+    },
+    "系统构成": {
+      "img": [
+        "https://www.orientalmotor.com.cn/image/products/st/azmini_s_01.jpg ",
+        "https://www.orientalmotor.com.cn/image/products/st/azmini_s_02.jpg ",
+        "https://www.orientalmotor.com.cn/image/products/st/azmini_s_03.jpg ",
+        "https://www.orientalmotor.com.cn/image/products/st/azcp.jpg"
+      ]
+    }
+  }
+}

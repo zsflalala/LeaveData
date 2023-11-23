@@ -1,0 +1,16 @@
+controlEngineeringEurope    6470
+automationinside            5266
+iaa                         2606
+autuomation                 2517
+controlEngering             1351
+engineering                 969
+isa                         103
+                            数据总量 ：19282
+# 需修改代码 √
+√ control                   2384 -> 2542
+√ automotionworld           976  -> 11251
+√ controldesign             3825 -> 9402
+√ controlglobal             4183 -> 10672
+                            数据总量 ：33876
+
+                            总数据量 ：53158

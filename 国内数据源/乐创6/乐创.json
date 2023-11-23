@@ -1,0 +1,70 @@
+{
+  "电机控制器": {
+    "电机控制器": {
+      "产品名称": "电机控制器",
+      "产品信息": "为更好的发挥控制器的性能，针对不同的电机，有多种驱动控制器可选配。针对旋转电机的交流伺服驱动控制器，有脉冲型和总线型两种，响应快、精度高，适应性强，配备各类丰富的滤波器算法，可有效降低机械设备的振动。针对直线电机的交流伺服驱动控制器，有脉冲型和总线型两种，搭载全新HDL算法，搭配自整定功能可发挥直线电机最大输出能力，完美跟随。针对步进电机的驱动控制器，脉冲开环和总线闭环两种，独特的电路设计，优越的软件算法，几乎没有振动和噪音。",
+      "产品图片": "http://www.leetro.com/public/uploads/images/2023/06/20230607163043197.png",
+      "产品介绍": [
+        "http://www.leetro.com/public/uploads/ueditor/images/20230607/1686126665156850.png"
+      ],
+      "产品参数": [
+        "http://www.leetro.com/public/uploads/ueditor/images/20230607/1686126673501578.png"
+      ]
+    }
+  },
+  "运动控制器": {
+    "基于高级语言编程的MC": {
+      "产品名称": "基于高级语言编程的MC",
+      "产品信息": "乐创运动控制器是面向高级语言二次开发编程应用的产品，与PC（IPC）组合应用，以集中式控制方式，构建电子制造设备的运动控制软件系统。乐创运动控制器与电机控制器通过两类指令实现控制。其一是I/O脉冲式，其二是EtherCAT总线式。针对不同用户的使用习惯，进一步细分为插卡式与独立式。其中插卡式为PCI（PCIe）总线接口，独立式为Ethernet物理接口。",
+      "产品图片": "http://www.leetro.com/public/uploads/images/2023/06/20230607161533154.png",
+      "产品介绍": [
+        "http://www.leetro.com/public/uploads/ueditor/images/20230607/1686125766783006.png"
+      ],
+      "产品参数": []
+    },
+    "脉冲插卡式——P1系列": {
+      "产品名称": "脉冲插卡式——P1系列",
+      "产品信息": "乐创P1系列脉冲插卡式运动控制器，是PCI（e）总线的PC_Based上位控制硬件。用户利用P1在Windows 操作系统下提供的SDK，基于高级语言IDE编程，完成机器控制应用软件的二次开发。P1主卡硬件采用单FPGA方案，与PC构成主从架构协同工作。配合丰富易用的运动指令集，是为电子制造设备应用而设计的，经济、高效的上位运控方案。",
+      "产品图片": "http://www.leetro.com/public/uploads/images/2023/06/20230607135439105.png",
+      "产品介绍": [
+        "http://www.leetro.com/public/uploads/ueditor/images/20230607/1686117650383327.png"
+      ],
+      "产品参数": [
+        "http://www.leetro.com/public/uploads/ueditor/images/20230607/1686117656111714.png"
+      ]
+    },
+    "脉冲独立式——P2系列": {
+      "产品名称": "脉冲独立式——P2系列",
+      "产品信息": "乐创P2系列脉冲型独立式运动控制器，硬件采用双核ARM+FPGA的SOC方案，为用户提供Windows操作系统下的SDK。用户基于高级语言IDE编程，完成机器控制应用软件的二次开发。P2系列MC与PC之间采用Ethernet通讯，实时控制部分基于P2控制器的多级缓存。配合简洁、易用及为行业工艺定制的API，是点胶机等电子制造设备运控上位方案中的高可靠性选项。",
+      "产品图片": "http://www.leetro.com/public/uploads/images/2023/06/20230607161801154.png",
+      "产品介绍": [
+        "http://www.leetro.com/public/uploads/ueditor/images/20230607/1686125809105991.png"
+      ],
+      "产品参数": [
+        "http://www.leetro.com/public/uploads/ueditor/images/20230607/1686125818125235.png"
+      ]
+    },
+    "EtherCAT插卡式——i6系列": {
+      "产品名称": "EtherCAT插卡式——i6系列",
+      "产品信息": "i6系列多轴总线运动控制器是一款基于EtherCAT总线的PCI接口插卡式运动控制器，可实现多达32轴的同步运动控制，同时支持EtherCAT I/O模块扩展。为用户提供了多轴数、多I/O点数的总线控制解决方案。能帮助机器控制软件的开发人员在原有高级语言开发环境下的快速继承，便于数控自动化设备在多轴、多I/O、多工位应用方向的拓展，特别适合原脉冲型运动控制轴卡为上位方案的技术升级。i6系列EtherCAT总线运动控制器可适用于3C制造和组装、新能源制造和组装以及半导体加工等领域。",
+      "产品图片": "http://www.leetro.com/public/uploads/images/2023/06/20230607161835130.png",
+      "产品介绍": [
+        "http://www.leetro.com/public/uploads/ueditor/images/20230607/1686125945275532.png"
+      ],
+      "产品参数": [
+        "http://www.leetro.com/public/uploads/ueditor/images/20230607/1686125950426574.png"
+      ]
+    },
+    "EtherCAT I/O——E5系列": {
+      "产品名称": "EtherCAT I/O——E5系列",
+      "产品信息": "为配合EtherCAT运动控制器构建完整的运动控制应用系统，乐创提供9款集成式EtherCAT I/O。其中数字量I/O有6款，数字量与模拟量混合I/O有1款，轴脉冲I/O有1 款，专用于点胶、拍照的编码器反馈与数字量混合I/O有1款。现已广泛应用于总线通讯的各种电子制造设备。",
+      "产品图片": "http://www.leetro.com/public/uploads/images/2023/06/20230607161950191.png",
+      "产品介绍": [
+        "http://www.leetro.com/public/uploads/ueditor/images/20230607/1686126006210081.png"
+      ],
+      "产品参数": [
+        "http://www.leetro.com/public/uploads/ueditor/images/20230607/1686126013106576.png"
+      ]
+    }
+  }
+}
