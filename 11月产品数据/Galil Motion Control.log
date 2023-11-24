@@ -1,0 +1,70 @@
+2023-11-24 10:30:21.235 | INFO     | __main__:<module>:197 - UrlLength 31
+2023-11-24 10:30:23.291 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:23.398 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:23.566 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:23.669 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:23.809 | WARNING  | __main__:getType:20 - TypeWarning : -
+2023-11-24 10:30:23.810 | WARNING  | __main__:get_page_source:58 - FisrTypeWarning|SecondTypeWarning=>https://www.galil.com/accessory/cables#SCB-48316
+2023-11-24 10:30:23.810 | WARNING  | __main__:get_page_source:62 - ParameterWarning|FeatureWarning=>https://www.galil.com/accessory/cables#SCB-48316
+2023-11-24 10:30:23.811 | ERROR    | __main__:get_page_source:67 - TitleError=>https://www.galil.com/accessory/cables#SCB-48316
+2023-11-24 10:30:23.832 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:23.839 | WARNING  | __main__:getType:20 - TypeWarning : -
+2023-11-24 10:30:23.840 | WARNING  | __main__:get_page_source:58 - FisrTypeWarning|SecondTypeWarning=>https://www.galil.com/accessory/cables#CABLE-44M-2M
+2023-11-24 10:30:23.841 | WARNING  | __main__:get_page_source:62 - ParameterWarning|FeatureWarning=>https://www.galil.com/accessory/cables#CABLE-44M-2M
+2023-11-24 10:30:23.841 | ERROR    | __main__:get_page_source:67 - TitleError=>https://www.galil.com/accessory/cables#CABLE-44M-2M
+2023-11-24 10:30:23.844 | WARNING  | __main__:getType:20 - TypeWarning : -
+2023-11-24 10:30:23.845 | WARNING  | __main__:get_page_source:58 - FisrTypeWarning|SecondTypeWarning=>https://www.galil.com/accessory/cables#SCB-48206
+2023-11-24 10:30:23.846 | WARNING  | __main__:get_page_source:62 - ParameterWarning|FeatureWarning=>https://www.galil.com/accessory/cables#SCB-48206
+2023-11-24 10:30:23.848 | ERROR    | __main__:get_page_source:67 - TitleError=>https://www.galil.com/accessory/cables#SCB-48206
+2023-11-24 10:30:23.855 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:25.045 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:25.085 | WARNING  | __main__:getType:20 - TypeWarning : -
+2023-11-24 10:30:25.086 | WARNING  | __main__:get_page_source:58 - FisrTypeWarning|SecondTypeWarning=>https://www.galil.com/accessory/cables#ICS-48044-M
+2023-11-24 10:30:25.086 | WARNING  | __main__:get_page_source:62 - ParameterWarning|FeatureWarning=>https://www.galil.com/accessory/cables#ICS-48044-M
+2023-11-24 10:30:25.087 | ERROR    | __main__:get_page_source:67 - TitleError=>https://www.galil.com/accessory/cables#ICS-48044-M
+2023-11-24 10:30:25.297 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:25.533 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:25.897 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:25.899 | WARNING  | __main__:getType:20 - TypeWarning : -
+2023-11-24 10:30:25.900 | WARNING  | __main__:get_page_source:58 - FisrTypeWarning|SecondTypeWarning=>https://www.galil.com/accessory/power-supplies
+2023-11-24 10:30:25.901 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:25.904 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:26.081 | WARNING  | __main__:getType:20 - TypeWarning : -
+2023-11-24 10:30:26.082 | WARNING  | __main__:get_page_source:58 - FisrTypeWarning|SecondTypeWarning=>https://www.galil.com/accessory/cables#CABLE-9-PIN-D
+2023-11-24 10:30:26.082 | WARNING  | __main__:get_page_source:62 - ParameterWarning|FeatureWarning=>https://www.galil.com/accessory/cables#CABLE-9-PIN-D
+2023-11-24 10:30:26.083 | ERROR    | __main__:get_page_source:67 - TitleError=>https://www.galil.com/accessory/cables#CABLE-9-PIN-D
+2023-11-24 10:30:26.114 | WARNING  | __main__:getType:20 - TypeWarning : -
+2023-11-24 10:30:26.114 | WARNING  | __main__:get_page_source:58 - FisrTypeWarning|SecondTypeWarning=>https://www.galil.com/accessory/cables#CABLE-26M-1M
+2023-11-24 10:30:26.115 | WARNING  | __main__:get_page_source:62 - ParameterWarning|FeatureWarning=>https://www.galil.com/accessory/cables#CABLE-26M-1M
+2023-11-24 10:30:26.116 | ERROR    | __main__:get_page_source:67 - TitleError=>https://www.galil.com/accessory/cables#CABLE-26M-1M
+2023-11-24 10:30:26.142 | WARNING  | __main__:getType:20 - TypeWarning : -
+2023-11-24 10:30:26.143 | WARNING  | __main__:get_page_source:58 - FisrTypeWarning|SecondTypeWarning=>https://www.galil.com/accessory/cables#CABLE-44M-1M
+2023-11-24 10:30:26.144 | WARNING  | __main__:get_page_source:62 - ParameterWarning|FeatureWarning=>https://www.galil.com/accessory/cables#CABLE-44M-1M
+2023-11-24 10:30:26.145 | ERROR    | __main__:get_page_source:67 - TitleError=>https://www.galil.com/accessory/cables#CABLE-44M-1M
+2023-11-24 10:30:26.843 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:27.006 | WARNING  | __main__:getType:20 - TypeWarning : -
+2023-11-24 10:30:27.006 | WARNING  | __main__:get_page_source:58 - FisrTypeWarning|SecondTypeWarning=>https://www.galil.com/accessory/cables
+2023-11-24 10:30:27.008 | WARNING  | __main__:get_page_source:62 - ParameterWarning|FeatureWarning=>https://www.galil.com/accessory/cables
+2023-11-24 10:30:27.008 | ERROR    | __main__:get_page_source:67 - TitleError=>https://www.galil.com/accessory/cables
+2023-11-24 10:30:27.311 | WARNING  | __main__:getType:20 - TypeWarning : -
+2023-11-24 10:30:27.312 | WARNING  | __main__:get_page_source:58 - FisrTypeWarning|SecondTypeWarning=>https://www.galil.com/accessory/cables#ICS-48026-M
+2023-11-24 10:30:27.312 | WARNING  | __main__:get_page_source:62 - ParameterWarning|FeatureWarning=>https://www.galil.com/accessory/cables#ICS-48026-M
+2023-11-24 10:30:27.313 | ERROR    | __main__:get_page_source:67 - TitleError=>https://www.galil.com/accessory/cables#ICS-48026-M
+2023-11-24 10:30:27.569 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:27.653 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:27.671 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:27.939 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:27.939 | WARNING  | __main__:getType:20 - TypeWarning : Galil EtherCAT Products-
+2023-11-24 10:30:27.942 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:27.958 | WARNING  | __main__:getType:20 - TypeWarning : -
+2023-11-24 10:30:27.959 | WARNING  | __main__:get_page_source:58 - FisrTypeWarning|SecondTypeWarning=>https://www.galil.com/accessory/motor
+2023-11-24 10:30:27.962 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:27.998 | SUCCESS  | __main__:<module>:219 - one item have been saved in dic
+2023-11-24 10:30:28.712 | WARNING  | __main__:getType:20 - TypeWarning : Downloads-
+2023-11-24 10:30:28.713 | WARNING  | __main__:get_page_source:62 - ParameterWarning|FeatureWarning=>https://www.galil.com/downloads/api
+2023-11-24 10:30:28.714 | ERROR    | __main__:get_page_source:67 - TitleError=>https://www.galil.com/downloads/api
+2023-11-24 10:30:28.839 | WARNING  | __main__:getType:20 - TypeWarning : -
+2023-11-24 10:30:28.840 | WARNING  | __main__:get_page_source:58 - FisrTypeWarning|SecondTypeWarning=>https://www.galil.com/accessory/cables#SCB-48306
+2023-11-24 10:30:28.841 | WARNING  | __main__:get_page_source:62 - ParameterWarning|FeatureWarning=>https://www.galil.com/accessory/cables#SCB-48306
+2023-11-24 10:30:28.841 | ERROR    | __main__:get_page_source:67 - TitleError=>https://www.galil.com/accessory/cables#SCB-48306
+2023-11-24 10:30:28.863 | INFO     | __main__:<module>:229 - 爬取完成，存储在Galil Motion Control_20.json中.

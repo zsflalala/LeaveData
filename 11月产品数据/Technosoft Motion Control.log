@@ -1,0 +1,1150 @@
+2023-11-21 16:23:35.859 | WARNING  | __main__:get_page_source:112 - XpathWarning-InvalidXpath: .//div[@class="gridster ready"]/ul=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=193
+2023-11-21 16:23:35.859 | SUCCESS  | __main__:<module>:181 - one item have been saved in dic
+2023-11-21 16:23:35.859 | INFO     | __main__:<module>:186 - 爬取完成，存储在Technosoft Motion Control_1.json中.
+2023-11-21 16:28:25.615 | INFO     | __main__:<module>:164 - UrlLength 1
+2023-11-21 16:28:28.610 | SUCCESS  | __main__:<module>:181 - one item have been saved in dic
+2023-11-21 16:28:28.610 | INFO     | __main__:<module>:186 - 爬取完成，存储在Technosoft Motion Control_1.json中.
+2023-11-21 16:31:51.302 | INFO     | __main__:<module>:164 - UrlLength 87
+2023-11-21 16:31:55.686 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=169
+2023-11-21 16:31:56.234 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSH22060.pdf
+2023-11-21 16:31:56.371 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=40
+2023-11-21 16:31:56.394 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=170
+2023-11-21 16:31:56.446 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=42
+2023-11-21 16:31:56.508 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=174
+2023-11-21 16:31:56.906 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:31:56.921 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:31:56.922 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:31:56.926 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=38
+2023-11-21 16:31:57.614 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=41
+2023-11-21 16:31:59.598 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 16:31:59.661 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 16:31:59.694 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 16:32:00.391 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 16:32:00.743 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 16:32:01.426 | SUCCESS  | __main__:<module>:181 - one item have been saved in dic
+2023-11-21 16:32:01.529 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/home/#tab-1680ab689683dce2c66
+2023-11-21 16:32:01.907 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=168
+2023-11-21 16:32:01.909 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 16:32:02.206 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU13028.pdf
+2023-11-21 16:32:02.326 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU10025.pdf
+2023-11-21 16:32:02.809 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:32:05.076 | SUCCESS  | __main__:<module>:181 - one item have been saved in dic
+2023-11-21 16:32:05.376 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-21 16:32:05.378 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU24023.pdf
+2023-11-21 16:32:05.479 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/home/#tab-320a985af47ce4b2714
+2023-11-21 16:32:06.080 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU08017.pdf
+2023-11-21 16:32:06.143 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/Technosoft-motors-2020_EN.pdf
+2023-11-21 16:32:06.143 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/home/#tab-9d6bd1606a0b095cb4d
+2023-11-21 16:32:06.411 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 16:32:06.541 | SUCCESS  | __main__:<module>:181 - one item have been saved in dic
+2023-11-21 16:32:06.610 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSU22048.pdf
+2023-11-21 16:32:09.092 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/home/#tab-1bc181f3900ad329247
+2023-11-21 16:32:09.726 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=37
+2023-11-21 16:32:10.492 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 16:32:10.497 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:32:10.551 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 16:32:10.641 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:32:11.476 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=36
+2023-11-21 16:32:11.744 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:32:12.017 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=175
+2023-11-21 16:32:12.044 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/en/custom-solutions/
+2023-11-21 16:32:13.511 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 16:32:13.703 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU17025.pdf
+2023-11-21 16:32:15.335 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:32:15.393 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=144
+2023-11-21 16:32:15.493 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSU13026.pdf
+2023-11-21 16:32:16.126 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=176
+2023-11-21 16:32:16.126 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18
+2023-11-21 16:32:17.432 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 16:32:17.625 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:32:17.639 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=212
+2023-11-21 16:32:17.658 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:32:18.546 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-21 16:32:18.833 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 16:32:20.644 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 16:32:20.893 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU16025.pdf
+2023-11-21 16:32:21.074 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=171
+2023-11-21 16:32:21.750 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU10017.pdf
+2023-11-21 16:32:23.075 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:32:23.241 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:32:23.258 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 16:32:23.274 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=173
+2023-11-21 16:32:24.170 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 16:32:24.460 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 16:32:25.452 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSH22045.pdf
+2023-11-21 16:32:25.802 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 16:32:26.702 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/softwares/
+2023-11-21 16:32:27.341 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/home/#tab-9c55bc072d322167752
+2023-11-21 16:32:27.992 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU17035.pdf
+2023-11-21 16:32:28.085 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU13020.pdf
+2023-11-21 16:32:28.162 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSU13038.pdf
+2023-11-21 16:32:28.524 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 16:32:28.674 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 16:32:29.192 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSU16036.pdf
+2023-11-21 16:32:29.573 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 16:32:31.395 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:32:32.323 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:32:32.959 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:32:33.479 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:32:33.593 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=35
+2023-11-21 16:32:33.774 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=193
+2023-11-21 16:32:34.290 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=39
+2023-11-21 16:32:34.576 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSH16056.pdf
+2023-11-21 16:32:34.630 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 16:32:35.131 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 16:32:35.139 | INFO     | __main__:<module>:186 - 爬取完成，存储在Technosoft Motion Control_3.json中.
+2023-11-21 16:35:33.244 | INFO     | __main__:<module>:164 - UrlLength 87
+2023-11-21 16:35:36.523 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-21 16:35:36.630 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=168
+2023-11-21 16:35:36.636 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 16:35:36.662 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 16:35:37.673 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU10025.pdf
+2023-11-21 16:35:37.935 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU17025.pdf
+2023-11-21 16:35:38.221 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU13028.pdf
+2023-11-21 16:35:38.643 | SUCCESS  | __main__:<module>:185 - one item have been saved in dic
+2023-11-21 16:35:38.806 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 16:35:38.877 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 16:35:39.221 | SUCCESS  | __main__:<module>:185 - one item have been saved in dic
+2023-11-21 16:35:39.534 | SUCCESS  | __main__:<module>:185 - one item have been saved in dic
+2023-11-21 16:35:41.534 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-21 16:35:42.371 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU08017.pdf
+2023-11-21 16:35:42.382 | SUCCESS  | __main__:<module>:185 - one item have been saved in dic
+2023-11-21 16:35:42.451 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 16:35:42.584 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 16:35:42.748 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=170
+2023-11-21 16:35:43.353 | SUCCESS  | __main__:<module>:185 - one item have been saved in dic
+2023-11-21 16:35:43.545 | SUCCESS  | __main__:<module>:185 - one item have been saved in dic
+2023-11-21 16:35:43.758 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSU22048.pdf
+2023-11-21 16:35:44.260 | SUCCESS  | __main__:<module>:185 - one item have been saved in dic
+2023-11-21 16:35:46.462 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSU13026.pdf
+2023-11-21 16:35:46.467 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 16:35:47.991 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:35:48.008 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=171
+2023-11-21 16:35:48.192 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:35:48.358 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=38
+2023-11-21 16:35:49.132 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/home/#tab-320a985af47ce4b2714
+2023-11-21 16:35:49.335 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=169
+2023-11-21 16:35:49.517 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=35
+2023-11-21 16:35:49.858 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/home/#tab-9d6bd1606a0b095cb4d
+2023-11-21 16:35:52.069 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=174
+2023-11-21 16:35:52.650 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:35:53.607 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18
+2023-11-21 16:35:53.622 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:35:53.807 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:35:54.111 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:35:54.975 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:35:55.089 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=176
+2023-11-21 16:35:55.108 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:35:55.454 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=36
+2023-11-21 16:35:57.709 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:35:58.246 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 16:35:58.441 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSH22060.pdf
+2023-11-21 16:35:59.195 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 16:35:59.222 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 16:35:59.771 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/home/#tab-9c55bc072d322167752
+2023-11-21 16:36:00.258 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSU13038.pdf
+2023-11-21 16:36:00.586 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:36:00.676 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 16:36:00.690 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=39
+2023-11-21 16:36:03.352 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:36:03.848 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=42
+2023-11-21 16:36:04.058 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=41
+2023-11-21 16:36:04.829 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=40
+2023-11-21 16:36:04.886 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 16:36:05.401 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/softwares/
+2023-11-21 16:36:05.856 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:36:06.215 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:36:06.293 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:36:06.308 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 16:36:08.951 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/home/#tab-1bc181f3900ad329247
+2023-11-21 16:36:09.470 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=144
+2023-11-21 16:36:09.658 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:36:10.456 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:36:10.492 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/custom-solutions/
+2023-11-21 16:36:10.991 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSU16036.pdf
+2023-11-21 16:36:11.459 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:36:11.829 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=37
+2023-11-21 16:36:11.893 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 16:36:14.621 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 16:36:14.725 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/Technosoft-motors-2020_EN.pdf
+2023-11-21 16:36:14.921 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU24023.pdf
+2023-11-21 16:36:16.119 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSH16056.pdf
+2023-11-21 16:36:16.160 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/home/#tab-1680ab689683dce2c66
+2023-11-21 16:36:16.338 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU13020.pdf
+2023-11-21 16:36:16.982 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU10017.pdf
+2023-11-21 16:36:17.074 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=175
+2023-11-21 16:36:17.346 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSH22045.pdf
+2023-11-21 16:36:17.409 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=212
+2023-11-21 16:36:17.754 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 16:36:17.811 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 16:36:18.892 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 16:36:19.739 | SUCCESS  | __main__:<module>:185 - one item have been saved in dic
+2023-11-21 16:36:20.943 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU17035.pdf
+2023-11-21 16:36:21.936 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU16025.pdf
+2023-11-21 16:36:26.587 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:36:27.504 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=174
+2023-11-21 16:36:27.507 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=169
+2023-11-21 16:36:27.524 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=35
+2023-11-21 16:36:27.544 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=38
+2023-11-21 16:36:27.544 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:36:27.559 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:36:27.560 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=171
+2023-11-21 16:36:27.561 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/home/#tab-320a985af47ce4b2714
+2023-11-21 16:36:28.056 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/home/#tab-9d6bd1606a0b095cb4d
+2023-11-21 16:36:31.916 | SUCCESS  | __main__:<module>:185 - one item have been saved in dic
+2023-11-21 16:36:32.416 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=36
+2023-11-21 16:36:32.839 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 16:36:33.121 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:36:33.158 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:36:33.158 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=176
+2023-11-21 16:36:33.178 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:36:33.228 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:36:33.276 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:36:33.278 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:36:34.447 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 16:36:35.443 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 16:36:38.426 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/home/#tab-9c55bc072d322167752
+2023-11-21 16:36:38.509 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:36:38.773 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 16:36:38.773 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=39
+2023-11-21 16:36:38.773 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:36:38.842 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=42
+2023-11-21 16:36:38.843 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=40
+2023-11-21 16:36:38.858 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=41
+2023-11-21 16:36:39.643 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 16:36:41.027 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/softwares/
+2023-11-21 16:36:42.595 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:36:44.153 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:36:44.371 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 16:36:44.371 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/home/#tab-1bc181f3900ad329247
+2023-11-21 16:36:44.371 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:36:44.412 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=144
+2023-11-21 16:36:44.443 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:36:44.461 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:36:45.263 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/custom-solutions/
+2023-11-21 16:36:46.622 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:36:47.602 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=37
+2023-11-21 16:36:48.569 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 16:36:49.544 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 16:36:49.955 | SUCCESS  | __main__:<module>:185 - one item have been saved in dic
+2023-11-21 16:36:50.062 | SUCCESS  | __main__:<module>:185 - one item have been saved in dic
+2023-11-21 16:36:55.674 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=38
+2023-11-21 16:36:55.674 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=35
+2023-11-21 16:36:55.674 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:36:55.674 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=171
+2023-11-21 16:36:55.674 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:36:55.674 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:36:55.674 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:36:55.674 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/home/#tab-320a985af47ce4b2714
+2023-11-21 16:36:55.674 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:36:55.693 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:37:01.306 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:37:01.306 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=176
+2023-11-21 16:37:01.306 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=39
+2023-11-21 16:37:01.306 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:37:01.306 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=42
+2023-11-21 16:37:01.306 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/home/#tab-9c55bc072d322167752
+2023-11-21 16:37:01.325 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 16:37:01.573 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:37:01.605 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=40
+2023-11-21 16:37:01.605 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=41
+2023-11-21 16:37:06.920 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:37:06.920 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 16:37:06.936 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:37:06.936 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/home/#tab-1bc181f3900ad329247
+2023-11-21 16:37:06.936 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:37:06.960 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=144
+2023-11-21 16:37:07.055 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/softwares/
+2023-11-21 16:37:07.156 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:37:07.227 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/custom-solutions/
+2023-11-21 16:37:07.246 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:37:12.892 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:37:12.909 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=35
+2023-11-21 16:37:12.909 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:37:12.909 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=171
+2023-11-21 16:37:12.909 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:37:12.928 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:37:12.928 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:37:13.177 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=38
+2023-11-21 16:37:13.338 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:37:13.639 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/home/#tab-320a985af47ce4b2714
+2023-11-21 16:37:18.500 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:37:18.516 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:37:18.516 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=39
+2023-11-21 16:37:18.517 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=176
+2023-11-21 16:37:18.542 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 16:37:18.783 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=42
+2023-11-21 16:37:18.826 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:37:19.036 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/home/#tab-9c55bc072d322167752
+2023-11-21 16:37:19.228 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=41
+2023-11-21 16:37:19.613 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=40
+2023-11-21 16:37:22.671 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:37:24.123 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/softwares/
+2023-11-21 16:37:24.139 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:37:24.154 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 16:37:24.170 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/home/#tab-1bc181f3900ad329247
+2023-11-21 16:37:24.387 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=144
+2023-11-21 16:37:24.417 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:37:24.650 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:37:24.897 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/custom-solutions/
+2023-11-21 16:37:25.488 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:37:31.120 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=38
+2023-11-21 16:37:31.120 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:37:31.120 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:37:31.120 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:37:31.120 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:37:31.132 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:37:31.147 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:37:31.147 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=35
+2023-11-21 16:37:31.391 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:37:31.463 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=171
+2023-11-21 16:37:35.477 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:37:35.575 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=42
+2023-11-21 16:37:36.374 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=41
+2023-11-21 16:37:36.593 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=40
+2023-11-21 16:37:36.793 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:37:36.793 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=176
+2023-11-21 16:37:36.794 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 16:37:36.794 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-motors/?SingleProduct=39
+2023-11-21 16:37:37.076 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:37:37.330 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/softwares/
+2023-11-21 16:37:39.639 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=144
+2023-11-21 16:37:40.234 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/home/#tab-1bc181f3900ad329247
+2023-11-21 16:37:40.636 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:37:41.095 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/en/custom-solutions/
+2023-11-21 16:37:41.825 | SUCCESS  | __main__:<module>:185 - one item have been saved in dic
+2023-11-21 16:37:41.825 | SUCCESS  | __main__:<module>:185 - one item have been saved in dic
+2023-11-21 16:37:42.069 | SUCCESS  | __main__:<module>:185 - one item have been saved in dic
+2023-11-21 16:37:42.084 | INFO     | __main__:<module>:195 - 爬取完成，存储在Technosoft Motion Control_14.json中.
+2023-11-21 16:41:00.702 | INFO     | __main__:<module>:164 - UrlLength 87
+2023-11-21 16:41:04.550 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:41:04.565 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:41:04.580 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:41:05.483 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSH22060.pdf
+2023-11-21 16:41:05.624 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSU13038.pdf
+2023-11-21 16:41:06.108 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/home/#tab-1680ab689683dce2c66
+2023-11-21 16:41:06.569 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:06.593 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=144
+2023-11-21 16:41:06.658 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:06.711 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:06.724 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:07.539 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=169
+2023-11-21 16:41:08.056 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:09.617 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=168
+2023-11-21 16:41:09.635 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=40
+2023-11-21 16:41:09.937 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:10.230 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/home/#tab-1bc181f3900ad329247
+2023-11-21 16:41:10.624 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU16025.pdf
+2023-11-21 16:41:11.019 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/en/custom-solutions/
+2023-11-21 16:41:11.125 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU10017.pdf
+2023-11-21 16:41:11.340 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:11.409 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSU22048.pdf
+2023-11-21 16:41:12.507 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:41:13.071 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:13.533 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 16:41:14.576 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 16:41:15.203 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 16:41:15.560 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=174
+2023-11-21 16:41:15.611 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:41:15.858 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:41:16.617 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:41:16.935 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:41:17.024 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18
+2023-11-21 16:41:18.451 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 16:41:18.998 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU10025.pdf
+2023-11-21 16:41:19.080 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:19.108 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:19.721 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 16:41:19.791 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSU16036.pdf
+2023-11-21 16:41:20.066 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:20.939 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:21.226 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:21.678 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 16:41:21.694 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU24023.pdf
+2023-11-21 16:41:22.445 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-21 16:41:22.480 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 16:41:23.070 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:23.482 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=37
+2023-11-21 16:41:24.825 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/softwares/
+2023-11-21 16:41:24.989 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/home/#tab-9d6bd1606a0b095cb4d
+2023-11-21 16:41:25.420 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 16:41:25.715 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 16:41:25.813 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=42
+2023-11-21 16:41:26.435 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 16:41:27.008 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU17035.pdf
+2023-11-21 16:41:27.045 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:27.373 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:27.524 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=41
+2023-11-21 16:41:27.992 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU08017.pdf
+2023-11-21 16:41:28.598 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=36
+2023-11-21 16:41:29.206 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:29.374 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:29.408 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU13020.pdf
+2023-11-21 16:41:29.428 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-21 16:41:30.162 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 16:41:30.595 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 16:41:31.025 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:31.621 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSH16056.pdf
+2023-11-21 16:41:32.389 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-motors/?&SingleProduct=170
+2023-11-21 16:41:32.507 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 16:41:33.158 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSH22045.pdf
+2023-11-21 16:41:34.428 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 16:41:34.905 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:34.943 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 16:41:34.978 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:35.390 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:35.935 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:36.528 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/home/#tab-320a985af47ce4b2714
+2023-11-21 16:41:36.905 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:37.423 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 16:41:38.051 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 16:41:38.723 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:39.116 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/Technosoft-motors-2020_EN.pdf
+2023-11-21 16:41:39.736 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU13028.pdf
+2023-11-21 16:41:41.467 | ERROR    | __main__:get_page_source:60 - ProductImgError=>https://technosoftmotion.com/en/home/#tab-9c55bc072d322167752
+2023-11-21 16:41:43.800 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TCU17025.pdf
+2023-11-21 16:41:43.926 | ERROR    | __main__:get_page_source:53 - TitleError=>https://technosoftmotion.com/wp-content/uploads/TSU13026.pdf
+2023-11-21 16:41:43.926 | INFO     | __main__:<module>:175 - deal time out urls : 4
+2023-11-21 16:41:47.678 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:47.727 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:47.889 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:48.358 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:41:48.376 | INFO     | __main__:<module>:197 - 爬取完成，存储在Technosoft Motion Control_29.json中.
+2023-11-21 16:47:27.387 | INFO     | __main__:<module>:164 - UrlLength 46
+2023-11-21 16:47:32.505 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-21 16:47:32.577 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 16:47:32.610 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:47:32.645 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-21 16:47:32.661 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 16:47:32.974 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=193
+2023-11-21 16:47:32.989 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 16:47:32.989 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18
+2023-11-21 16:47:33.009 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:47:33.011 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:47:37.537 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 16:47:37.537 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:47:38.161 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:47:38.259 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 16:47:38.259 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:47:38.557 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 16:47:38.560 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 16:47:38.615 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 16:47:38.630 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 16:47:38.630 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:47:41.497 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 16:47:41.543 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 16:47:43.529 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 16:47:43.862 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:47:43.862 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 16:47:44.125 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 16:47:44.178 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:47:44.209 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:47:44.231 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:47:44.261 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=212
+2023-11-21 16:47:46.503 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:47:47.142 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:47:48.546 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 16:47:49.474 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 16:47:49.492 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 16:47:49.722 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 16:47:49.774 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:47:49.791 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:47:49.824 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:47:49.875 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 16:47:52.094 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:47:52.532 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 16:47:54.123 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 16:47:54.513 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 16:47:55.101 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=214
+2023-11-21 16:47:55.860 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:47:55.861 | INFO     | __main__:<module>:175 - deal time out urls : 29
+2023-11-21 16:48:01.500 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 16:48:01.516 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18
+2023-11-21 16:48:01.531 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 16:48:01.531 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:48:01.531 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 16:48:01.531 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=193
+2023-11-21 16:48:01.531 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:48:01.547 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 16:48:01.563 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:48:01.609 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:48:07.126 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:48:07.145 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:48:07.159 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:48:07.159 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:48:07.159 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:48:07.159 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=212
+2023-11-21 16:48:07.180 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:48:07.180 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 16:48:07.214 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 16:48:08.114 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 16:48:11.517 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 16:48:11.593 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 16:48:12.348 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:48:12.466 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 16:48:12.786 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 16:48:12.786 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:48:12.786 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:48:12.786 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:48:12.827 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=214
+2023-11-21 16:48:12.829 | INFO     | __main__:<module>:175 - deal time out urls : 25
+2023-11-21 16:48:18.438 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:48:18.439 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:48:18.454 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18
+2023-11-21 16:48:18.455 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=193
+2023-11-21 16:48:18.455 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 16:48:18.456 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 16:48:18.456 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:48:18.475 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 16:48:18.490 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:48:18.491 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 16:48:23.418 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:48:23.592 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:48:24.075 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:48:24.076 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 16:48:24.076 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 16:48:24.076 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:48:24.076 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=212
+2023-11-21 16:48:24.096 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:48:24.096 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 16:48:24.096 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:48:25.709 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 16:48:28.256 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:48:28.780 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:48:28.844 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:48:28.861 | SUCCESS  | __main__:<module>:187 - one item have been saved in dic
+2023-11-21 16:48:28.863 | INFO     | __main__:<module>:197 - 爬取完成，存储在Technosoft Motion Control_5.json中.
+2023-11-21 16:48:38.788 | INFO     | __main__:<module>:164 - UrlLength 46
+2023-11-21 16:48:42.592 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-21 16:48:43.554 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 16:48:44.364 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-21 16:48:44.409 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:48:44.409 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 16:48:44.409 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 16:48:44.409 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:48:44.428 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:48:44.428 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:48:44.444 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:48:48.154 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:48:49.152 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 16:48:49.942 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18
+2023-11-21 16:48:50.008 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:48:50.041 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:48:50.041 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:48:50.042 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 16:48:50.058 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 16:48:50.059 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:48:50.077 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=212
+2023-11-21 16:48:53.757 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 16:48:54.808 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 16:48:55.527 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:48:55.594 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:48:55.644 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=193
+2023-11-21 16:48:55.649 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 16:48:55.649 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 16:48:55.649 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 16:48:55.677 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 16:48:55.678 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:48:59.331 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 16:49:00.425 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:49:01.109 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 16:49:01.193 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 16:49:01.247 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 16:49:01.259 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=214
+2023-11-21 16:49:01.274 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 16:49:01.275 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 16:49:01.275 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:49:01.297 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 16:49:04.932 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 16:49:06.058 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:49:06.731 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 16:49:06.793 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:49:06.876 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 16:49:06.908 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 16:49:06.910 | INFO     | __main__:<module>:175 - deal time out urls : 43
+2023-11-21 16:49:11.508 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:49:12.589 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:49:12.590 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 16:49:12.590 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 16:49:12.590 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 16:49:12.591 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:49:12.591 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18
+2023-11-21 16:49:12.611 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:49:12.612 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:49:12.612 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:49:17.125 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:49:18.222 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 16:49:18.222 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:49:18.239 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 16:49:18.239 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:49:18.239 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 16:49:18.239 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 16:49:18.266 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=212
+2023-11-21 16:49:18.283 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:49:18.308 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:49:22.701 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:49:23.871 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 16:49:23.871 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 16:49:23.871 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 16:49:23.871 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=193
+2023-11-21 16:49:23.882 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:49:23.882 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 16:49:23.897 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:49:23.911 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 16:49:24.008 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 16:49:28.537 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 16:49:29.507 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:49:29.507 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:49:29.507 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 16:49:29.507 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 16:49:29.507 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 16:49:29.507 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=214
+2023-11-21 16:49:29.543 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 16:49:29.577 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 16:49:29.717 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 16:49:32.552 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:49:32.722 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 16:49:32.794 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 16:49:32.794 | INFO     | __main__:<module>:175 - deal time out urls : 39
+2023-11-21 16:49:38.392 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 16:49:38.408 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 16:49:38.423 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:49:38.423 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:49:38.423 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 16:49:38.443 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18
+2023-11-21 16:49:38.443 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:49:38.443 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:49:38.525 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:49:38.541 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:49:43.520 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 16:49:44.039 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 16:49:44.054 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:49:44.059 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 16:49:44.074 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 16:49:44.074 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:49:44.077 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=212
+2023-11-21 16:49:44.086 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:49:44.117 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:49:44.133 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:49:49.140 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=193
+2023-11-21 16:49:49.447 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 16:49:49.527 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 16:49:49.544 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 16:49:49.544 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 16:49:49.669 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:49:49.671 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 16:49:49.696 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:49:49.711 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 16:49:49.712 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 16:49:53.354 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 16:49:54.484 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 16:49:54.549 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 16:49:54.549 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 16:49:54.611 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:49:55.071 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:49:55.127 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 16:49:55.160 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=214
+2023-11-21 16:49:55.277 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 16:49:55.283 | INFO     | __main__:<module>:197 - 爬取完成，存储在Technosoft Motion Control_0.json中.
+2023-11-21 16:50:34.600 | INFO     | __main__:<module>:164 - UrlLength 45
+2023-11-21 16:50:39.352 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:50:39.374 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 16:50:39.727 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 16:50:40.219 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:50:40.234 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=214
+2023-11-21 16:50:40.234 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 16:50:40.234 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:50:40.234 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 16:50:40.391 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 16:50:40.512 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:50:43.358 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:50:44.342 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 16:50:44.958 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:50:45.494 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 16:50:45.839 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:50:45.839 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 16:50:45.857 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-21 16:50:45.864 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 16:50:46.022 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 16:50:46.096 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 16:50:48.945 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 16:50:49.965 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-21 16:50:50.544 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:50:51.093 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 16:50:51.429 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:50:51.445 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:50:51.446 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18
+2023-11-21 16:50:51.496 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:50:51.624 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:50:51.702 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 16:50:54.571 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:50:55.554 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 16:50:56.141 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:50:56.721 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 16:50:57.031 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 16:50:57.046 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 16:50:57.061 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=212
+2023-11-21 16:50:57.127 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:50:57.194 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:50:57.277 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 16:51:00.156 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:51:01.145 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 16:51:01.756 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 16:51:02.304 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 16:51:02.651 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 16:51:02.651 | INFO     | __main__:<module>:175 - deal time out urls : 45
+2023-11-21 16:51:07.479 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:51:07.509 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 16:51:07.593 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:51:07.645 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 16:51:07.660 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 16:51:08.304 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:51:08.304 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 16:51:08.320 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=214
+2023-11-21 16:51:08.342 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 16:51:08.358 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:51:12.429 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:51:12.526 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-21 16:51:13.101 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:51:13.192 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 16:51:13.223 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:51:13.261 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 16:51:13.392 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 16:51:13.460 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 16:51:13.954 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 16:51:13.954 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 16:51:15.563 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 16:51:16.480 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-21 16:51:17.578 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:51:18.596 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 16:51:18.692 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:51:18.824 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:51:18.973 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18
+2023-11-21 16:51:19.044 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:51:19.507 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 16:51:19.544 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:51:20.509 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:51:21.352 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 16:51:23.179 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:51:24.197 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 16:51:24.260 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 16:51:24.392 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=212
+2023-11-21 16:51:24.477 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:51:24.591 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 16:51:24.609 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 16:51:25.089 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:51:25.632 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 16:51:26.107 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:51:26.594 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 16:51:26.856 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 16:51:26.856 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 16:51:26.872 | INFO     | __main__:<module>:175 - deal time out urls : 45
+2023-11-21 16:51:31.476 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 16:51:31.544 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 16:51:31.544 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 16:51:31.557 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:51:31.658 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:51:32.488 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=214
+2023-11-21 16:51:32.488 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 16:51:32.488 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:51:32.503 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 16:51:32.503 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:51:35.363 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:51:35.444 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 16:51:37.136 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:51:37.152 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:51:37.274 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 16:51:37.571 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 16:51:37.738 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-21 16:51:38.106 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 16:51:38.106 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 16:51:38.121 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 16:51:41.007 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 16:51:41.058 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-21 16:51:42.757 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 16:51:42.757 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:51:42.875 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:51:43.174 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:51:43.325 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18
+2023-11-21 16:51:43.553 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 16:51:43.740 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:51:43.740 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:51:45.852 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:51:46.669 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 16:51:48.335 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:51:48.381 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 16:51:48.491 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 16:51:48.773 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=212
+2023-11-21 16:51:48.924 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 16:51:49.153 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:51:49.321 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:51:49.363 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 16:51:51.463 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:51:51.515 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 16:51:52.451 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 16:51:52.476 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 16:51:52.531 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 16:51:52.545 | INFO     | __main__:<module>:197 - 爬取完成，存储在Technosoft Motion Control_0.json中.
+2023-11-21 16:58:30.074 | INFO     | __main__:<module>:173 - UrlLength 45
+2023-11-21 16:58:34.496 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 16:58:34.561 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:58:34.592 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 16:58:34.724 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 16:58:35.684 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 16:58:35.684 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:58:35.684 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 16:58:35.684 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:58:35.713 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:58:35.940 | SUCCESS  | __main__:<module>:196 - one item have been saved in dic
+2023-11-21 16:58:37.471 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:58:38.362 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 16:58:39.858 | SUCCESS  | __main__:<module>:196 - one item have been saved in dic
+2023-11-21 16:58:40.198 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:58:40.438 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:58:40.491 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 16:58:40.591 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 16:58:40.769 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 16:58:41.290 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=214
+2023-11-21 16:58:41.291 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 16:58:41.330 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:58:43.972 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 16:58:44.523 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 16:58:45.388 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 16:58:45.508 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 16:58:45.658 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 16:58:45.807 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:58:46.038 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:58:46.356 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 16:58:46.446 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 16:58:46.883 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:58:49.455 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 16:58:49.558 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:58:50.133 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 16:58:50.957 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:58:51.240 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 16:58:51.414 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:58:51.624 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:58:51.974 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-21 16:58:52.063 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-21 16:58:52.501 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:58:54.608 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 16:58:54.676 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 16:58:55.419 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:58:56.691 | SUCCESS  | __main__:<module>:196 - one item have been saved in dic
+2023-11-21 16:58:56.691 | INFO     | __main__:<module>:184 - deal time out urls : 42
+2023-11-21 16:59:00.576 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 16:59:01.644 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 16:59:01.815 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:59:01.860 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 16:59:01.879 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 16:59:02.330 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:59:02.330 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 16:59:02.331 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:59:02.345 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:59:02.346 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:59:06.204 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:59:06.352 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:59:06.443 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 16:59:06.450 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 16:59:06.605 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 16:59:06.663 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 16:59:07.489 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=214
+2023-11-21 16:59:07.951 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:59:07.952 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 16:59:07.967 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 16:59:11.339 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 16:59:11.408 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 16:59:11.444 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 16:59:11.787 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 16:59:11.971 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:59:12.027 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:59:12.516 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 16:59:12.577 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 16:59:13.080 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:59:13.591 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:59:15.444 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 16:59:16.990 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 16:59:17.005 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:59:17.422 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 16:59:17.422 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-21 16:59:17.443 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-21 16:59:17.591 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:59:17.640 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:59:17.779 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:59:17.795 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 16:59:18.578 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 16:59:19.204 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:59:19.204 | INFO     | __main__:<module>:184 - deal time out urls : 42
+2023-11-21 16:59:23.474 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 16:59:23.509 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 16:59:23.530 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 16:59:23.532 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 16:59:23.541 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 16:59:23.609 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 16:59:23.629 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 16:59:24.821 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 16:59:24.821 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 16:59:24.852 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 16:59:27.492 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 16:59:28.360 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 16:59:28.491 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 16:59:29.092 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=4
+2023-11-21 16:59:29.122 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=214
+2023-11-21 16:59:29.239 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 16:59:29.255 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 16:59:29.593 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 16:59:29.602 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 16:59:30.493 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 16:59:33.073 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 16:59:33.956 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 16:59:34.074 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 16:59:34.357 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 16:59:34.376 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 16:59:34.464 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 16:59:34.464 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 16:59:34.528 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 16:59:34.838 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 16:59:36.091 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 16:59:38.695 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 16:59:39.374 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-21 16:59:39.493 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-21 16:59:39.511 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 16:59:39.511 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 16:59:39.526 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=33
+2023-11-21 16:59:39.953 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 16:59:39.995 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 16:59:40.029 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 16:59:40.460 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 16:59:41.461 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 16:59:41.694 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 16:59:41.713 | INFO     | __main__:<module>:206 - 爬取完成，存储在Technosoft Motion Control_3.json中.
+2023-11-21 17:09:01.107 | INFO     | __main__:<module>:171 - UrlLength 45
+2023-11-21 17:09:05.547 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 17:09:05.557 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 17:09:05.557 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 17:09:06.313 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 17:09:06.672 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 17:09:06.672 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 17:09:06.696 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 17:09:06.696 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=212
+2023-11-21 17:09:06.696 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 17:09:06.720 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 17:09:08.510 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 17:09:10.467 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 17:09:11.134 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 17:09:11.426 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-21 17:09:11.436 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 17:09:11.444 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 17:09:11.482 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 17:09:11.484 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 17:09:11.650 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-21 17:09:12.241 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 17:09:14.056 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 17:09:15.580 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 17:09:15.581 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 17:09:16.057 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 17:09:16.353 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 17:09:17.012 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 17:09:17.012 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 17:09:17.044 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 17:09:17.229 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 17:09:17.327 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-21 17:09:17.706 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 17:09:19.372 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 17:09:20.432 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 17:09:20.526 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 17:09:21.169 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 17:09:21.557 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 17:09:22.433 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 17:09:22.491 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 17:09:22.609 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 17:09:22.797 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 17:09:23.266 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=214
+2023-11-21 17:09:24.325 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 17:09:24.476 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 17:09:25.058 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-21 17:09:25.422 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-21 17:09:25.422 | INFO     | __main__:<module>:182 - deal time out urls : 42
+2023-11-21 17:09:30.434 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 17:09:30.509 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 17:09:30.992 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 17:09:31.008 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 17:09:31.010 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=212
+2023-11-21 17:09:31.010 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 17:09:31.010 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 17:09:31.029 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 17:09:31.046 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 17:09:31.067 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 17:09:33.549 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 17:09:35.542 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 17:09:36.107 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 17:09:36.346 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 17:09:36.352 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-21 17:09:36.373 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 17:09:36.468 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 17:09:36.468 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 17:09:36.612 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 17:09:36.635 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 17:09:38.428 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 17:09:39.108 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 17:09:41.414 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 17:09:41.457 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 17:09:41.630 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 17:09:41.633 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-21 17:09:41.691 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 17:09:41.913 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 17:09:42.032 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 17:09:42.060 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 17:09:43.434 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 17:09:44.011 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 17:09:45.458 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 17:09:45.478 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 17:09:46.341 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 17:09:46.572 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 17:09:47.221 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 17:09:47.330 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 17:09:47.538 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 17:09:47.635 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 17:09:47.639 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=214
+2023-11-21 17:09:47.792 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 17:09:47.793 | INFO     | __main__:<module>:182 - deal time out urls : 42
+2023-11-21 17:09:52.404 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-21 17:09:52.431 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-21 17:09:52.507 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-21 17:09:52.526 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-21 17:09:53.401 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=5
+2023-11-21 17:09:53.401 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=8
+2023-11-21 17:09:53.402 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=14
+2023-11-21 17:09:53.402 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=192
+2023-11-21 17:09:53.402 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=32
+2023-11-21 17:09:53.417 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=212
+2023-11-21 17:09:56.454 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-21 17:09:56.563 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-21 17:09:58.020 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=18https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=165
+2023-11-21 17:09:58.097 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=11
+2023-11-21 17:09:58.405 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-21 17:09:58.411 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-21 17:09:58.474 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-21 17:09:58.476 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-21 17:09:58.478 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-21 17:09:58.986 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=221
+2023-11-21 17:10:00.429 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-21 17:10:02.041 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=186
+2023-11-21 17:10:02.379 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-21 17:10:03.528 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-21 17:10:03.566 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=10
+2023-11-21 17:10:03.572 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-21 17:10:04.024 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=34
+2023-11-21 17:10:04.057 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=145
+2023-11-21 17:10:04.058 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=12
+2023-11-21 17:10:04.472 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-21 17:10:06.025 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=213
+2023-11-21 17:10:06.504 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-21 17:10:06.551 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-21 17:10:07.560 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-21 17:10:08.382 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-21 17:10:08.665 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-21 17:10:09.122 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=137
+2023-11-21 17:10:09.544 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-21 17:10:09.654 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=9
+2023-11-21 17:10:09.783 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-21 17:10:09.836 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-21 17:10:10.065 | ERROR    | __main__:get_page_source:32 - The read operation timed out=>https://technosoftmotion.com/en/intelligent-drives/?SingleProduct=214
+2023-11-21 17:10:10.096 | INFO     | __main__:<module>:204 - 爬取完成，存储在Technosoft Motion Control_3.json中.
+2023-11-22 17:44:09.356 | INFO     | __main__:<module>:171 - UrlLength 45
+2023-11-22 17:44:10.605 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-22 17:44:10.606 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-22 17:44:10.644 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-22 17:44:10.646 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-22 17:44:10.646 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-22 17:44:10.678 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-22 17:44:11.760 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:11.776 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-22 17:44:11.776 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:11.794 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-22 17:44:11.809 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-22 17:44:11.826 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:11.850 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:12.964 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-22 17:44:12.977 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:13.010 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-22 17:44:13.094 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:13.210 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:14.166 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-22 17:44:14.262 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-22 17:44:14.311 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-22 17:44:14.412 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-22 17:44:14.503 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:14.615 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:14.630 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:14.693 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:14.711 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:15.262 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:15.381 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-22 17:44:15.677 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-22 17:44:15.777 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-22 17:44:15.843 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-22 17:44:15.877 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-22 17:44:16.529 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:16.546 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-22 17:44:16.650 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:16.831 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:17.020 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-22 17:44:17.438 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:17.714 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-22 17:44:17.761 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-22 17:44:17.775 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:18.081 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:18.110 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:18.211 | SUCCESS  | __main__:<module>:194 - one item have been saved in dic
+2023-11-22 17:44:18.212 | INFO     | __main__:<module>:182 - deal time out urls : 24
+2023-11-22 17:44:19.359 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-22 17:44:19.502 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-22 17:44:19.509 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-22 17:44:19.509 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-22 17:44:19.523 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-22 17:44:19.544 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-22 17:44:19.544 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-22 17:44:19.597 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-22 17:44:19.627 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-22 17:44:19.660 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-22 17:44:20.559 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-22 17:44:20.690 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-22 17:44:20.745 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-22 17:44:20.745 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-22 17:44:20.745 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-22 17:44:20.762 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-22 17:44:20.785 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-22 17:44:20.812 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-22 17:44:20.911 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-22 17:44:20.934 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-22 17:44:21.718 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-22 17:44:21.874 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-22 17:44:21.907 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-22 17:44:21.908 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-22 17:44:21.908 | INFO     | __main__:<module>:182 - deal time out urls : 24
+2023-11-22 17:44:23.536 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=19
+2023-11-22 17:44:23.546 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=150
+2023-11-22 17:44:23.547 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=7
+2023-11-22 17:44:23.551 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=190
+2023-11-22 17:44:23.561 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=30
+2023-11-22 17:44:23.561 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=224
+2023-11-22 17:44:23.576 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=6
+2023-11-22 17:44:23.576 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=20
+2023-11-22 17:44:23.578 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=13
+2023-11-22 17:44:23.610 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=243
+2023-11-22 17:44:24.692 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=244
+2023-11-22 17:44:24.712 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=4
+2023-11-22 17:44:24.712 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=3
+2023-11-22 17:44:24.712 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=193
+2023-11-22 17:44:24.712 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=138
+2023-11-22 17:44:24.727 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=15
+2023-11-22 17:44:24.761 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=191
+2023-11-22 17:44:25.492 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=212
+2023-11-22 17:44:25.513 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=194
+2023-11-22 17:44:25.559 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=213
+2023-11-22 17:44:25.819 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=189
+2023-11-22 17:44:25.834 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=188
+2023-11-22 17:44:26.012 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=31
+2023-11-22 17:44:26.063 | ERROR    | __main__:get_page_source:36 - RespError:301=>https://technosoftmotion.com/en/intelligent-drives/?&SingleProduct=246
+2023-11-22 17:44:26.077 | INFO     | __main__:<module>:204 - 爬取完成，存储在Technosoft Motion Control_21.json中.

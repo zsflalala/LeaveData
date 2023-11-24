@@ -1,0 +1,996 @@
+{
+  "pro": [
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "RIO-47300",
+      "FirstType": "PLCs",
+      "SecondType": "Remote I/O",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/RIO47300-nobg-3239.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/plcs\">PLCs</a>\n              </li>\n          <li>\n                  <a href=\"/plcs/remote-io\">Remote I/O</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n            <div class=\"field field--name-field-features field--type-text-long field--label-above\">\n    <div class=\"field__label\">Features</div>\n              <div class=\"field__item\"><div class=\"check-list\">\n<ul>\n\t<li><span style=\"line-height: 1.538em;\">Programmable logic controller (PLC) that is smart, compact and cost-effective</span></li>\n\t<li>(2) 10/100 Base-T Ethernet port and (1) RS232 port up to 115/19.2 kbaud.</li>\n\t<li>ModBus/TCP master or slave</li>\n\t<li>Lots of I/O - <a href=\"/plcs/product-comparison\">Model comparison</a>\n\t<ul>\n\t\t<li>8 analog inputs </li>\n\t\t<li>8 analog outputs </li>\n\t\t<li>24 optically isolated inputs </li>\n\t\t<li>24 optically isolated outputs</li>\n\t</ul>\n\t</li>\n\t<li>Analog PID Process Control Loops</li>\n\t<li>Multitasking for concurrent execution of up to four application programs.</li>\n\t<li>LED indicators for all digital I/O points</li>\n\t<li>Contains RISC processor and memory for programming I/O events</li>\n\t<li>Easy-to-use, 2-letter Galil programming language</li>\n\t<li>Expanded variables, memory and control loops</li>\n\t<li>Web interface and email capability for sending messages</li>\n\t<li>Powered by Power-Over-Ethernet (PoE) or external 18-36V DC input</li>\n\t<li>RIO-473xx: 7.19\" x 4.7\" with DIN tray;screw terminals</li>\n\t<li>Screw terminals</li>\n\t<li>Interface to RTD or Thermocouple temperature sensors with SCB-48x06</li>\n\t<li>Galil's <a href=\"/downloads/software/ladder-interface-software\">Ladder Interface Software</a> is available for converting Relay Ladder Logic programs into deterministic code</li>\n\t<li>Custom hardware and firmware options available</li>\n\t<li>Quadrature, SSI and BiSS encoder support</li>\n\t<li>Additional 24 high-power digital inputs or outputs optoisolated, non-configurable</li>\n</ul>\n</div>\n</div>\n          </div>\n\n        </div>\n        ",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n          <p>The RIO-47300 <a href=\"/plcs\">PLC</a> is a DIN rail mount unit with screw terminals and Ethernet. The <a href=\"/plcs\">RIO</a> contains a fast RISC processor for handling I/O logic and is programmed using Galil's intuitive command language or using Galil's Ladder Interface software.<br/>\nEach RIO unit is self-contained with numerous analog and digital I/O including: 48 high-power optically isolated digital I/O (72 with extended I/O option), 16 user configurable analog I/O, and dual Ethernet ports. The RIO-47300 has expanded memory containing 400 lines of program space, 254 variables, 1000 array elements, 6 PID loops, and 5 Ethernet handles.<br/>\nThe RIO-47300 model has an internal switch with two Ethernet ports which allow daisy chaining of RIO units without an external switch. It can also easily communicate with other devices including Galil's <a href=\"/motion-controllers/multi-axis/dmc-40x0\">DMC-40x0</a>, <a href=\"/motion-controllers/multi-axis/dmc-41x3\">DMC-41x3</a> and <a href=\"/motion-controllers/single-axis/dmc-3x01x\">DMC-30000</a> Ethernet motion controllers.</p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td style=\"width: 100px;\"><img alt=\"rohs\" src=\"/sites/default/files/rohs.gif\" style=\"vertical-align: middle;height: 30px;\"/></td>\n</tr></tbody></table>\n        </div>\n        "
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "The RIO-47300\nPLC\nis a DIN rail mount unit with screw terminals and Ethernet. The\nRIO\ncontains a fast RISC processor for handling I/O logic and is programmed using Galil's intuitive command language or using Galil's Ladder Interface software.\nEach RIO unit is self-contained with numerous analog and digital I/O including: 48 high-power optically isolated digital I/O (72 with extended I/O option), 16 user configurable analog I/O, and dual Ethernet ports. The RIO-47300 has expanded memory containing 400 lines of program space, 254 variables, 1000 array elements, 6 PID loops, and 5 Ethernet handles.\nThe RIO-47300 model has an internal switch with two Ethernet ports which allow daisy chaining of RIO units without an external switch. It can also easily communicate with other devices including Galil's\nDMC-40x0\n,\nDMC-41x3\nand\nDMC-30000\nEthernet motion controllers."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [
+              "https://www.galil.com/sites/default/files/rohs.gif"
+            ],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Features\nProgrammable logic controller (PLC) that is smart, compact and cost-effective\n(2) 10/100 Base-T Ethernet port and (1) RS232 port up to 115/19.2 kbaud.\nModBus/TCP master or slave\nLots of I/O -\nModel comparison\n8 analog inputs\n8 analog outputs\n24 optically isolated inputs\n24 optically isolated outputs\nAnalog PID Process Control Loops\nMultitasking for concurrent execution of up to four application programs.\nLED indicators for all digital I/O points\nContains RISC processor and memory for programming I/O events\nEasy-to-use, 2-letter Galil programming language\nExpanded variables, memory and control loops\nWeb interface and email capability for sending messages\nPowered by Power-Over-Ethernet (PoE) or external 18-36V DC input\nRIO-473xx: 7.19\" x 4.7\" with DIN tray;screw terminals\nScrew terminals\nInterface to RTD or Thermocouple temperature sensors with SCB-48x06\nGalil's\nLadder Interface Software\nis available for converting Relay Ladder Logic programs into deterministic code\nCustom hardware and firmware options available\nQuadrature, SSI and BiSS encoder support\nAdditional 24 high-power digital inputs or outputs optoisolated, non-configurable",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/plcs/remote-io/rio-47300"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "GDK | Galil Design Kit",
+      "FirstType": "Downloads",
+      "SecondType": "Software",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/gdk-website-image_0.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/downloads\">Downloads</a>\n              </li>\n          <li>\n                  <a href=\"/downloads/software\">Software</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n<div class=\"view-content\"><div><div class=\"check-list\"><ul class=\"c-links c-theme-ul\">\t<li>Powerful software tools for Galil motion controllers and PLCs.</li>\t<li>Scope tool designed to emulate a traditional digital Oscilloscope.</li>\t<li>Tuner designed to assist the user in optimizing their system’s performance.</li>\t<li>Terminal tool for command and response communication.</li>\t<li>Editor tool for developing DMC code applications.</li>\t<li>Viewer tool for real-time visualization of controller data.</li>\t<li>Setup tool for managing parameters, firmware, and controller data.</li>\t<li>Dock tools in the Graphical User Interface or while floating.</li>\t<li>Communicate with multiple controller effortlessly.</li>\t<li>Built with gclib programming API.</li>\t<li>Use GDK while using gclib based applications.</li>\t<li>Communicate with controllers over Ethernet, Serial, and PCI</li>\t<li>Currently available on Windows</li>\t<li>All current generation <a href=\"http://www.galil.com/motion-controllers\" target=\"_blank\">Controllers</a> and <a href=\"http://www.galil.com/plcs\" target=\"_blank\">PLCs</a> are supported</li></ul></div></div></div>\n</div>",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n<p>The Galil Design Kit (GDK) is Galil Motion Control's newest software package for Galil motion controllers and PLCs. GDK is built on the efficient and powerful gclib programming API making communication with motion controllers and PLCs easy and effective. GDK's modular design allows communication with one or many controllers with a core tool set including terminal, program editor, viewer, setup tool, scope, and tuner.</p><p> </p><p>GDK is built using a client-server architecture allowing GDK to communicate with many controllers while a host program is also communicating with these controllers. Monitoring and debugging has never been easier with the tools provided by GDK.</p><p> </p><p>The GDK Scope is designed to emulate a traditional digital Oscilloscope. There are many features that it provides such as intuitive measuring and zooming tools, trigger tools, autoscale, and more. There are a variety of trigger modes available such as Scan, Auto, and Normal which allows the user to plot key events. This tool can be used for many different applications such as tuning, measuring motor settling time and overshoot, and measuring the system's characteristics such as resonances and backlash.</p><p> </p><p>The GDK Tuner is designed to assist the user in optimizing their system’s performance. It provides a simple user interface for editing a variety of filter parameters such as Pole, Notch, and PID. The user can also edit the controller's torque limits, the voltage offset, and feedforward parameters. The Auto-Crossover tuning algorithm is customizable as well as the Tuner's Test Signals. The GDK Tuner is made to pair with GDK's Scope Tool to provide a complete tuning tool set.</p><p> </p><p>The Terminal allows the user to send commands and read responses from the user. It has features such as command history, inline command search, auto-repeat, and paste-to-hardware allowing batch commands to be sent to the controller.</p><p> </p><p>The program Editor allows multiple programs to be edited, downloaded, uploaded, and run. DMC code syntax highlighting and a code preprocessor provide a number of language features not present in pure DMC code.</p><p> </p><p>The Viewer tool provides a graphical interface displaying the important information of the controller in real-time. Additional viewers can be configured and customized for any application.</p><p> </p><p>The Setup Tool makes backing up and restoring controller settings easy. Update parameters, variables, arrays, and programs from within the setup tool. Development controllers can be cloned for production units.</p>\n</div>"
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "The Galil Design Kit (GDK) is Galil Motion Control's newest software package for Galil motion controllers and PLCs. GDK is built on the efficient and powerful gclib programming API making communication with motion controllers and PLCs easy and effective. GDK's modular design allows communication with one or many controllers with a core tool set including terminal, program editor, viewer, setup tool, scope, and tuner.\nGDK is built using a client-server architecture allowing GDK to communicate with many controllers while a host program is also communicating with these controllers. Monitoring and debugging has never been easier with the tools provided by GDK.\nThe GDK Scope is designed to emulate a traditional digital Oscilloscope. There are many features that it provides such as intuitive measuring and zooming tools, trigger tools, autoscale, and more. There are a variety of trigger modes available such as Scan, Auto, and Normal which allows the user to plot key events. This tool can be used for many different applications such as tuning, measuring motor settling time and overshoot, and measuring the system's characteristics such as resonances and backlash.\nThe GDK Tuner is designed to assist the user in optimizing their system’s performance. It provides a simple user interface for editing a variety of filter parameters such as Pole, Notch, and PID. The user can also edit the controller's torque limits, the voltage offset, and feedforward parameters. The Auto-Crossover tuning algorithm is customizable as well as the Tuner's Test Signals. The GDK Tuner is made to pair with GDK's Scope Tool to provide a complete tuning tool set.\nThe Terminal allows the user to send commands and read responses from the user. It has features such as command history, inline command search, auto-repeat, and paste-to-hardware allowing batch commands to be sent to the controller.\nThe program Editor allows multiple programs to be edited, downloaded, uploaded, and run. DMC code syntax highlighting and a code preprocessor provide a number of language features not present in pure DMC code.\nThe Viewer tool provides a graphical interface displaying the important information of the controller in real-time. Additional viewers can be configured and customized for any application.\nThe Setup Tool makes backing up and restoring controller settings easy. Update parameters, variables, arrays, and programs from within the setup tool. Development controllers can be cloned for production units."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Powerful software tools for Galil motion controllers and PLCs.\nScope tool designed to emulate a traditional digital Oscilloscope.\nTuner designed to assist the user in optimizing their system’s performance.\nTerminal tool for command and response communication.\nEditor tool for developing DMC code applications.\nViewer tool for real-time visualization of controller data.\nSetup tool for managing parameters, firmware, and controller data.\nDock tools in the Graphical User Interface or while floating.\nCommunicate with multiple controller effortlessly.\nBuilt with gclib programming API.\nUse GDK while using gclib based applications.\nCommunicate with controllers over Ethernet, Serial, and PCI\nCurrently available on Windows\nAll current generation\nControllers\nand\nPLCs\nare supported",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/downloads/software/gdk"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "Ladder Interface Software",
+      "FirstType": "Downloads",
+      "SecondType": "Software",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/ladder-interface-software_big.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/downloads\">Downloads</a>\n              </li>\n          <li>\n                  <a href=\"/downloads/software\">Software</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n<ul class=\"c-links c-theme-ul\">\t<li>Object types include\t<ul class=\"c-links c-theme-ul\">\t\t<li>Contacts</li>\t\t<li>Coils</li>\t\t<li>Control relays (virtual contacts/coils)</li>\t\t<li>Boxes (including timers, counters and data manipulation)</li>\t\t<li>Analog I/O</li>\t</ul>\t</li>\t<li>Standard mathematical and logical operators include\t<ul class=\"c-links c-theme-ul\">\t\t<li>Equal, Not Equal, Less than, Greater than</li>\t\t<li>AND, OR (normally open/closed)- Add, Subtract, Multiply, Divide, Increment, Decrement</li>\t\t<li>Shift or rotate accumulator left or right</li>\t</ul>\t</li>\t<li>Galil command box for specifying any valid Galil two-letter command</li></ul>\n</div>",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n<p>Galil's Ladder Interface Software is a software tool for the RIO-471xx compact PLC. The software converts a relay Ladder Logic program into code for input into the RIO controller. Ladder Logic is often used by programmable logic controller (PLC) programmers to graphically input I/O logic. While direct RIO programming using Galil's two-letter text instructions allows for flexible coding, it is sometimes easier to determine the I/O logic visually with Ladder Logic.</p><p> </p><p>The Ladder Interface Software provides an easy-to-use graphical interface that allows object types for: contacts, coils, control relays, boxes (including timers, counters and data manipulation) and analog I/O. The software generates an RIO program from the specified objects in the flow diagram. In addition to generating optimized code, Galil's Ladder Interface Software automatically adds determinism to the RIO program.</p><p/>\n</div>"
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "Galil's Ladder Interface Software is a software tool for the RIO-471xx compact PLC. The software converts a relay Ladder Logic program into code for input into the RIO controller. Ladder Logic is often used by programmable logic controller (PLC) programmers to graphically input I/O logic. While direct RIO programming using Galil's two-letter text instructions allows for flexible coding, it is sometimes easier to determine the I/O logic visually with Ladder Logic.\nThe Ladder Interface Software provides an easy-to-use graphical interface that allows object types for: contacts, coils, control relays, boxes (including timers, counters and data manipulation) and analog I/O. The software generates an RIO program from the specified objects in the flow diagram. In addition to generating optimized code, Galil's Ladder Interface Software automatically adds determinism to the RIO program."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Object types include\nContacts\nCoils\nControl relays (virtual contacts/coils)\nBoxes (including timers, counters and data manipulation)\nAnalog I/O\nStandard mathematical and logical operators include\nEqual, Not Equal, Less than, Greater than\nAND, OR (normally open/closed)- Add, Subtract, Multiply, Divide, Increment, Decrement\nShift or rotate accumulator left or right\nGalil command box for specifying any valid Galil two-letter command",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/downloads/software/ladder-interface-software"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "DMC-500x0",
+      "FirstType": "Motion Controllers",
+      "SecondType": "Multi-Axis",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/DMC50000-C022-I000-NOAMP-f6552-1145x984-small.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers\">Motion Controllers</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers/multi-axis\">Multi-Axis</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n            <div class=\"field field--name-field-features field--type-text-long field--label-above\">\n    <div class=\"field__label\">Features</div>\n              <div class=\"field__item\"><div class=\"check-list\">\n<ul>\n\t<li>Configurable controller for up to 8 axes of EtherCAT Master with any of the first 4 axes for local control or EtherCAT Master </li>\n\t<li>\n\t<div>10/100BASE-T Ethernet port; (1) EtherCAT Port; (2) RS232 ports up to 115 kbaud</div>\n\t</li>\n\t<li>Available with internal, multi-axis servo or stepper drives. Or, connect to conventional external drives (only first four axes) </li>\n\t<li>\n\t<div>For local axes, accepts up to 22 million counts per second of quadrature encoder for servos; Outputs up to 6 MHz for steppers; EtherCAT command speed up to 1 billion counts per second</div>\n\t</li>\n\t<li>Sample times as low as 375 microseconds for 1-4 axes and 750 microseconds for 5-8 axes</li>\n\t<li>\n\t<div>First four axes, advanced PID compensation with velocity and acceleration feedforward, integration limits, notch filter and low-pass filter</div>\n\t</li>\n\t<li>\n\t<div>Modes of motion include jogging, point-to-point positioning, position tracking, contouring, linear and circular interpolation, electronic gearing, ECAM, and PVT  </div>\n\t</li>\n\t<li>Ellipse scaling, slow-down around corners, infinite segment feed and feed rate override</li>\n\t<li>\n\t<div>Multitasking for concurrent execution of up to eight application programs</div>\n\t</li>\n\t<li>\n\t<div>Non-volatile memory for application programs (4000 Lines), variables (510), and arrays (24000)</div>\n\t</li>\n\t<li>Dual encoders for every local servo axis</li>\n\t<li>\n\t<div>Optically isolated home input and forward and reverse limits for every local axis; Uses EtherCAT drive for home and limit switches</div>\n\t</li>\n\t<li>\n\t<div>Uncommitted I/O:</div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>8 optically isolated inputs and 8 optically isolated outputs </div>\n\t\t</li>\n\t\t<li>\n\t\t<div>Isolated, high-power outputs for driving brakes or relays (local axis only)</div>\n\t\t</li>\n\t\t<li>\n\t\t<div>8 uncommitted analog inputs</div>\n\t\t</li>\n\t\t<li>\n\t\t<div>High speed position latch and output compare</div>\n\t\t</li>\n\t\t<li>\n\t\t<div>32 additional 3.3V TTL I/O (5V option) </div>\n\t\t</li>\n\t\t<li>\n\t\t<div>More I/O available with RIO PLC</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div>2 line x 8 character LCD </div>\n\t</li>\n\t<li>\n\t<div>Accepts single 20 - 80 VDC input</div>\n\t</li>\n\t<li>\n\t<div>Communication drivers for Windows and Linux </div>\n\t</li>\n\t<li>\n\t<div><span style=\"line-height: 1.538em;\">Custom hardware and firmware options available</span><span style=\"line-height: 1.538em;\"> </span></div>\n\t</li>\n</ul>\n</div>\n</div>\n          </div>\n\n        </div>\n        ",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n          <p>The DMC-500x0 EtherCAT Controller is Galil Motion Control's newest entry in its latest generation of digital motion controllers. Incorporating all of the features of our flagship Accelera series controller and designed with compatibility and flexibility in mind, the DMC-500x0 allows integration of remote EtherCAT drives into new and existing applications with just a handful of configuration commands. The DMC-500x0 is offered in 1 through 8 axis formats. Axes 1 - 4 can be configured as either local or EtherCAT drives while axes 5 – 8 can be configured for additional EtherCAT drives. Unique to the motion control industry, this ability to mix and match local and EtherCAT drives on the same controller provides increased flexibility for any application. In addition, the DMC-500x0 is fully compatible with Galil’s internal servo and stepper motor amplifiers as well as third party external drives.</p>\n\n<p>Once enabled, an EtherCAT axis replaces a local axis and can be controlled in the same manner. This transparency means access to Galil’s full library of coordinated motion functions that can be mapped to any combination of local and EtherCAT axes. Standard modes of motion include Jogging, Point to Point, Electronic Gearing and Cam, Linear and Vector Interpolation, Contour, and PVT modes. EtherCAT drives can be configured in software to close the PID control loop on the controller or on the drive. In the first mode, torque commands are sent to the motor amplifier after closing the control loop using Galil’s on board PID control algorithm. This mode allows access to the Galil’s standard PID control loop features, including advanced PID compensation, velocity feedforward, acceleration feedforward, integrator limits, notch filter, low pass filter and backlash compensation. In the second mode, the servo control loop is closed on the EtherCAT drive with the Galil controller sending motion profile commands at rates of up to 2.5 kHz on a 1-4 axis controller. Standard opto-isolated inputs for each local axis include a forward limit, reverse limit and homing input. The controller also features 8 uncommitted opto-isolated inputs and 8 uncommitted opto-isolated high power outputs. The DMC-500x0 includes 8 uncommitted analog inputs, allowing the controller to interface with analog sensors such as joysticks and temperature sensors. Inputs from two separate encoders are available for each local servo axis. Local auxiliary encoder inputs are also available for axes configured for EtherCAT, providing access to Galil’s dual feedback PID control loop. The DMC-500x0 can be used with Galil’s newest software package, <a href=\"/downloads/software/gdk\">GDK</a>; simplifying system set up, controller programming and servo tuning. Also included is access to the GalilTools API, allowing development of powerful host applications in multiple languages and operating systems. Like all Galil controllers, the DMC-500x0 uses Galil’s easy to learn two letter ASCII command language. Configuring and programming the controller is simple and intuitive with English-like commands such as TP for Tell Position and EU for EtherCAT network Up. Built in subroutines and error monitoring make development of robust applications a straightforward affair. One CAT5e Ethernet port and two RS-232 ports are provided for communication with a host PC. Multiple EtherCAT drives can be connected in a daisy chain configuration and connected to the controller’s CAT5e EtherCAT port, simplifying wiring and decreasing setup time. The DMC-500x0 is packaged in a compact metal enclosure measuring 8.1” x 7.25” x 1.72” and operates from a single 20 – 80 volt DC supply. See the above list for EtherCAT drive support.<br/>\nSupport for additional drives will be added in the future. Speak with a Galil Applications Engineer for drive specific support.</p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width: 100px;\"><img alt=\"rohs\" src=\"/sites/default/files/rohs.gif\" style=\"vertical-align: middle;height: 30px;\"/></td>\n\t\t\t<td style=\"width: 100px;\"><a href=\"/about/ce-certifications\"><img alt=\"ce\" src=\"/sites/default/files/ce_logo.gif\" style=\"vertical-align: middle;height: 30px;\"/></a></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n        </div>\n        "
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "The DMC-500x0 EtherCAT Controller is Galil Motion Control's newest entry in its latest generation of digital motion controllers. Incorporating all of the features of our flagship Accelera series controller and designed with compatibility and flexibility in mind, the DMC-500x0 allows integration of remote EtherCAT drives into new and existing applications with just a handful of configuration commands. The DMC-500x0 is offered in 1 through 8 axis formats. Axes 1 - 4 can be configured as either local or EtherCAT drives while axes 5 – 8 can be configured for additional EtherCAT drives. Unique to the motion control industry, this ability to mix and match local and EtherCAT drives on the same controller provides increased flexibility for any application. In addition, the DMC-500x0 is fully compatible with Galil’s internal servo and stepper motor amplifiers as well as third party external drives.\nOnce enabled, an EtherCAT axis replaces a local axis and can be controlled in the same manner. This transparency means access to Galil’s full library of coordinated motion functions that can be mapped to any combination of local and EtherCAT axes. Standard modes of motion include Jogging, Point to Point, Electronic Gearing and Cam, Linear and Vector Interpolation, Contour, and PVT modes. EtherCAT drives can be configured in software to close the PID control loop on the controller or on the drive. In the first mode, torque commands are sent to the motor amplifier after closing the control loop using Galil’s on board PID control algorithm. This mode allows access to the Galil’s standard PID control loop features, including advanced PID compensation, velocity feedforward, acceleration feedforward, integrator limits, notch filter, low pass filter and backlash compensation. In the second mode, the servo control loop is closed on the EtherCAT drive with the Galil controller sending motion profile commands at rates of up to 2.5 kHz on a 1-4 axis controller. Standard opto-isolated inputs for each local axis include a forward limit, reverse limit and homing input. The controller also features 8 uncommitted opto-isolated inputs and 8 uncommitted opto-isolated high power outputs. The DMC-500x0 includes 8 uncommitted analog inputs, allowing the controller to interface with analog sensors such as joysticks and temperature sensors. Inputs from two separate encoders are available for each local servo axis. Local auxiliary encoder inputs are also available for axes configured for EtherCAT, providing access to Galil’s dual feedback PID control loop. The DMC-500x0 can be used with Galil’s newest software package,\nGDK\n; simplifying system set up, controller programming and servo tuning. Also included is access to the GalilTools API, allowing development of powerful host applications in multiple languages and operating systems. Like all Galil controllers, the DMC-500x0 uses Galil’s easy to learn two letter ASCII command language. Configuring and programming the controller is simple and intuitive with English-like commands such as TP for Tell Position and EU for EtherCAT network Up. Built in subroutines and error monitoring make development of robust applications a straightforward affair. One CAT5e Ethernet port and two RS-232 ports are provided for communication with a host PC. Multiple EtherCAT drives can be connected in a daisy chain configuration and connected to the controller’s CAT5e EtherCAT port, simplifying wiring and decreasing setup time. The DMC-500x0 is packaged in a compact metal enclosure measuring 8.1” x 7.25” x 1.72” and operates from a single 20 – 80 volt DC supply. See the above list for EtherCAT drive support.\nSupport for additional drives will be added in the future. Speak with a Galil Applications Engineer for drive specific support."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [
+              "https://www.galil.com/sites/default/files/ce_logo.gif",
+              "https://www.galil.com/sites/default/files/rohs.gif"
+            ],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Features\nConfigurable controller for up to 8 axes of EtherCAT Master with any of the first 4 axes for local control or EtherCAT Master\n10/100BASE-T Ethernet port; (1) EtherCAT Port; (2) RS232 ports up to 115 kbaud\nAvailable with internal, multi-axis servo or stepper drives. Or, connect to conventional external drives (only first four axes)\nFor local axes, accepts up to 22 million counts per second of quadrature encoder for servos; Outputs up to 6 MHz for steppers; EtherCAT command speed up to 1 billion counts per second\nSample times as low as 375 microseconds for 1-4 axes and 750 microseconds for 5-8 axes\nFirst four axes, advanced PID compensation with velocity and acceleration feedforward, integration limits, notch filter and low-pass filter\nModes of motion include jogging, point-to-point positioning, position tracking, contouring, linear and circular interpolation, electronic gearing, ECAM, and PVT\nEllipse scaling, slow-down around corners, infinite segment feed and feed rate override\nMultitasking for concurrent execution of up to eight application programs\nNon-volatile memory for application programs (4000 Lines), variables (510), and arrays (24000)\nDual encoders for every local servo axis\nOptically isolated home input and forward and reverse limits for every local axis; Uses EtherCAT drive for home and limit switches\nUncommitted I/O:\n8 optically isolated inputs and 8 optically isolated outputs\nIsolated, high-power outputs for driving brakes or relays (local axis only)\n8 uncommitted analog inputs\nHigh speed position latch and output compare\n32 additional 3.3V TTL I/O (5V option)\nMore I/O available with RIO PLC\n2 line x 8 character LCD\nAccepts single 20 - 80 VDC input\nCommunication drivers for Windows and Linux\nCustom hardware and firmware options available",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/motion-controllers/multi-axis/dmc-500x0"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "DMC-41x3",
+      "FirstType": "Motion Controllers",
+      "SecondType": "Multi-Axis",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/dmc-41x3_big_0.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers\">Motion Controllers</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers/multi-axis\">Multi-Axis</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n            <div class=\"field field--name-field-features field--type-text-long field--label-above\">\n    <div class=\"field__label\">Features</div>\n              <div class=\"field__item\"><div class=\"check-list\">\n<ul>\n\t<li>Ethernet 10/100Base-T port; (1) USB - main; (1) RS-232 - aux.</li>\n\t<li>Optional plug-in amplifier boards for driving stepper, brush, or brushless servo motors up to 750 Watts. Or, connect to external drives of any power range.\n\t<ul>\n\t\t<li><span style=\"line-height: 24.608px;\">See </span><a href=\"/accessory/internal-amplifier-and-drive-options\" name=\"Internal Amplifiers and Drives\" style=\"line-height: 24.608px;\" title=\"Internal Amplifiers and Drives\">Internal Amplifiers and Drives</a><span style=\"line-height: 24.608px;\"> for o</span><span style=\"line-height: 24.608px;\">ptions availab</span><span style=\"line-height: 24.608px;\">le.</span></li>\n\t</ul>\n\t</li>\n\t<li>User-configurable for stepper or servo motors on any combination of axes. Optional firmware for piezo-ceramic motors. Configurable for sinusoidal commutation.</li>\n\t<li>Accepts up to 15MHz encoder frequencies for servos and outputs up to 3MHz for steppers.</li>\n\t<li>PID compensation with velocity and acceleration feedforward, integration limits, notch filter and low-pass filter.</li>\n\t<li>Modes of motion include jogging, point-to-point positioning, contouring, PVT, linear and circular interpolation, electronic gearing and ECAM. Ellipse scaling, slow-down around corners, infinite segment feed and feedrate override.</li>\n\t<li>Over 200 English-like commands including conditional statements and event triggers.</li>\n\t<li>Non-volatile memory for programs, variables and arrays. Multitasking for concurrent execution of up to eight programs.</li>\n\t<li>Optically isolated home input and forward and reverse end-of-travel limits for every axis.</li>\n\t<li>Uncommitted, isolated inputs and isolated outputs.</li>\n\t<li>1- through 4-axis models: 8 inputs and 8 outputs (4mA default; 25mA or 500mA option).</li>\n\t<li>5- through 8-axis models: 16 inputs and 16 outputs (4mA default; 25mA or 500mA option).</li>\n\t<li>High speed position latch for each axis and output compare.</li>\n\t<li>8 uncommitted analog inputs.</li>\n\t<li>Dual encoder inputs for each servo axis.</li>\n\t<li>Accepts single 20-80 VDC input.</li>\n\t<li>Available as card-level or with metal enclosure.</li>\n\t<li>Communication drivers for Windows, Mac OSX, and Linux.</li>\n\t<li>Custom hardware and firmware options available.</li>\n</ul>\n</div>\n\n<p> </p>\n</div>\n          </div>\n\n        </div>\n        ",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n          <p>The DMC-41x3 motion controller is one of Galil's latest generation, stand-alone motion controller. Compared with the <a href=\"/motion-controllers/multi-axis/dmc-21x3\">DMC-21x3</a> controller, the DMC-41x3 offers the following enhancements: 100BASE-T Ethernet, aux RS232 port, USB port, uncommitted analog inputs, up to 15 MHz encoder frequencies, more program memory, and faster sample frequencies. The DMC-41x3 also accommodates the same <a href=\"/accessory/internal-amplifier-and-drive-options\">stepper and servo motor drives</a> used in the <a href=\"/motion-controllers/multi-axis/dmc-40x0\">DMC-40x0</a> series and allows two 4-axis 750 W drives to be installed in the 8-axis controller package. The DMC-41x3 is available as a box-level or card-level motion controller. The unit operates stand-alone or interfaces to a PC with Ethernet 10/100BASE-T, or USB. It includes optically isolated I/O in addition to analog inputs and outputs. The DMC-41x3 controller and drive unit accepts power from a single 20-80 VDC source.</p>\n\n<p>The DMC-41x3 is available in one through eight axis formats, and each axis is user-configurable for stepper or servo motor operation. Standard programming features include PID compensation with velocity and acceleration feedforward, multitasking for simultaneously running up to eight programs, and I/O processing for synchronizing motion with external events. <span style=\"line-height: 25px;\">Modes of motion include point-to-point positioning, position tracking, jogging, linear and circular interpolation, contouring, electronic gearing and </span>ecam<span style=\"line-height: 25px;\">. Like all </span>Galil<span style=\"line-height: 25px;\"> controllers, programming the </span>DMC-41x3<span style=\"line-height: 25px;\"> is simplified with two-letter, intuitive commands and a full set of software tools such as </span><a href=\"/downloads/software/gdk\" style=\"line-height: 25px;\">GDK</a><span style=\"line-height: 25px;\"> for servo tuning and analysis.</span></p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width: 100px;\"><img alt=\"rohs\" src=\"/sites/default/files/rohs.gif\" style=\"vertical-align: middle;height: 30px;\"/></td>\n\t\t\t<td style=\"width: 100px;\"><a href=\"/about/ce-certifications\"><img alt=\"ce\" src=\"/sites/default/files/ce_logo.gif\" style=\"vertical-align: middle;height: 30px;\"/></a></td>\n\t\t\t\n\t\t</tr>\n\t</tbody>\n</table>\n        </div>\n        "
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "The DMC-41x3 motion controller is one of Galil's latest generation, stand-alone motion controller. Compared with the\nDMC-21x3\ncontroller, the DMC-41x3 offers the following enhancements: 100BASE-T Ethernet, aux RS232 port, USB port, uncommitted analog inputs, up to 15 MHz encoder frequencies, more program memory, and faster sample frequencies. The DMC-41x3 also accommodates the same\nstepper and servo motor drives\nused in the\nDMC-40x0\nseries and allows two 4-axis 750 W drives to be installed in the 8-axis controller package. The DMC-41x3 is available as a box-level or card-level motion controller. The unit operates stand-alone or interfaces to a PC with Ethernet 10/100BASE-T, or USB. It includes optically isolated I/O in addition to analog inputs and outputs. The DMC-41x3 controller and drive unit accepts power from a single 20-80 VDC source.\nThe DMC-41x3 is available in one through eight axis formats, and each axis is user-configurable for stepper or servo motor operation. Standard programming features include PID compensation with velocity and acceleration feedforward, multitasking for simultaneously running up to eight programs, and I/O processing for synchronizing motion with external events.\nModes of motion include point-to-point positioning, position tracking, jogging, linear and circular interpolation, contouring, electronic gearing and\necam\n. Like all\nGalil\ncontrollers, programming the\nDMC-41x3\nis simplified with two-letter, intuitive commands and a full set of software tools such as\nGDK\nfor servo tuning and analysis."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [
+              "https://www.galil.com/sites/default/files/ce_logo.gif",
+              "https://www.galil.com/sites/default/files/rohs.gif"
+            ],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Features\nEthernet 10/100Base-T port; (1) USB - main; (1) RS-232 - aux.\nOptional plug-in amplifier boards for driving stepper, brush, or brushless servo motors up to 750 Watts. Or, connect to external drives of any power range.\nSee\nInternal Amplifiers and Drives\nfor o\nptions availab\nle.\nUser-configurable for stepper or servo motors on any combination of axes. Optional firmware for piezo-ceramic motors. Configurable for sinusoidal commutation.\nAccepts up to 15MHz encoder frequencies for servos and outputs up to 3MHz for steppers.\nPID compensation with velocity and acceleration feedforward, integration limits, notch filter and low-pass filter.\nModes of motion include jogging, point-to-point positioning, contouring, PVT, linear and circular interpolation, electronic gearing and ECAM. Ellipse scaling, slow-down around corners, infinite segment feed and feedrate override.\nOver 200 English-like commands including conditional statements and event triggers.\nNon-volatile memory for programs, variables and arrays. Multitasking for concurrent execution of up to eight programs.\nOptically isolated home input and forward and reverse end-of-travel limits for every axis.\nUncommitted, isolated inputs and isolated outputs.\n1- through 4-axis models: 8 inputs and 8 outputs (4mA default; 25mA or 500mA option).\n5- through 8-axis models: 16 inputs and 16 outputs (4mA default; 25mA or 500mA option).\nHigh speed position latch for each axis and output compare.\n8 uncommitted analog inputs.\nDual encoder inputs for each servo axis.\nAccepts single 20-80 VDC input.\nAvailable as card-level or with metal enclosure.\nCommunication drivers for Windows, Mac OSX, and Linux.\nCustom hardware and firmware options available.",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/motion-controllers/multi-axis/dmc-41x3"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "DMC-3x01x",
+      "FirstType": "Motion Controllers",
+      "SecondType": "Single-Axis",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/dmc-300xx_big.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers\">Motion Controllers</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers/single-axis\">Single-Axis</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n            <div class=\"field field--name-field-features field--type-text-long field--label-above\">\n    <div class=\"field__label\">Features</div>\n              <div class=\"field__item\"><div class=\"check-list\">\n<ul>\n\t<li>Single-axis motion controller with optional servo or stepper motor control in a compact enclosure:\n\t<ul>\n\t\t<li><span style=\"line-height: 1.538em;\">Optional, on-board 800 W brushed/brushless sine drive;</span>\n\t\t<ul>\n\t\t\t<li><span style=\"line-height: 1.538em;\">10 A cont., 15 A peak at 20-80 VDC</span></li>\n\t\t\t<li>160VDC input option is available, consult factory for your application requirement</li>\n\t\t</ul>\n\t\t</li>\n\t\t<li>Optional, on-board microsteppping drive;\n\t\t<ul>\n\t\t\t<li>6 A/phase, 20-80 VDC; 256 microsteps per full step</li>\n\t\t\t<li>160VDC<span style=\"line-height: 24px;\"> input option is available, consult factory for your application</span><span style=\"line-height: 24px;\"> requirement</span></li>\n\t\t</ul>\n\t\t</li>\n\t\t<li>Optional, on-board low-current stepper drive;\n\t\t<ul>\n\t\t\t<li>1.4 A/phase; Full, half, 1/4, 1/16 step; 12-30 VDC</li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>Motion controller available as card-level or box-level unit which can connect to stepper or servo amplifier of any power range</li>\n\t<li>Two daisy-chainable Ethernet 100 Base-T ports. One 115kbaud RS232 port</li>\n\t<li>Ethernet supports multiple masters and slaves. TCP/IP, UDP and Modbus TCP master protocol for communication with I/O devices</li>\n\t<li>Encoder feedback up to 15 MHz. Quadrature standard. SSI and BiSS encoder option(SER). Sinusoidal Encoder option (DMC-31xxx). Main and auxiliary encoder inputs</li>\n\t<li>Non-volatile memory for programs, variables and arrays.</li>\n\t<li>Concurrent execution of four programs.</li>\n\t<li>Optically isolated forward and reverse limit inputs and homing input</li>\n\t<li>8 uncommitted, isolated inputs and 4 isolated outputs</li>\n\t<li>High speed position latch and output compare</li>\n\t<li>2 uncommitted 12bit 0-5V analog inputs (16bit ±10V inputs on DMC-31xxx) and 1 uncommitted analog output</li>\n\t<li>Standard power input is +/-12V and 5V. Controller available with optional DC-DC converter with 9-48VDC single supply input.(Option for 20-80 VDC).</li>\n\t<li>Compact Form Factor\n\t<ul>\n\t\t<li>DMC-30010/DMC-30011 Card: 3.0\" x 4.0\"</li>\n\t\t<li>DMC-30010/DMC-30011 Box: 3.9\" x 4.2\" x 1.4\"</li>\n\t\t<li>DMC-30012/<span style=\"line-height: 24px;\">30014-BOX/30016-BOX/</span>30017-BOX: 3.9\" x 5.0\" x 1.5\"</li>\n\t</ul>\n\t</li>\n</ul>\n</div>\n</div>\n          </div>\n\n        </div>\n        ",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n          <p>The DMC-3x01x Motion Controller Series is Galil's latest generation single-axis motion controller. It uses a 32-bit RISC processor to provide higher speed than older models. The DMC-3x01x is available as a compact card-level or box-level unit and connects to a stepper or servo motor amplifierof any power range. Or, the DMC-3x01x can be purchased with an internal 800-Watt brushless sine drive or microstepping drive which minimizes space, cost and wiring while proving an all in one motor control. The motion controller operates stand-alone or can be networked to a PC via Ethernet. <span style=\"line-height: 25px;\">Modes of motion include point-to-point positioning, position tracking, jogging, contouring, electronic gearing and </span>ecam<span style=\"line-height: 25px;\">. Like all </span>Galil<span style=\"line-height: 25px;\"> controllers, programming the </span>DMC-3x01x<span style=\"line-height: 25px;\"> is simplified with two-letter, intuitive commands and a full set of software tools such as </span><a href=\"/downloads/software/gdk\">GDK</a><span style=\"line-height: 25px;\"> for servo tuning and analysis.</span></p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width: 100px;\"><img alt=\"rohs\" src=\"/sites/default/files/rohs.gif\" style=\"vertical-align: middle;height: 30px;\"/></td>\n\t\t\t<td style=\"width: 100px;\"><a href=\"/about/ce-certifications\"><img alt=\"ce\" src=\"/sites/default/files/ce_logo.gif\" style=\"vertical-align: middle;height: 30px;\"/></a></td>\n\t\t\t\n\t\t</tr>\n\t</tbody>\n</table>\n        </div>\n        "
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "The DMC-3x01x Motion Controller Series is Galil's latest generation single-axis motion controller. It uses a 32-bit RISC processor to provide higher speed than older models. The DMC-3x01x is available as a compact card-level or box-level unit and connects to a stepper or servo motor amplifierof any power range. Or, the DMC-3x01x can be purchased with an internal 800-Watt brushless sine drive or microstepping drive which minimizes space, cost and wiring while proving an all in one motor control. The motion controller operates stand-alone or can be networked to a PC via Ethernet.\nModes of motion include point-to-point positioning, position tracking, jogging, contouring, electronic gearing and\necam\n. Like all\nGalil\ncontrollers, programming the\nDMC-3x01x\nis simplified with two-letter, intuitive commands and a full set of software tools such as\nGDK\nfor servo tuning and analysis."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [
+              "https://www.galil.com/sites/default/files/ce_logo.gif",
+              "https://www.galil.com/sites/default/files/rohs.gif"
+            ],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Features\nSingle-axis motion controller with optional servo or stepper motor control in a compact enclosure:\nOptional, on-board 800 W brushed/brushless sine drive;\n10 A cont., 15 A peak at 20-80 VDC\n160VDC input option is available, consult factory for your application requirement\nOptional, on-board microsteppping drive;\n6 A/phase, 20-80 VDC; 256 microsteps per full step\n160VDC\ninput option is available, consult factory for your application\nrequirement\nOptional, on-board low-current stepper drive;\n1.4 A/phase; Full, half, 1/4, 1/16 step; 12-30 VDC\nMotion controller available as card-level or box-level unit which can connect to stepper or servo amplifier of any power range\nTwo daisy-chainable Ethernet 100 Base-T ports. One 115kbaud RS232 port\nEthernet supports multiple masters and slaves. TCP/IP, UDP and Modbus TCP master protocol for communication with I/O devices\nEncoder feedback up to 15 MHz. Quadrature standard. SSI and BiSS encoder option(SER). Sinusoidal Encoder option (DMC-31xxx). Main and auxiliary encoder inputs\nNon-volatile memory for programs, variables and arrays.\nConcurrent execution of four programs.\nOptically isolated forward and reverse limit inputs and homing input\n8 uncommitted, isolated inputs and 4 isolated outputs\nHigh speed position latch and output compare\n2 uncommitted 12bit 0-5V analog inputs (16bit ±10V inputs on DMC-31xxx) and 1 uncommitted analog output\nStandard power input is +/-12V and 5V. Controller available with optional DC-DC converter with 9-48VDC single supply input.(Option for 20-80 VDC).\nCompact Form Factor\nDMC-30010/DMC-30011 Card: 3.0\" x 4.0\"\nDMC-30010/DMC-30011 Box: 3.9\" x 4.2\" x 1.4\"\nDMC-30012/\n30014-BOX/30016-BOX/\n30017-BOX: 3.9\" x 5.0\" x 1.5\"",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/motion-controllers/single-axis/dmc-3x01x"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "RIO-471xx",
+      "FirstType": "PLCs",
+      "SecondType": "Remote I/O",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/rio-471xx_big.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/plcs\">PLCs</a>\n              </li>\n          <li>\n                  <a href=\"/plcs/remote-io\">Remote I/O</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n            <div class=\"field field--name-field-features field--type-text-long field--label-above\">\n    <div class=\"field__label\">Features</div>\n              <div class=\"field__item\"><div class=\"check-list\">\n<ul>\n\t<li><span style=\"line-height: 1.538em;\">Programmable logic controller (PLC) that is smart, compact and cost-effective</span></li>\n\t<li>(1) 10/100 Base-T Ethernet port (2 with RIO-47142 and RIO-47162) and (1) RS232 port up to 115/19.2 kbaud.</li>\n\t<li>ModBus/TCP master or slave</li>\n\t<li>Lots of I/O - <a href=\"/plcs/product-comparison\">Model comparison</a>\n\t<ul>\n\t\t<li>8 analog inputs </li>\n\t\t<li>8 analog outputs </li>\n\t\t<li>16 - 40* optically isolated inputs (40 available only on RIO-47162)</li>\n\t\t<li>16 optically isolated outputs</li>\n\t\t<li>24* 300 mA Sourcing Digital Outputs (Available only on RIO-47162 )</li>\n\t</ul>\n\t</li>\n\t<li>Analog PID Process Control Loops</li>\n\t<li>Multitasking for concurrent execution of up to four application programs.</li>\n\t<li>LED indicators for all digital I/O points</li>\n\t<li>Contains RISC processor and memory for programming I/O events</li>\n\t<li>Easy-to-use, 2-letter Galil programming language</li>\n\t<li>Expanded variables, memory and control loops for RIO-471x2</li>\n\t<li>Web interface and email capability for sending messages</li>\n\t<li>Powered by Power-Over-Ethernet (PoE) or external 18-36V DC input</li>\n\t<li>RIO-471xx: 3.88\" x 4.26\" x 1.30\"; Metal Enclosure</li>\n\t<li>D-type connectors</li>\n\t<li>Interface to RTD or Thermocouple temperature sensors with SCB-48x06</li>\n\t<li>Galil's <a href=\"/downloads/software/ladder-interface-software\">Ladder Interface Software</a> is available for converting Relay Ladder Logic programs into deterministic code</li>\n\t<li>Custom hardware and firmware options available</li>\n</ul>\n</div>\n</div>\n          </div>\n\n        </div>\n        ",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n          <p>The RIO-471xx is a compact <a href=\"/plcs\">PLC</a> with Ethernet that is smart, easy-to-use and cost-effective. The <a href=\"/plcs\">RIO</a> contains a fast RISC processor for handling I/O logic and is programmed using Galil's intuitive command language or using Galil's Ladder Interface software.</p>\n<p>Each RIO unit is self-contained with numerous analog and digital I/O including: 8 analog inputs, 8 analog outputs, 16 optically isolated inputs, 8 highpower isolated outputs and 8 low-power isolated outputs. The RIO-4710x provides 0-5V analog I/O and the RIO-4712x provides configurable +/-10V, +/-5V, 0-5V, or 0-10V analog I/O. The RIO can be configured to operate as a Modbus TCP master or slave, and multiple RIO units can be distributed on an Ethernet network allowing I/O expansion.</p>\n<p>The RIO-471x0 contains 200 lines of program space, 126 variables, 400 array elements, 2 PID loops, and 3 Ethernet handles. The RIO-471x2 has expanded memory containing 400 lines of program space, 254 variables, 1000 array elements, 6 PID loops, and 5 Ethernet handles.</p>\n<p>The RIO-47142 model has an internal switch with two Ethernet ports which allow daisy chaining of RIO units without an external switch. It can also easily communicate with other devices including Galil's DMC-40x0, DMC-41x3 and DMC-30000 Ethernet motion controllers.</p>\n<p>The RIO-47162 model has more I/O than any of the previously offered RIO-471xx models with D-Sub breakouts and two Ethernet ports. The RIO-47162 has 40 optically isolated Digital Inputs and 24 Digital Outputs for a total of 64 digital I/O. In addition, the RIO-47162 has 8 Analog Inputs and 8 Analog Outputs (16 bit ADC/DAC option available - 12 bit standard.)</p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td style=\"width: 100px;\"><img alt=\"rohs\" src=\"/sites/default/files/rohs.gif\" style=\"vertical-align: middle;height: 30px;\"/></td>\n<td style=\"width: 100px;\"><a href=\"/about/ce-certifications\"><img alt=\"ce\" src=\"/sites/default/files/ce_logo.gif\" style=\"vertical-align: middle;height: 30px;\"/></a></td>\n<td> </td>\n</tr></tbody></table>\n        </div>\n        "
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "The RIO-471xx is a compact\nPLC\nwith Ethernet that is smart, easy-to-use and cost-effective. The\nRIO\ncontains a fast RISC processor for handling I/O logic and is programmed using Galil's intuitive command language or using Galil's Ladder Interface software.\nEach RIO unit is self-contained with numerous analog and digital I/O including: 8 analog inputs, 8 analog outputs, 16 optically isolated inputs, 8 highpower isolated outputs and 8 low-power isolated outputs. The RIO-4710x provides 0-5V analog I/O and the RIO-4712x provides configurable +/-10V, +/-5V, 0-5V, or 0-10V analog I/O. The RIO can be configured to operate as a Modbus TCP master or slave, and multiple RIO units can be distributed on an Ethernet network allowing I/O expansion.\nThe RIO-471x0 contains 200 lines of program space, 126 variables, 400 array elements, 2 PID loops, and 3 Ethernet handles. The RIO-471x2 has expanded memory containing 400 lines of program space, 254 variables, 1000 array elements, 6 PID loops, and 5 Ethernet handles.\nThe RIO-47142 model has an internal switch with two Ethernet ports which allow daisy chaining of RIO units without an external switch. It can also easily communicate with other devices including Galil's DMC-40x0, DMC-41x3 and DMC-30000 Ethernet motion controllers.\nThe RIO-47162 model has more I/O than any of the previously offered RIO-471xx models with D-Sub breakouts and two Ethernet ports. The RIO-47162 has 40 optically isolated Digital Inputs and 24 Digital Outputs for a total of 64 digital I/O. In addition, the RIO-47162 has 8 Analog Inputs and 8 Analog Outputs (16 bit ADC/DAC option available - 12 bit standard.)"
+            ],
+            "type": "text"
+          },
+          {
+            "content": [
+              "https://www.galil.com/sites/default/files/ce_logo.gif",
+              "https://www.galil.com/sites/default/files/rohs.gif"
+            ],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Features\nProgrammable logic controller (PLC) that is smart, compact and cost-effective\n(1) 10/100 Base-T Ethernet port (2 with RIO-47142 and RIO-47162) and (1) RS232 port up to 115/19.2 kbaud.\nModBus/TCP master or slave\nLots of I/O -\nModel comparison\n8 analog inputs\n8 analog outputs\n16 - 40* optically isolated inputs (40 available only on RIO-47162)\n16 optically isolated outputs\n24* 300 mA Sourcing Digital Outputs (Available only on RIO-47162 )\nAnalog PID Process Control Loops\nMultitasking for concurrent execution of up to four application programs.\nLED indicators for all digital I/O points\nContains RISC processor and memory for programming I/O events\nEasy-to-use, 2-letter Galil programming language\nExpanded variables, memory and control loops for RIO-471x2\nWeb interface and email capability for sending messages\nPowered by Power-Over-Ethernet (PoE) or external 18-36V DC input\nRIO-471xx: 3.88\" x 4.26\" x 1.30\"; Metal Enclosure\nD-type connectors\nInterface to RTD or Thermocouple temperature sensors with SCB-48x06\nGalil's\nLadder Interface Software\nis available for converting Relay Ladder Logic programs into deterministic code\nCustom hardware and firmware options available",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/plcs/remote-io/rio-471xx"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "DMC-18x2",
+      "FirstType": "Motion Controllers",
+      "SecondType": "Prior Generation Motion Controllers",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/dmc-18x2_big.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers\">Motion Controllers</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers/prior-generation\">Prior Generation Motion Controllers</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n            <div class=\"field field--name-field-features field--type-text-long field--label-above\">\n    <div class=\"field__label\">Features</div>\n              <div class=\"field__item\"><div class=\"check-list\">\n<ul>\n\t<li>PCI card in 1 through 4 axis versions: DMC-18x2 where x=1,2,3,4 axes</li>\n\t<li>User-configurable for stepper or servo motors on any combination of axes</li>\n\t<li>Accepts up to 12 MHz encoder frequencies for servos and outputs pulses up to 3 MHz for steppers</li>\n\t<li>PID compensation with velocity and acceleration feedforward, integration limits, notch filter and low-pass filter. Sample times to 62.5 microseconds per axis</li>\n\t<li>Modes of motion include jogging, point-to-point positioning, contouring, linear and circular interpolation, electronic gearing and ECAM. Ellipse scaling, slow-down around corners, infinite segment feed and feedrate override</li>\n\t<li>Multitasking for concurrent execution of up to eight application programs</li>\n\t<li>Non-volatile memory for application programs, variables and arrays</li>\n\t<li>Home input and forward and reverse limits accepted for every axis</li>\n\t<li>8 Uncommitted inputs and 8 outputs</li>\n\t<li>Expansion for 64 I/O available with optional DB-14064</li>\n\t<li>High speed position latch and output compare</li>\n\t<li>High-density shielded cable minimizes EMI</li>\n\t<li>Connects directly to AMP-19540 4-axis drive for cost-effective, multi-axis controller/drive solution. Drives brush or brushless servos up to 500 Watts each. Or, connect to external drives of any power range using ICM-2900 interconnect module</li>\n\t<li>Communication drivers for Windows, QNX, and Linux</li>\n\t<li>Custom hardware and firmware options available</li>\n</ul>\n</div>\n\n<p> </p>\n</div>\n          </div>\n\n        </div>\n        ",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n          <p>The DMC-18x2 Series are PCI bus motion controllers designed for the most cost-sensitive applications. The DMC-18x2 controllers accommodate 1- through 4-axis formats and allow control of step or servo motors on any combination of axes. Any mode of motion can be programmed including linear and circular interpolation, contouring, electronic gearing and ecam. To minimize cost, the following features are not available on the DMC-18x2: five through eight axes of control, optical isolation on inputs, dual encoder inputs, and the auxiliary FIFO and DPRAM communication channel. If you need these features, select the DMC-18x6 Accelera PCI controller. Like all Galil controllers, programming the DMC-18x2 is simplified with two-letter, intuitive commands and a full set of software tools such as <a href=\"/downloads/software/gdk\">GDK</a> for servo tuning and analysis.</p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td style=\"width: 100px;\"><img alt=\"rohs\" src=\"/sites/default/files/rohs.gif\" style=\"vertical-align: middle;height: 30px;\"/></td>\n<td style=\"width: 100px;\"><a href=\"/about/ce-certifications\"><img alt=\"ce\" src=\"/sites/default/files/ce_logo.gif\" style=\"vertical-align: middle;height: 30px;\"/></a></td>\n</tr></tbody></table>\n        </div>\n        "
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "The DMC-18x2 Series are PCI bus motion controllers designed for the most cost-sensitive applications. The DMC-18x2 controllers accommodate 1- through 4-axis formats and allow control of step or servo motors on any combination of axes. Any mode of motion can be programmed including linear and circular interpolation, contouring, electronic gearing and ecam. To minimize cost, the following features are not available on the DMC-18x2: five through eight axes of control, optical isolation on inputs, dual encoder inputs, and the auxiliary FIFO and DPRAM communication channel. If you need these features, select the DMC-18x6 Accelera PCI controller. Like all Galil controllers, programming the DMC-18x2 is simplified with two-letter, intuitive commands and a full set of software tools such as\nGDK\nfor servo tuning and analysis."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [
+              "https://www.galil.com/sites/default/files/ce_logo.gif",
+              "https://www.galil.com/sites/default/files/rohs.gif"
+            ],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Features\nPCI card in 1 through 4 axis versions: DMC-18x2 where x=1,2,3,4 axes\nUser-configurable for stepper or servo motors on any combination of axes\nAccepts up to 12 MHz encoder frequencies for servos and outputs pulses up to 3 MHz for steppers\nPID compensation with velocity and acceleration feedforward, integration limits, notch filter and low-pass filter. Sample times to 62.5 microseconds per axis\nModes of motion include jogging, point-to-point positioning, contouring, linear and circular interpolation, electronic gearing and ECAM. Ellipse scaling, slow-down around corners, infinite segment feed and feedrate override\nMultitasking for concurrent execution of up to eight application programs\nNon-volatile memory for application programs, variables and arrays\nHome input and forward and reverse limits accepted for every axis\n8 Uncommitted inputs and 8 outputs\nExpansion for 64 I/O available with optional DB-14064\nHigh speed position latch and output compare\nHigh-density shielded cable minimizes EMI\nConnects directly to AMP-19540 4-axis drive for cost-effective, multi-axis controller/drive solution. Drives brush or brushless servos up to 500 Watts each. Or, connect to external drives of any power range using ICM-2900 interconnect module\nCommunication drivers for Windows, QNX, and Linux\nCustom hardware and firmware options available",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/motion-controllers/prior-generation/dmc-18x2"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "RIO-574x0",
+      "FirstType": "PLCs",
+      "SecondType": "Remote I/O",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/RIO57420-f8036_1200.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/plcs\">PLCs</a>\n              </li>\n          <li>\n                  <a href=\"/plcs/remote-io\">Remote I/O</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n            <div class=\"field field--name-field-features field--type-text-long field--label-above\">\n    <div class=\"field__label\">Features</div>\n              <div class=\"field__item\"><div class=\"check-list\">\n<ul>\n\t<li>EtherCAT I/O slave module that is compact and cost-effective</li>\n\t<li>2 EtherCAT ports and 1 USB port (for configuration)</li>\n\t<li>Analog & Digital I/O\n\t<ul>\n\t\t<li>16 optically isolated inputs</li>\n\t\t<li>16 optically isolated 500mA outputs</li>\n\t\t<li>8 analog inputs (on select models) 12bit*</li>\n\t\t<li>8 analog outputs (on select models) 12bit*</li>\n\t</ul>\n\t</li>\n\t<li>Easy integration with Galil's DMC-500x0 EtherCAT master</li>\n\t<li>LED indicators for all digital I/O points</li>\n\t<li>Easy-to-use, 2-letter Galil programming language</li>\n\t<li>4.24” x 4.81” x 2.35”; Metal enclosure with DIN clips</li>\n\t<li>Screw terminal connectors</li>\n\t<li>Custom hardware and firmware options available</li>\n</ul>\n*16bit option available</div>\n</div>\n          </div>\n\n        </div>\n        ",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n          <p><img alt=\"E_CAT_4c_oT.png\" src=\"/sites/default/files/E_CAT_4c_oT.png\" style=\"width:150px\"/></p>\n\n<p>The RIO-574x0 is a compact, cost-effective EtherCAT I/O slave module. It is packed with digital and analog I/O to be used remotely in an EtherCAT automation system. Although the RIO-57000 can be used with a generic EtherCAT master, it is designed to integrate seamlessly into an EtherCAT system with Galil's DMC-500x0 EtherCAT master.</p>\n\n<p>Each RIO-574x0 has 16 optoisolated digital inputs and 16 high-power, 500mA sourcing, optoisolated digital outputs. The RIO-57420 is expanded to include 8 analog inputs and 8 analog outputs, both configurable in the ranges of 0-5V, 0-10V, ±5V, or ±10V.</p>\n\n<p>The RIO-574x0 can be configured over USB in a few steps using Galil's software and intuitive english-like 2 letter commands.</p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width: 100px;\"><img alt=\"rohs\" src=\"/sites/default/files/rohs.gif\" style=\"vertical-align: middle;height: 30px;\"/></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n        </div>\n        "
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "The RIO-574x0 is a compact, cost-effective EtherCAT I/O slave module. It is packed with digital and analog I/O to be used remotely in an EtherCAT automation system. Although the RIO-57000 can be used with a generic EtherCAT master, it is designed to integrate seamlessly into an EtherCAT system with Galil's DMC-500x0 EtherCAT master.\nEach RIO-574x0 has 16 optoisolated digital inputs and 16 high-power, 500mA sourcing, optoisolated digital outputs. The RIO-57420 is expanded to include 8 analog inputs and 8 analog outputs, both configurable in the ranges of 0-5V, 0-10V, ±5V, or ±10V.\nThe RIO-574x0 can be configured over USB in a few steps using Galil's software and intuitive english-like 2 letter commands."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [
+              "https://www.galil.com/sites/default/files/E_CAT_4c_oT.png",
+              "https://www.galil.com/sites/default/files/rohs.gif"
+            ],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Features\nEtherCAT I/O slave module that is compact and cost-effective\n2 EtherCAT ports and 1 USB port (for configuration)\nAnalog & Digital I/O\n16 optically isolated inputs\n16 optically isolated 500mA outputs\n8 analog inputs (on select models) 12bit*\n8 analog outputs (on select models) 12bit*\nEasy integration with Galil's DMC-500x0 EtherCAT master\nLED indicators for all digital I/O points\nEasy-to-use, 2-letter Galil programming language\n4.24” x 4.81” x 2.35”; Metal enclosure with DIN clips\nScrew terminal connectors\nCustom hardware and firmware options available\n*16bit option available",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/plcs/remote-io/rio-574x0"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "DMC-52xx0",
+      "FirstType": "Motion Controllers",
+      "SecondType": "Multi-Axis",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/DMC-52000-vertical-2000x1200.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers\">Motion Controllers</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers/multi-axis\">Multi-Axis</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n            <div class=\"field field--name-field-features field--type-text-long field--label-above\">\n    <div class=\"field__label\">Features</div>\n              <div class=\"field__item\"><div class=\"check-list\">\n<ul>\n\t<li>Available in 2, 4, 8, 16, and 32 axis configuration</li>\n\t<li>\n\t<div><span style=\"line-height: 24px;\">(1) </span>10/100BASE-T Ethernet port; (1) EtherCAT Port</div>\n\t</li>\n\t<li>\n\t<div>USB port</div>\n\t</li>\n\t<li>\n\t<div>EtherCAT cycle time 1ms</div>\n\t</li>\n\t<li>\n\t<div>Cyclic Synchronous Position mode (CSP)</div>\n\t</li>\n\t<li>\n\t<div>Modes of motion include jogging, point-to-point positioning, position tracking, contouring, linear and circular interpolation, electronic gearing, ECAM, and PVT  </div>\n\t</li>\n\t<li>Ellipse scaling, slow-down around corners, infinite segment feed and feed rate override</li>\n\t<li>\n\t<div>Multitasking for concurrent execution of up to eight application programs</div>\n\t</li>\n\t<li>\n\t<div>Non-volatile memory for application programs (4000 Lines), variables (510), and arrays (24000)</div>\n\t</li>\n\t<li>\n\t<div>Inputs including forward limits, reverse limits, and homing inputs are located on drives that support these inputs</div>\n\t</li>\n\t<li>\n\t<div>Uncommitted I/O:</div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>8 optically isolated inputs</div>\n\t\t</li>\n\t\t<li>\n\t\t<div>8 optically isolated high powered outputs </div>\n\t\t</li>\n\t\t<li>\n\t\t<div>8 uncommitted analog inputs</div>\n\t\t</li>\n\t\t<li>\n\t\t<div>8 uncommitted analog outputs</div>\n\t\t</li>\n\t\t<li>\n\t\t<div>More I/O available with the RIO-47xxx or RIO-574x0</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div>Accepts single 120 - 240 VAC input</div>\n\t</li>\n\t<li>\n\t<div>Communication drivers for Windows and Linux </div>\n\t</li>\n</ul>\n</div>\n</div>\n          </div>\n\n        </div>\n        ",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n          <p>The DMC-52xx0 EtherCAT Master is Galil Motion Control's first 32 axis motion controller. It is a pure EtherCAT controller capable of controlling up to 32 drives and 2 IO modules on one EtherCAT Network in a small, space efficient package. The DMC-52xx0 makes configuration and programming easy with just a handful of EtherCAT configuration commands and Galil’s intuitive, two-letter programming language. The DMC-52xx0 is offered in 2, 4, 8, 16, and 32 axis formats. Coordinated moves can be done within banks of 8 allowing for minimal changes to Galil’s programming language. Galil supports a variety of EtherCAT drives to accommodate most applications. The DMC-52xx0 operates in Cyclic Synchronous Position mode (CSP). In this mode the servo control loop is closed on the EtherCAT drive while the Galil sends motion profile data at a 1 kHz rate. The DMC-52xx0 features 8 uncommitted opto-isolated inputs and 8 uncommitted opto-isolated high power outputs. It also includes 8 uncommitted analog inputs and 8 uncommitted analog outputs. One 100 Mbps Ethernet port and one USB (serial) port are provided for communication with a host PC or external devices.</p>\n\n        </div>\n        "
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "The DMC-52xx0 EtherCAT Master is Galil Motion Control's first 32 axis motion controller. It is a pure EtherCAT controller capable of controlling up to 32 drives and 2 IO modules on one EtherCAT Network in a small, space efficient package. The DMC-52xx0 makes configuration and programming easy with just a handful of EtherCAT configuration commands and Galil’s intuitive, two-letter programming language. The DMC-52xx0 is offered in 2, 4, 8, 16, and 32 axis formats. Coordinated moves can be done within banks of 8 allowing for minimal changes to Galil’s programming language. Galil supports a variety of EtherCAT drives to accommodate most applications. The DMC-52xx0 operates in Cyclic Synchronous Position mode (CSP). In this mode the servo control loop is closed on the EtherCAT drive while the Galil sends motion profile data at a 1 kHz rate. The DMC-52xx0 features 8 uncommitted opto-isolated inputs and 8 uncommitted opto-isolated high power outputs. It also includes 8 uncommitted analog inputs and 8 uncommitted analog outputs. One 100 Mbps Ethernet port and one USB (serial) port are provided for communication with a host PC or external devices."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Features\nAvailable in 2, 4, 8, 16, and 32 axis configuration\n(1)\n10/100BASE-T Ethernet port; (1) EtherCAT Port\nUSB port\nEtherCAT cycle time 1ms\nCyclic Synchronous Position mode (CSP)\nModes of motion include jogging, point-to-point positioning, position tracking, contouring, linear and circular interpolation, electronic gearing, ECAM, and PVT\nEllipse scaling, slow-down around corners, infinite segment feed and feed rate override\nMultitasking for concurrent execution of up to eight application programs\nNon-volatile memory for application programs (4000 Lines), variables (510), and arrays (24000)\nInputs including forward limits, reverse limits, and homing inputs are located on drives that support these inputs\nUncommitted I/O:\n8 optically isolated inputs\n8 optically isolated high powered outputs\n8 uncommitted analog inputs\n8 uncommitted analog outputs\nMore I/O available with the RIO-47xxx or RIO-574x0\nAccepts single 120 - 240 VAC input\nCommunication drivers for Windows and Linux",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/motion-controllers/multi-axis/dmc-52xx0"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "RIO-4720x",
+      "FirstType": "PLCs",
+      "SecondType": "Remote I/O",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/rio-47200_big_2.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/plcs\">PLCs</a>\n              </li>\n          <li>\n                  <a href=\"/plcs/remote-io\">Remote I/O</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n            <div class=\"field field--name-field-features field--type-text-long field--label-above\">\n    <div class=\"field__label\">Features</div>\n              <div class=\"field__item\"><div class=\"check-list\">\n<ul>\n\t<li style=\"list-style: none; margin: 0px 0px 5px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\"><span style=\"line-height: 1.538em;\">Programmable logic controller (PLC) that is smart, compact and cost-effective</span></li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">(1) 10/100 Base-T Ethernet port  and (1) RS232 port up to 115/19.2 kbaud.</li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">ModBus/TCP master or slave</li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">Lots of I/O - <a href=\"/plcs/product-comparison\">Model comparison</a>\n\t<ul>\n\t\t<li style=\"list-style: none; margin: 0px 0px 5px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">8 analog inputs </li>\n\t\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">8 analog outputs (option)</li>\n\t\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">16-bit analog output option</li>\n\t\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">16 optically isolated inputs </li>\n\t\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">16 optically isolated outputs</li>\n\t</ul>\n\t</li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">Analog PID Process Control Loops</li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">Multitasking for concurrent execution of up to four application programs.</li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">LED indicators for all digital I/O points</li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">Contains RISC processor and memory for programming I/O events</li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">Easy-to-use, 2-letter Galil programming language</li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">Expanded variables, memory and control loops</li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">Web interface and email capability for sending messages</li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">Powered by Power-Over-Ethernet (PoE) or external 18-36V DC input</li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">RIO-472xx: 7.19\" x 3.52\" with DIN tray;screw terminals </li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">Screw terminals</li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">Interface to RTD or Thermocouple temperature sensors with SCB-48x06</li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">Galil's <a href=\"/downloads/software/ladder-interface-software\">Ladder Interface Software</a> is available for converting Relay Ladder Logic programs into deterministic code</li>\n\t<li style=\"list-style: none; margin: 5px 0px; padding: 0px 0px 0px 18px; background-image: url(/sites/all/themes/nevia/images/icon-list-check.png); background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: 0% 3px; background-repeat: no-repeat;\">Custom hardware and firmware options available</li>\n</ul>\n</div>\n</div>\n          </div>\n\n        </div>\n        ",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n          <p>The RIO-4720x <a href=\"/plcs\">PLC</a> is a DIN rail mount unit with screw terminals and Ethernet. The <a href=\"/plcs\">RIO</a> contains a fast RISC processor for handling I/O logic and is programmed using Galil's intuitive command language or using Galil's Ladder Interface software.<br/>\nEach RIO unit is self-contained with numerous analog and digital I/O including: 16 high power optoisolated digital outputs, 16 optoisolated digital inputs and 8 12-bit 0-5V Analog inputs. The RIO can be configured to operate as a Modbus TCP master or slave, and multiple RIO units can be distributed on an Ethernet network allowing I/O expansion.<br/>\nThe RIO-47200 contains 200 lines of program space, 126 variables, 400 array elements, 2 PID loops, and 3 Ethernet handles. The RIO-47202 has expanded memory containing 400 lines of program space, 254 variables, 1000 array elements, 6 PID loops, and 5 Ethernet handles.<br/>\nIt can also easily communicate with other devices including Galil's <a href=\"/motion-controllers/multi-axis/dmc-40x0\">DMC-40x0</a>, <a href=\"/motion-controllers/multi-axis/dmc-41x3\">DMC-41x3</a> and <a href=\"/motion-controllers/single-axis/dmc-3x01x\">DMC-30000</a> Ethernet motion controllers.</p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td style=\"width: 100px;\"><img alt=\"rohs\" src=\"/sites/default/files/rohs.gif\" style=\"vertical-align: middle;height: 30px;\"/></td>\n</tr></tbody></table>\n        </div>\n        "
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "The RIO-4720x\nPLC\nis a DIN rail mount unit with screw terminals and Ethernet. The\nRIO\ncontains a fast RISC processor for handling I/O logic and is programmed using Galil's intuitive command language or using Galil's Ladder Interface software.\nEach RIO unit is self-contained with numerous analog and digital I/O including: 16 high power optoisolated digital outputs, 16 optoisolated digital inputs and 8 12-bit 0-5V Analog inputs. The RIO can be configured to operate as a Modbus TCP master or slave, and multiple RIO units can be distributed on an Ethernet network allowing I/O expansion.\nThe RIO-47200 contains 200 lines of program space, 126 variables, 400 array elements, 2 PID loops, and 3 Ethernet handles. The RIO-47202 has expanded memory containing 400 lines of program space, 254 variables, 1000 array elements, 6 PID loops, and 5 Ethernet handles.\nIt can also easily communicate with other devices including Galil's\nDMC-40x0\n,\nDMC-41x3\nand\nDMC-30000\nEthernet motion controllers."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [
+              "https://www.galil.com/sites/default/files/rohs.gif"
+            ],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Features\nProgrammable logic controller (PLC) that is smart, compact and cost-effective\n(1) 10/100 Base-T Ethernet port  and (1) RS232 port up to 115/19.2 kbaud.\nModBus/TCP master or slave\nLots of I/O -\nModel comparison\n8 analog inputs\n8 analog outputs (option)\n16-bit analog output option\n16 optically isolated inputs\n16 optically isolated outputs\nAnalog PID Process Control Loops\nMultitasking for concurrent execution of up to four application programs.\nLED indicators for all digital I/O points\nContains RISC processor and memory for programming I/O events\nEasy-to-use, 2-letter Galil programming language\nExpanded variables, memory and control loops\nWeb interface and email capability for sending messages\nPowered by Power-Over-Ethernet (PoE) or external 18-36V DC input\nRIO-472xx: 7.19\" x 3.52\" with DIN tray;screw terminals\nScrew terminals\nInterface to RTD or Thermocouple temperature sensors with SCB-48x06\nGalil's\nLadder Interface Software\nis available for converting Relay Ladder Logic programs into deterministic code\nCustom hardware and firmware options available",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/plcs/remote-io/rio-4720x"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "Power Supplies",
+      "FirstType": "",
+      "SecondType": "",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/psrs.jpg"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n<p><strong>PSR-30-24</strong></p><ul class=\"check-list\">\t<li>100-240VAC Input,50/60Hz</li>\t<li>Delivers 30Amps at 24VDC with sufficient heatsink</li>\t<li>Small Package Size 9.33\" X 4.24\" X 3.36\"</li>\t<li>Includes Shunt Regulator and Blocking Diode</li>\t<li><img alt=\"\" src=\"/sites/default/files/ce_logo.gif\"/></li></ul><p><strong>PSR-15-48</strong></p><ul class=\"check-list\">\t<li>100-240VAC Input,50/60Hz</li>\t<li>Delivers 15Amps at 48VDC with sufficient heatsink</li>\t<li>Small Package Size 9.33\" X 4.24\" X 3.36\"</li>\t<li>Includes Shunt Regulator and Blocking Diode</li>\t<li><img alt=\"\" src=\"/sites/default/files/ce_logo.gif\"/></li></ul><p><strong>PSR-12-24</strong></p><ul class=\"check-list\">\t<li>100-240VAC Input,50/60Hz</li>\t<li>Delivers 12Amps at 24VDC</li>\t<li>Small Package Size 8.47\" X 6.23\" X 1.18\"</li>\t<li>Includes Shunt Regulator and Blocking Diode</li>\t<li><img alt=\"\" src=\"/sites/default/files/ce_logo.gif\"/></li></ul><p><strong>PSR-6-48</strong></p><ul class=\"check-list\">\t<li>100-240VAC Input,50/60Hz</li>\t<li>Delivers 6Amps at 48VDC</li>\t<li>Small Package Size 8.47\" X 6.23\" X 1.18\"</li>\t<li>Includes Shunt Regulator and Blocking Diode</li>\t<li><img alt=\"\" src=\"/sites/default/files/ce_logo.gif\"/></li></ul><p><strong>PS-2.5-24</strong></p><ul class=\"check-list\">\t<li>100-240VAC Input,50/60Hz</li>\t<li>Delivers 2.5Amps at 24VDC</li>\t<li>Comes with 2pin Molex Mini-Fit,Jr. Connector</li>\t<li>Mates directly with DMC-40x0(ISCNTL),DMC-41x3(ISCNTL),DMC-3x01x(ISCNTL),RIO pocket PLC</li>\t<li><img alt=\"\" src=\"/sites/default/files/ce_logo.gif\"/></li></ul>\n</div>",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n<p>The PSR series power supplies are regulated DC power supplies capable of operating from 100-240 VAC input, 50/60 Hz. The PSR power supplies include a shunt regulator and blocking diode. They can be used with any controller/amplifier combination to provide a complete solution for single- or multi-axis applications. The PSR series are available in four models: PSR-12-24, PSR-6-48, PSR-30-24, and PSR-15-48.<br/><br/>The PS series power supplies are small low power supplies that come with a 2pin Molex Mini-Fit, Jr. connector to allow for mating directly to a DMC-40x0(ISCNTL),DMC-41x3(ISCNTL) or DMC-3x01x(ISCNTL) where the controller power is isolated from the amplifier power supply. It can also power the RIO Pocket PLC. The PS series is available in the PS-2.50-24 model.</p>\n</div>"
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "The PSR series power supplies are regulated DC power supplies capable of operating from 100-240 VAC input, 50/60 Hz. The PSR power supplies include a shunt regulator and blocking diode. They can be used with any controller/amplifier combination to provide a complete solution for single- or multi-axis applications. The PSR series are available in four models: PSR-12-24, PSR-6-48, PSR-30-24, and PSR-15-48.\nThe PS series power supplies are small low power supplies that come with a 2pin Molex Mini-Fit, Jr. connector to allow for mating directly to a DMC-40x0(ISCNTL),DMC-41x3(ISCNTL) or DMC-3x01x(ISCNTL) where the controller power is isolated from the amplifier power supply. It can also power the RIO Pocket PLC. The PS series is available in the PS-2.50-24 model."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "PSR-30-24\n100-240VAC Input,50/60Hz\nDelivers 30Amps at 24VDC with sufficient heatsink\nSmall Package Size 9.33\" X 4.24\" X 3.36\"\nIncludes Shunt Regulator and Blocking Diode\nPSR-15-48\n100-240VAC Input,50/60Hz\nDelivers 15Amps at 48VDC with sufficient heatsink\nSmall Package Size 9.33\" X 4.24\" X 3.36\"\nIncludes Shunt Regulator and Blocking Diode\nPSR-12-24\n100-240VAC Input,50/60Hz\nDelivers 12Amps at 24VDC\nSmall Package Size 8.47\" X 6.23\" X 1.18\"\nIncludes Shunt Regulator and Blocking Diode\nPSR-6-48\n100-240VAC Input,50/60Hz\nDelivers 6Amps at 48VDC\nSmall Package Size 8.47\" X 6.23\" X 1.18\"\nIncludes Shunt Regulator and Blocking Diode\nPS-2.5-24\n100-240VAC Input,50/60Hz\nDelivers 2.5Amps at 24VDC\nComes with 2pin Molex Mini-Fit,Jr. Connector\nMates directly with DMC-40x0(ISCNTL),DMC-41x3(ISCNTL),DMC-3x01x(ISCNTL),RIO pocket PLC",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/accessory/power-supplies"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "DMC-18x6",
+      "FirstType": "Motion Controllers",
+      "SecondType": "Multi-Axis",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/DMC-18x6_0.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers\">Motion Controllers</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers/multi-axis\">Multi-Axis</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n            <div class=\"field field--name-field-features field--type-text-long field--label-above\">\n    <div class=\"field__label\">Features</div>\n              <div class=\"field__item\"><div class=\"check-list\">\n<ul>\n\t<li>PCI card in 1 through 8 axis versions: DMC-18x6 where x=1,2,3,4,5,6,7,8 axes</li>\n\t<li>User-configurable for stepper or servo motors on any combination of axes</li>\n\t<li>Accepts up to 22 MHz encoder frequencies for servos and outputs up to 6MHz for steppers</li>\n\t<li>Sample times as low as 31 microseconds per axis; Ultra-fast command processing.</li>\n\t<li>Advanced PID compensation with velocity and acceleration feedforward, integration limits, notch filter and low-pass filter</li>\n\t<li>Modes of motion include jogging, point-to-point positioning, position tracking, contouring, linear and circular interpolation, electronic gearing and ECAM. Ellipse scaling, slow-down around corners, infinite segment feed and feedrate override</li>\n\t<li>Multitasking for concurrent execution of up to eight application programs.</li>\n\t<li>Expanded, non-volatile memory for application programs, variables and arrays</li>\n\t<li>Dual encoders for every servo axis</li>\n\t<li>Optically isolated home input and forward and reverse limits accepted for every axis</li>\n\t<li>8 isolated, uncommitted inputs and 8 outputs for 1- through 4-axes models, 24 inputs and 16 outputs for 5- through 8-axis models</li>\n\t<li>Expansion for 64 I/O with optional DB-14064</li>\n\t<li>8 uncomitted analog inputs</li>\n\t<li>High speed position latch and output compare</li>\n\t<li>2nd FIFO for instant access to status and parameters</li>\n\t<li>High-density shielded cables and optical isolation for noise immunity.</li>\n\t<li>Connects directly to AMP-19540 4-axis drive for cost-effective, multi-axis controller/drive solution. Drives brush or brushless servos up to 500 Watts each. Or, connect to external drives of any power range using ICM-2900 interconnect module</li>\n\t<li>Communication drivers for Windows, QNX, and Linux</li>\n\t<li>Custom hardware and firmware options available</li>\n</ul>\n</div>\n\n<p> </p>\n</div>\n          </div>\n\n        </div>\n        ",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n          <p>The DMC-18x6 motion controller is part of the family, Galil's highest performance PCI bus motion controller. It belongs to Galil's latest generation motion controller family: the <a href=\"/motion-controllers/multi-axis/dmc-40x0\">DMC-40x0 Series</a>, which accepts encoder inputs up to 22 MHz, provides servo update rates as high as 32 kHz, and processes commands as fast as 40 microseconds-10 times the speed of prior generation controllers.</p>\n<p>The DMC-18x6 is a full-featured, PCI motion controller card. The DMC-18x6 is available in one through eight-axis formats, and each axis is user-configurable for stepper or servo motor operation. With a powerful RISC processor, the DMC-18x6 controllers provide such advanced features as PID compensation with velocity and acceleration feedforward, program memory with multitasking for simultaneously running eight applications programs, optically isolated digital I/O, and uncomitted analog inputs. Modes of motion include point-to-point positioning, position tracking, jogging, linear and circular interpolation, contouring, electronic gearing and ecam.</p>\n<p>Like all Galil controllers, programming the DMC-18x6 is simplified with two-letter, intuitive commands and a full set of software tools such as <a href=\"/downloads/software/gdk\">GDK </a>for servo tuning and analysis.</p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td style=\"width: 100px;\"><img alt=\"rohs\" src=\"/sites/default/files/rohs.gif\" style=\"vertical-align: middle;height: 30px;\"/></td>\n<td style=\"width: 100px;\"><a href=\"/about/ce-certifications\"><img alt=\"ce\" src=\"/sites/default/files/ce_logo.gif\" style=\"vertical-align: middle;height: 30px;\"/></a></td>\n</tr></tbody></table>\n        </div>\n        "
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "The DMC-18x6 motion controller is part of the family, Galil's highest performance PCI bus motion controller. It belongs to Galil's latest generation motion controller family: the\nDMC-40x0 Series\n, which accepts encoder inputs up to 22 MHz, provides servo update rates as high as 32 kHz, and processes commands as fast as 40 microseconds-10 times the speed of prior generation controllers.\nThe DMC-18x6 is a full-featured, PCI motion controller card. The DMC-18x6 is available in one through eight-axis formats, and each axis is user-configurable for stepper or servo motor operation. With a powerful RISC processor, the DMC-18x6 controllers provide such advanced features as PID compensation with velocity and acceleration feedforward, program memory with multitasking for simultaneously running eight applications programs, optically isolated digital I/O, and uncomitted analog inputs. Modes of motion include point-to-point positioning, position tracking, jogging, linear and circular interpolation, contouring, electronic gearing and ecam.\nLike all Galil controllers, programming the DMC-18x6 is simplified with two-letter, intuitive commands and a full set of software tools such as\nGDK\nfor servo tuning and analysis."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [
+              "https://www.galil.com/sites/default/files/ce_logo.gif",
+              "https://www.galil.com/sites/default/files/rohs.gif"
+            ],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Features\nPCI card in 1 through 8 axis versions: DMC-18x6 where x=1,2,3,4,5,6,7,8 axes\nUser-configurable for stepper or servo motors on any combination of axes\nAccepts up to 22 MHz encoder frequencies for servos and outputs up to 6MHz for steppers\nSample times as low as 31 microseconds per axis; Ultra-fast command processing.\nAdvanced PID compensation with velocity and acceleration feedforward, integration limits, notch filter and low-pass filter\nModes of motion include jogging, point-to-point positioning, position tracking, contouring, linear and circular interpolation, electronic gearing and ECAM. Ellipse scaling, slow-down around corners, infinite segment feed and feedrate override\nMultitasking for concurrent execution of up to eight application programs.\nExpanded, non-volatile memory for application programs, variables and arrays\nDual encoders for every servo axis\nOptically isolated home input and forward and reverse limits accepted for every axis\n8 isolated, uncommitted inputs and 8 outputs for 1- through 4-axes models, 24 inputs and 16 outputs for 5- through 8-axis models\nExpansion for 64 I/O with optional DB-14064\n8 uncomitted analog inputs\nHigh speed position latch and output compare\n2nd FIFO for instant access to status and parameters\nHigh-density shielded cables and optical isolation for noise immunity.\nConnects directly to AMP-19540 4-axis drive for cost-effective, multi-axis controller/drive solution. Drives brush or brushless servos up to 500 Watts each. Or, connect to external drives of any power range using ICM-2900 interconnect module\nCommunication drivers for Windows, QNX, and Linux\nCustom hardware and firmware options available",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/motion-controllers/multi-axis/dmc-18x6"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "DMC-21x5",
+      "FirstType": "Motion Controllers",
+      "SecondType": "Multi-Axis",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/DMC-21x5_1_web_0_0.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers\">Motion Controllers</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers/multi-axis\">Multi-Axis</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n            <div class=\"field field--name-field-features field--type-text-long field--label-above\">\n    <div class=\"field__label\">Features</div>\n              <div class=\"field__item\"><div class=\"check-list\">\n<ul>\n\t<li>For new Econo applications, Galil recommends the new generation DMC-41x3 series controllers.</li><li>Ethernet 100Base-T port; (1) 19.2kb RS232 port</li><li>Card-level controller in 1 through 8 axis versions: DMC-21x5 where x=1,2,3,4,5,6,7,8 axes</li><li>User-configurable for stepper or servo motors on any combination of axes</li><li>Optional plug-in amplifier boards for driving stepper, brush or brushless servo motors up to 500 Watts</li><li>Ethernet supports multiple masters and multiple slaves. TCP/IP and UDP protocol for communication with I/O devices</li><li>Accepts encoder frequencies up to 15 MHz for servos and outputs up to 3 MHz for steppers</li><li>PID compensation with velocity and acceleration feedforward, integration limits, notch filter and low-pass filter</li><li>Modes of motion include jogging, point-to-point positioning, contouring, linear and circular interpolation, electronic gearing and ECAM. Ellipse scaling, slow-down around corners, infinite segment feed and feedrate override</li><li>Multitasking for concurrent execution of up to eight application programs</li><li>Non-volatile memory for application programs, variables and arrays</li><li>Dual encoders for every servo axis</li><li>Home input and forward and reverse limits accepted for every axis</li><li>High speed position latch and output compare for each axis</li><li>8 TTL uncommitted inputs and 8 outputs for 1- through 4-axis models; 16 inputs and 16 outputs for 5- through 8-axis models</li><li>Optically isolated I/O and 500 mA high side ouputs available with ICM-20105</li><li>Add 8 analog inputs and 40 digital I/O with DB-28040; Add more I/O with RIO PLC</li><li>1-4 axes card: 4.25\" x 7.0\"; 5-8 axes card: 4.25\" x 10.75\"</li><li>DIN-Rail mounting option</li><li>Accepts +5V, +/-12V DC inputs; DC-to-DC converter option for single 9V to 48V DC input</li><li>Mating ICM-201xx provides D-connectors for each axis</li><li>Communication drivers for Windows and Linux\n</li></ul>\n</div></div>\n          </div>\n\n        </div>\n        ",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n          <p>Galil's DMC-21x5 Ethernet motion controller is intended as a replacement/upgrade for applications built on the previous DMC-21x3 generation. The size and pinout requirements for the DMC-21x5 and DMC-21x3 are identical, making it compatible with all of the Galil amplifiers and daughter boards that are used with the DMC-21x3. The DMC-21x5 comes with a number of improvements over its predecessor, including:</p><div class=\"check-list\"><ul><li>100Base-T Ethernet communication</li><li>4000 x 80 character program space</li><li>24,000 element array space</li><li>DMC command processing up to 20 times faster than the DMC-21x3</li></ul></div>\n<p>The DMC-21x5 series is available in 1 through 8 axis versions and can be configured for control of step or servo motors on any combination of axes. It measures just 4.25\" x 7.0\" for one through four-axis models and 4.25\" x 10.75\" for five through eight axes. With a 32-bit ARM processor, the DMC-21x5 controller provides such advanced features as PID compensation with velocity and acceleration feedforward, program memory with multitasking for simultaneously running eight applications programs, and uncommitted I/O for synchronizing motion with external events. Modes of motion include point-to-point positioning, position tracking, jogging, linear and circular interpolation, contouring, electronic gearing and ecam.</p><p>Like all Galil controllers, programming the DMC-21x5 is simplified with two-letter, intuitive commands and a full set of software tools such as GDK for servo tuning and analysis.</p>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width: 100px;\"><img alt=\"rohs\" src=\"/sites/default/files/rohs.gif\" style=\"vertical-align: middle;height: 30px;\"/></td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n        </div>\n        "
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "Galil's DMC-21x5 Ethernet motion controller is intended as a replacement/upgrade for applications built on the previous DMC-21x3 generation. The size and pinout requirements for the DMC-21x5 and DMC-21x3 are identical, making it compatible with all of the Galil amplifiers and daughter boards that are used with the DMC-21x3. The DMC-21x5 comes with a number of improvements over its predecessor, including:\n100Base-T Ethernet communication\n4000 x 80 character program space\n24,000 element array space\nDMC command processing up to 20 times faster than the DMC-21x3\nThe DMC-21x5 series is available in 1 through 8 axis versions and can be configured for control of step or servo motors on any combination of axes. It measures just 4.25\" x 7.0\" for one through four-axis models and 4.25\" x 10.75\" for five through eight axes. With a 32-bit ARM processor, the DMC-21x5 controller provides such advanced features as PID compensation with velocity and acceleration feedforward, program memory with multitasking for simultaneously running eight applications programs, and uncommitted I/O for synchronizing motion with external events. Modes of motion include point-to-point positioning, position tracking, jogging, linear and circular interpolation, contouring, electronic gearing and ecam.\nLike all Galil controllers, programming the DMC-21x5 is simplified with two-letter, intuitive commands and a full set of software tools such as GDK for servo tuning and analysis."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [
+              "https://www.galil.com/sites/default/files/rohs.gif"
+            ],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Features\nFor new Econo applications, Galil recommends the new generation DMC-41x3 series controllers.\nEthernet 100Base-T port; (1) 19.2kb RS232 port\nCard-level controller in 1 through 8 axis versions: DMC-21x5 where x=1,2,3,4,5,6,7,8 axes\nUser-configurable for stepper or servo motors on any combination of axes\nOptional plug-in amplifier boards for driving stepper, brush or brushless servo motors up to 500 Watts\nEthernet supports multiple masters and multiple slaves. TCP/IP and UDP protocol for communication with I/O devices\nAccepts encoder frequencies up to 15 MHz for servos and outputs up to 3 MHz for steppers\nPID compensation with velocity and acceleration feedforward, integration limits, notch filter and low-pass filter\nModes of motion include jogging, point-to-point positioning, contouring, linear and circular interpolation, electronic gearing and ECAM. Ellipse scaling, slow-down around corners, infinite segment feed and feedrate override\nMultitasking for concurrent execution of up to eight application programs\nNon-volatile memory for application programs, variables and arrays\nDual encoders for every servo axis\nHome input and forward and reverse limits accepted for every axis\nHigh speed position latch and output compare for each axis\n8 TTL uncommitted inputs and 8 outputs for 1- through 4-axis models; 16 inputs and 16 outputs for 5- through 8-axis models\nOptically isolated I/O and 500 mA high side ouputs available with ICM-20105\nAdd 8 analog inputs and 40 digital I/O with DB-28040; Add more I/O with RIO PLC\n1-4 axes card: 4.25\" x 7.0\"; 5-8 axes card: 4.25\" x 10.75\"\nDIN-Rail mounting option\nAccepts +5V, +/-12V DC inputs; DC-to-DC converter option for single 9V to 48V DC input\nMating ICM-201xx provides D-connectors for each axis\nCommunication drivers for Windows and Linux",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/motion-controllers/multi-axis/dmc-21x5"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "EPICS SOFTWARE",
+      "FirstType": "Downloads",
+      "SecondType": "Software",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/epics_ioc_galil_0.PNG"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/downloads\">Downloads</a>\n              </li>\n          <li>\n                  <a href=\"/downloads/software\">Software</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n<ul class=\"c-links c-theme-ul\">\t\t<li>Support for the DMC-3x01x, DMC-4000, and DMC-41x3 Ethernet based controllers.</li>\t\t<li>Basic Motor Record Support</li>\t\t<li>Array Access Feature</li>\t</ul>\n</div>",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n<p>EPICS is a set of software tools and applications which provide a software infrastructure for use in building distributed control systems to operate devices such as Particle Accelerators, Large Experiments and major Telescopes. Such distributed control systems typically comprise tens or even hundreds of computers, networked together to allow communication between them and to provide control and feedback of the various parts of the device from a central control room, or even remotely over the internet.</p><p>The Galil EPICS Driver allows communication between a Galil motion controller or PLC to the EPICS software allowing motion control and IO tasks to be completed through a central control interface.</p><p>The Galil EPICS Driver is maintained and supported by the EPICS community.  The latest version can be found here: <a class=\"moz-txt-link-freetext\" href=\"https://github.com/motorapp/Galil-3-0\">https://github.com/motorapp/Galil-3-0</a><br/> </p>\n</div>"
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "EPICS is a set of software tools and applications which provide a software infrastructure for use in building distributed control systems to operate devices such as Particle Accelerators, Large Experiments and major Telescopes. Such distributed control systems typically comprise tens or even hundreds of computers, networked together to allow communication between them and to provide control and feedback of the various parts of the device from a central control room, or even remotely over the internet.\nThe Galil EPICS Driver allows communication between a Galil motion controller or PLC to the EPICS software allowing motion control and IO tasks to be completed through a central control interface.\nThe Galil EPICS Driver is maintained and supported by the EPICS community.  The latest version can be found here:\nhttps://github.com/motorapp/Galil-3-0"
+            ],
+            "type": "text"
+          },
+          {
+            "content": [],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Support for the DMC-3x01x, DMC-4000, and DMC-41x3 Ethernet based controllers.\nBasic Motor Record Support\nArray Access Feature",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/downloads/software/epicsdriver"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "GalilPVT",
+      "FirstType": "Downloads",
+      "SecondType": "Software",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/galilpvt_big.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/downloads\">Downloads</a>\n              </li>\n          <li>\n                  <a href=\"/downloads/software\">Software</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n<ul class=\"c-links c-theme-ul\">\t\t<li>Open PVT data in CSV and DMC formats</li>\t\t<li>Open Contour data in CSV and DMC formats</li>\t\t<li>Convert Contour data to PVT data</li>\t\t<li>\"Segment View\" display of each PVT point as it would be commanded by the user including elapsed time, total distance, incremental position, velocity, and incremental time. Segment data can be edited.</li>\t\t<li>\"Kinematics View\" display of controller internal calculations on a profile-by-profile basis including distance, velocity, acceleration, and jerk.</li>\t\t<li>Graphing capability\t\t<ul class=\"c-links c-theme-ul\">\t\t\t<li>Multiaxis graphing of Position, Velocity, Acceleration, and Jerk vs. time</li>\t\t\t<li>Single axis graphing of up to two data sets, e.g. Position and Velocity vs. time</li>\t\t\t<li>Two axis position vs. position graphing for coordinated motion planning</li>\t\t</ul>\t\t</li>\t</ul>\t<ul class=\"c-links c-theme-ul\">\t\t<li>\"Motion Summary\" providing timing, and maximum velocity, acceleration and jerk throughout the move.</li>\t\t<li>Stream capability to connect to a controller and stream an arbitrarily long segment list to a DMC-40x0.</li>\t</ul>\n</div>",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n<p>Galil's PVT Software is a software tool that is used to convert Galil Contour Data points to Galil Position Velocity and Time (PVT) profiles. PVT mode allows arbitrary motion profiles to be defined by position, velocity and time individually on all 8 axes. This motion is designed for systems where the load must traverse a series of coordinates with no discontinuities in velocity. By specifying the target position, velocity and time to achieve those parameters the user has control over the velocity profile. Taking advantage of the built in buffering the user can create virtually any profile including those with infinite path lengths.</p><p>Along with the ability to convert Contour Data to PVT profiles, the PVT software allows the user to graph position, velocity, acceleration and jerk for multiple axes and download the PVT data directly from the application to the controller. The full version (password required) includes the ability to save the PVT data in a .csv format. PVT is a standard feature on the DMC-40x0 series.</p>\n</div>"
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "Galil's PVT Software is a software tool that is used to convert Galil Contour Data points to Galil Position Velocity and Time (PVT) profiles. PVT mode allows arbitrary motion profiles to be defined by position, velocity and time individually on all 8 axes. This motion is designed for systems where the load must traverse a series of coordinates with no discontinuities in velocity. By specifying the target position, velocity and time to achieve those parameters the user has control over the velocity profile. Taking advantage of the built in buffering the user can create virtually any profile including those with infinite path lengths.\nAlong with the ability to convert Contour Data to PVT profiles, the PVT software allows the user to graph position, velocity, acceleration and jerk for multiple axes and download the PVT data directly from the application to the controller. The full version (password required) includes the ability to save the PVT data in a .csv format. PVT is a standard feature on the DMC-40x0 series."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Open PVT data in CSV and DMC formats\nOpen Contour data in CSV and DMC formats\nConvert Contour data to PVT data\n\"Segment View\" display of each PVT point as it would be commanded by the user including elapsed time, total distance, incremental position, velocity, and incremental time. Segment data can be edited.\n\"Kinematics View\" display of controller internal calculations on a profile-by-profile basis including distance, velocity, acceleration, and jerk.\nGraphing capability\nMultiaxis graphing of Position, Velocity, Acceleration, and Jerk vs. time\nSingle axis graphing of up to two data sets, e.g. Position and Velocity vs. time\nTwo axis position vs. position graphing for coordinated motion planning\n\"Motion Summary\" providing timing, and maximum velocity, acceleration and jerk throughout the move.\nStream capability to connect to a controller and stream an arbitrarily long segment list to a DMC-40x0.",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/downloads/software/galilpvt"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "DMC-42x0",
+      "FirstType": "Motion Controllers",
+      "SecondType": "Multi-Axis",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/dmc4280-vert_7909-1000px_0.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers\">Motion Controllers</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers/multi-axis\">Multi-Axis</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n            <div class=\"field field--name-field-features field--type-text-long field--label-above\">\n    <div class=\"field__label\">Features</div>\n              <div class=\"field__item\"><div class=\"check-list\">\n<ul>\n\t<li>Packaged controller in 1 through 8 axis versions: DMC-42x0 where x=1,2,3,4,5,6,7,8 axes.</li>\n\t<li>10/100 Base-T Ethernet port with Auto MDIX; (2) RS232 ports up to 115 kbaud.</li>\n\t<li>User-configurable for stepper or servo motors on any combination of axes.</li>\n\t<li>Connect to external drives using various breakout modules.</li>\n\t<li>Accepts up to 22 MHz encoder frequencies for servos; Outputs up to 6 MHz for steppers.</li>\n\t<li>Sample times as low as 31 microseconds per axis; fast command processing.</li>\n\t<li>Advanced PID compensation with velocity and acceleration feedforward, integration limits, notch filter and low-pass filter.</li>\n\t<li>Modes of motion include jogging, point-to-point positioning, position tracking, contouring, linear and circular interpolation, electronic gearing and ECAM.</li>\n\t<li>Ellipse scaling, slow-down around corners, infinite segment feed and feedrate override.</li>\n\t<li>Multitasking for concurrent execution of up to eight application programs. Ultra-fast command processing.</li>\n\t<li>Expanded, non-volatile memory for application programs, variables and arrays.</li>\n\t<li>Dual encoders for every servo axis.</li>\n\t<li>Optically isolated home input and forward and reverse limits for every axis.</li>\n\t<li>Uncommitted, isolated I/O:\n\t<ul>\n\t\t<li>1- through 4-axis: 8 inputs and 8 outputs.</li>\n\t\t<li>5- through 8-axis: 16 inputs and 16 outputs.</li>\n\t\t<li>8 uncommitted analog inputs.</li>\n\t\t<li>High speed position latch and output compare.</li>\n\t\t<li>64 additional 5V TTL I/O; Add more I/O with RIO-47xxx PLC</li>\n\t</ul>\n\t</li>\n\t<li>Communication drivers for Windows, Linux, and OS X for Mac.</li>\n\t<li>High-density shielded cables and optical isolation for noise immunity.</li>\n\t<li>12.1\" x 2.2\" x 6.3\" metal enclosure; Accepts 90-250V AC.</li>\n\t<li>Custom hardware and firmware options available.</li>\n</ul>\n</div>\n</div>\n          </div>\n\n        </div>\n        ",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n          <p>The DMC-42x0 is one of Galil's highest performance standalone motion controller that is designed to be an upgrade option for applications that currently use the prior-generation DMC-2xx0 series motion controllers. The size, voltage requirements, and connector pinouts of the DMC-42x0 are identical to the DMC-2xx0. The DMC-42x0 belongs to Galil's latest generation motion controller family, which accepts encoder inputs up to 22 MHz, provides servo update rates as high as 32 kHz, and processes commands as fast as 40 microseconds-10 times the speed of prior-generation controllers. The DMC-42x0 features 10Base-T/100Base-T Ethernet connectivity. The controller is packaged in a compact, rugged enclosure and contains an internal power supply for direct connection to 90-250 V AC. The DMC-42x0 controller accommodates 1- through 8-axis formats and allows control of step or servo motors on any combination of axes. With a powerful RISC processor, the DMC-42x0 controllers provide such advanced features as PID compensation with velocity and acceleration feedforward, program memory with multitasking for simultaneously running eight applications programs, and uncommitted I/O for synchronizing motion with external events. Modes of motion include point-to-point positioning, position tracking, jogging, linear and circular interpolation, contouring, electronic gearing and ecam. Like all Galil controllers, programming the DMC-42x0 is simplified with two-letter, intuitive commands and a full set of software tools such as <a href=\"/downloads/software/gdk\">GDK</a> for servo tuning and analysis.</p>\n\n<p><img alt=\"rohs\" src=\"/sites/default/files/rohs.gif\" style=\"vertical-align: middle;height: 30px;\"/></p>\n\n        </div>\n        "
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "The DMC-42x0 is one of Galil's highest performance standalone motion controller that is designed to be an upgrade option for applications that currently use the prior-generation DMC-2xx0 series motion controllers. The size, voltage requirements, and connector pinouts of the DMC-42x0 are identical to the DMC-2xx0. The DMC-42x0 belongs to Galil's latest generation motion controller family, which accepts encoder inputs up to 22 MHz, provides servo update rates as high as 32 kHz, and processes commands as fast as 40 microseconds-10 times the speed of prior-generation controllers. The DMC-42x0 features 10Base-T/100Base-T Ethernet connectivity. The controller is packaged in a compact, rugged enclosure and contains an internal power supply for direct connection to 90-250 V AC. The DMC-42x0 controller accommodates 1- through 8-axis formats and allows control of step or servo motors on any combination of axes. With a powerful RISC processor, the DMC-42x0 controllers provide such advanced features as PID compensation with velocity and acceleration feedforward, program memory with multitasking for simultaneously running eight applications programs, and uncommitted I/O for synchronizing motion with external events. Modes of motion include point-to-point positioning, position tracking, jogging, linear and circular interpolation, contouring, electronic gearing and ecam. Like all Galil controllers, programming the DMC-42x0 is simplified with two-letter, intuitive commands and a full set of software tools such as\nGDK\nfor servo tuning and analysis."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [
+              "https://www.galil.com/sites/default/files/rohs.gif"
+            ],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Features\nPackaged controller in 1 through 8 axis versions: DMC-42x0 where x=1,2,3,4,5,6,7,8 axes.\n10/100 Base-T Ethernet port with Auto MDIX; (2) RS232 ports up to 115 kbaud.\nUser-configurable for stepper or servo motors on any combination of axes.\nConnect to external drives using various breakout modules.\nAccepts up to 22 MHz encoder frequencies for servos; Outputs up to 6 MHz for steppers.\nSample times as low as 31 microseconds per axis; fast command processing.\nAdvanced PID compensation with velocity and acceleration feedforward, integration limits, notch filter and low-pass filter.\nModes of motion include jogging, point-to-point positioning, position tracking, contouring, linear and circular interpolation, electronic gearing and ECAM.\nEllipse scaling, slow-down around corners, infinite segment feed and feedrate override.\nMultitasking for concurrent execution of up to eight application programs. Ultra-fast command processing.\nExpanded, non-volatile memory for application programs, variables and arrays.\nDual encoders for every servo axis.\nOptically isolated home input and forward and reverse limits for every axis.\nUncommitted, isolated I/O:\n1- through 4-axis: 8 inputs and 8 outputs.\n5- through 8-axis: 16 inputs and 16 outputs.\n8 uncommitted analog inputs.\nHigh speed position latch and output compare.\n64 additional 5V TTL I/O; Add more I/O with RIO-47xxx PLC\nCommunication drivers for Windows, Linux, and OS X for Mac.\nHigh-density shielded cables and optical isolation for noise immunity.\n12.1\" x 2.2\" x 6.3\" metal enclosure; Accepts 90-250V AC.\nCustom hardware and firmware options available.",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/motion-controllers/multi-axis/dmc-42x0"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "EDD-3701x",
+      "FirstType": "Galil EtherCAT Products",
+      "SecondType": "",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/EDD-3701x_2000x1264-2.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/ethercat\">Galil EtherCAT Products</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n            <div class=\"field field--name-field-features field--type-text-long field--label-above\">\n    <div class=\"field__label\">Features</div>\n              <div class=\"field__item\"><div class=\"check-list\">\n<ul>\n\t<li>Single-axis EtherCAT drive with optional servo or stepper motor drive in compact enclosure:\n\t<ul>\n\t\t<li> EDD-37012 —3 Phase Brushed/brushless sine drive; 10 A cont., 15 A peak, 20-80 V<sub>DC</sub></li>\n\t\t<li> EDD-37016—Stepper drive; 1.4 A/phase, 12-30 V<sub>DC</sub></li>\n\t\t<li> EDD-37017—Microstep drive; 6 A/phase, 20-80 V<sub>DC</sub> and 2 Phase Brushless sine drive; 10 A cont., 15 A peak,20-80 V<sub>DC</sub></li>\n\t</ul>\n\t</li>\n\t<li>Cyclic Synchronous Position mode (CSP) and Cyclic Synchronous Torque mode (CST)</li>\n\t<li> Two daisy-chainable EtherCAT ports:\n\t<ul>\n\t\t<li>One USB port (used for configuration).</li>\n\t</ul>\n\t</li>\n\t<li>Encoder feedback up to 15 MHz. Quadrature standard; Main and auxiliary encoder inputs</li>\n\t<li>PID compensation with velocity and acceleration feedforward, integration limits, notch filter and lowpass filter</li>\n\t<li>Optically isolated forward and reverse limit inputs and homing input</li>\n\t<li>8 uncommitted, isolated digital inputs and 4 digital isolated outputs</li>\n\t<li>High speed position latch and output compare (pulse on position)</li>\n\t<li>2 uncommitted analog inputs and 1 analog output\n\t<ul>\n\t\t<li>16-bit analog input option available</li>\n\t</ul>\n\t</li>\n\t<li> Dimensions: - EDD-37012/37016/37017-BOX: 3.9\"×5.0×1.5\"</li>\n\t<li> Custom hardware and firmware options available</li>\n</ul>\n</div>\n</div>\n          </div>\n\n        </div>\n        ",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n          <style type=\"text/css\">\n<![CDATA[/* ><!]]>*/\n</style><p>The EDD-3701x is Galil’s EtherCAT single axis smart drive. This device is a motor amplifier that operates in an EtherCAT distributed system. These devices have a daisy chain topology using standard CAT5 Ethernet cables. The EDD-3701x can interface with Galil masters (DMC-500x0 and DMC-52xx0) for sophisticated applications.<br/>\nEtherCAT drives can be connected over large distances on an entire factory floor, allowing the motor wiring to be localized. The EtherCAT protocol has true deterministic control of its Ethernet packet.<br/>\nFor most EtherCAT systems the process to get a system up and running is not user-friendly and has a steep learning curve. Galil has simplified the setup process which leads to fast and easy system integration. Using Galil’s EtherCAT masters and drives is as easy as using Galil’s standard digital motion controllers.<br/>\nThe configuration of the EDD-3701x is done using the Galil’s GDK software. Simply connect to a PC via EDD-3701x’s USB port, follow the GDK configuration tool process, and start moving motors.<br/>\nThe EDD-3701x series has the ability to control brushed, brushless, steppers, and microstepping motors. Each drive not only can control a motor, but also has 8 digital inputs, 4 digital outputs, 2 analog inputs, and 2 analog outputs. All I/O information from these drives are accessible by the EtherCAT master.</p>\n\n        </div>\n        "
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "<![CDATA[/* ><!]]>*/\nThe EDD-3701x is Galil’s EtherCAT single axis smart drive. This device is a motor amplifier that operates in an EtherCAT distributed system. These devices have a daisy chain topology using standard CAT5 Ethernet cables. The EDD-3701x can interface with Galil masters (DMC-500x0 and DMC-52xx0) for sophisticated applications.\nEtherCAT drives can be connected over large distances on an entire factory floor, allowing the motor wiring to be localized. The EtherCAT protocol has true deterministic control of its Ethernet packet.\nFor most EtherCAT systems the process to get a system up and running is not user-friendly and has a steep learning curve. Galil has simplified the setup process which leads to fast and easy system integration. Using Galil’s EtherCAT masters and drives is as easy as using Galil’s standard digital motion controllers.\nThe configuration of the EDD-3701x is done using the Galil’s GDK software. Simply connect to a PC via EDD-3701x’s USB port, follow the GDK configuration tool process, and start moving motors.\nThe EDD-3701x series has the ability to control brushed, brushless, steppers, and microstepping motors. Each drive not only can control a motor, but also has 8 digital inputs, 4 digital outputs, 2 analog inputs, and 2 analog outputs. All I/O information from these drives are accessible by the EtherCAT master."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Features\nSingle-axis EtherCAT drive with optional servo or stepper motor drive in compact enclosure:\nEDD-37012 —3 Phase Brushed/brushless sine drive; 10 A cont., 15 A peak, 20-80 V\nDC\nEDD-37016—Stepper drive; 1.4 A/phase, 12-30 V\nDC\nEDD-37017—Microstep drive; 6 A/phase, 20-80 V\nDC\nand 2 Phase Brushless sine drive; 10 A cont., 15 A peak,20-80 V\nDC\nCyclic Synchronous Position mode (CSP) and Cyclic Synchronous Torque mode (CST)\nTwo daisy-chainable EtherCAT ports:\nOne USB port (used for configuration).\nEncoder feedback up to 15 MHz. Quadrature standard; Main and auxiliary encoder inputs\nPID compensation with velocity and acceleration feedforward, integration limits, notch filter and lowpass filter\nOptically isolated forward and reverse limit inputs and homing input\n8 uncommitted, isolated digital inputs and 4 digital isolated outputs\nHigh speed position latch and output compare (pulse on position)\n2 uncommitted analog inputs and 1 analog output\n16-bit analog input option available\nDimensions: - EDD-37012/37016/37017-BOX: 3.9\"×5.0×1.5\"\nCustom hardware and firmware options available",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/ethercat/edd-3701x"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "BLM-N23-50-1000-B",
+      "FirstType": "",
+      "SecondType": "",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/servo-motor_big.jpg"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n<div class=\"check-list\"><ul class=\"c-links c-theme-ul\">\t<li><span style=\"line-height: 1.538em;\">High performance servo motor for precise position and velocity control applications</span></li>\t<li>\t<div><span style=\"line-height: 1.538em;\">Includes 1000 line differential quadrature encoder</span></div>\t</li>\t<li>\t<div><span style=\"line-height: 1.538em;\">Nema 23 standard mounting</span></div>\t</li>\t<li>\t<div><span style=\"line-height: 1.538em;\">Comes with mating 15 or 26pin High Density encoder connector and 4pin Mate-N-Lok power connector when ordered with controller</span></div>\t</li>\t<li>\t<div><span style=\"line-height: 1.538em;\">4 pole motor (2 pole-pair) is configured with Galil sinusoidal drives with a BM (Brushless Modulo) value of 2000.</span></div>\t</li></ul></div>\n</div>",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n<p>Galil's N23 brushless servo motor allows for quick and easy prototyping of servo systems. The motor includes an attached 1000 line encoder which provides position feedback to Galil controllers. Motors are shipped with connectors to mate to Galil controllers. Please specify the controller series at the end of the BLM part number (ie: BLM-N23-50-1000-B-model where model is 21x3, 40x0, 40x0-I200, 41x3, or 3x01x).</p>\n</div>"
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "Galil's N23 brushless servo motor allows for quick and easy prototyping of servo systems. The motor includes an attached 1000 line encoder which provides position feedback to Galil controllers. Motors are shipped with connectors to mate to Galil controllers. Please specify the controller series at the end of the BLM part number (ie: BLM-N23-50-1000-B-model where model is 21x3, 40x0, 40x0-I200, 41x3, or 3x01x)."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "High performance servo motor for precise position and velocity control applications\nIncludes 1000 line differential quadrature encoder\nNema 23 standard mounting\nComes with mating 15 or 26pin High Density encoder connector and 4pin Mate-N-Lok power connector when ordered with controller\n4 pole motor (2 pole-pair) is configured with Galil sinusoidal drives with a BM (Brushless Modulo) value of 2000.",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/accessory/motor"
+    },
+    {
+      "link": "https://www.galil.com/motion-controllers/accessories/software",
+      "ProductName": "DMC-40x0",
+      "FirstType": "Motion Controllers",
+      "SecondType": "Multi-Axis",
+      "ProductImage": [
+        "https://www.galil.com/sites/default/files/products/dmc-40x0_big_0.png"
+      ],
+      "body_html": [
+        "<ol class=\"c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular\">\n          <li>\n                  <a href=\"/\">Home</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers\">Motion Controllers</a>\n              </li>\n          <li>\n                  <a href=\"/motion-controllers/multi-axis\">Multi-Axis</a>\n              </li>\n          <li>\n                  /\n              </li>\n          <li>\n                  \n              </li>\n        </ol>\n  ",
+        "<div class=\" tab-pane\" id=\"tab-2\">\n            <div class=\"field field--name-field-features field--type-text-long field--label-above\">\n    <div class=\"field__label\">Features</div>\n              <div class=\"field__item\"><div class=\"check-list\">\n<ul>\n\t<li>Packaged controller in 1 through 8 axis versions: DMC-40x0 where x=1,2,3,4,5,6,7,8 axes</li>\n\t<li>\n\t<div><span style=\"line-height: 1.538em;\">(2) 10/100 Base-T Ethernet port with Auto MDIX; (2) RS232 ports up to 115 kbaud</span></div>\n\t</li>\n\t<li>\n\t<div>User-configurable for stepper or servo motors on any combination of axes</div>\n\t</li>\n\t<li>\n\t<div><span style=\"line-height: 1.538em;\">Available with internal, multiaxis servo or stepper drives. Or, connect to external drives.</span></div>\n\n\t<ul>\n\t\t<li>\n\t\t<div><span style=\"line-height: 1.538em;\">​See <a href=\"/accessory/internal-amplifier-and-drive-options\" name=\"Internal Amplifiers and Drives\" title=\"Internal Amplifiers and Drives\">Internal Amplifiers and Drives</a> for options available.</span></div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div><span style=\"line-height: 1.538em;\">Accepts up to 22 MHz encoder frequencies for servos; Outputs up to 6 MHz for steppers</span></div>\n\t</li>\n\t<li>\n\t<div>Sample times as low as 31 microseconds per axis; fast command processing.</div>\n\t</li>\n\t<li>\n\t<div><span style=\"line-height: 1.538em;\">Advanced PID compensation with velocity and acceleration feedforward, integration limits, notch filter and low-pass filter</span></div>\n\t</li>\n\t<li>\n\t<div>Modes of motion include jogging, point-to-point positioning, position tracking, contouring, linear and circular interpolation, electronic gearing and ECAM.</div>\n\t</li>\n\t<li>\n\t<div>Ellipse scaling, slow-down around corners, infinite segment feed and feedrate override</div>\n\t</li>\n\t<li>\n\t<div>Multitasking for concurrent execution of up to eight application programs. Ultra-fast command processing</div>\n\t</li>\n\t<li>\n\t<div>Expanded, non-volatile memory for application programs, variables and arrays</div>\n\t</li>\n\t<li>\n\t<div>Dual encoders for every servo axis</div>\n\t</li>\n\t<li>\n\t<div>Optically isolated home input and forward and reverse limits for every axis</div>\n\t</li>\n\t<li>\n\t<div>Uncommitted, isolated I/O:</div>\n\n\t<ul>\n\t\t<li>\n\t\t<div>1- through 4-axis: 8 inputs and 8 outputs</div>\n\t\t</li>\n\t\t<li>\n\t\t<div>5- through 8-axis: 16 inputs and 16 outputs</div>\n\t\t</li>\n\t\t<li>\n\t\t<div>Isolated, high-power outputs for driving brakes or relays</div>\n\t\t</li>\n\t\t<li>\n\t\t<div>8 uncommitted analog inputs</div>\n\t\t</li>\n\t\t<li>\n\t\t<div>High speed position latch and output compare</div>\n\t\t</li>\n\t\t<li>\n\t\t<div>32 additional 3.3V TTL I/O (5V option); Add more I/O with RIO-471xx PLC</div>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>\n\t<div>2 line x 8 chr LCD</div>\n\t</li>\n\t<li>\n\t<div>Accepts single 20 - 80 VDC input</div>\n\t</li>\n\t<li>\n\t<div>Communication drivers for Windows and Linux</div>\n\t</li>\n\t<li>\n\t<div><span style=\"line-height: 1.538em;\">Custom hardware and firmware options available</span><span style=\"line-height: 1.538em;\"> </span></div>\n\t</li>\n</ul>\n</div>\n</div>\n          </div>\n\n        </div>\n        ",
+        "<div class=\" tab-pane active\" id=\"tab-1\">\n          <p>The DMC-40x0 motion controller is Galil's highest performance, stand-alone motion controller. It belongs to Galil's latest generation motion controller family, which accepts encoder inputs up to 22 MHz, provides servo update rates as high as 32 kHz, and processes commands as fast as 40 microseconds-10 times the speed of <a href=\"/motion-controllers/prior-generation\">prior generation controllers</a>. The DMC-40x0 is a full-featured motion controller packaged with optional multi-axis drives in a compact, metal enclosure. The unit operates stand-alone or interfaces to a PC with Ethernet 10/100Base-T or RS232. The controller includes optically isolated I/O, high-power outputs capable of driving brakes or relays, and analog inputs for interfacing to analog sensors. The DMC-40x0 controller and drive unit accepts power from a single 20-80 VDC source.</p>\n\n<p>The DMC-40x0 is available in one through eight-axis formats, and each axis is user-configurable for stepper or servo motor operation. With a powerful RISC processor, the DMC-40x0 controllers provide such advanced features as PID compensation with velocity and acceleration feedforward, program memory with multitasking for simultaneously running eight applications programs, and uncommitted I/O for synchronizing motion with external events. Modes of motion include point-to-point positioning, position tracking, jogging, linear and circular interpolation, contouring, electronic gearing and ecam. Like all Galil controllers, programming the DMC-40x0 is simplified with two-letter, intuitive commands and a full set of software tools such as <a href=\"/downloads/software/gdk\">GDK</a> for servo tuning and analysis.</p>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td style=\"width: 100px;\"><img alt=\"rohs\" src=\"/sites/default/files/rohs.gif\" style=\"vertical-align: middle;height: 30px;\"/></td>\n\t\t\t<td style=\"width: 100px;\"><a href=\"/about/ce-certifications\"><img alt=\"ce\" src=\"/sites/default/files/ce_logo.gif\" style=\"vertical-align: middle;height: 30px;\"/></a></td>\n\t\t\t\n\t\t</tr>\n\t</tbody>\n</table>\n\n        </div>\n        "
+      ],
+      "content": {
+        "Description": [
+          {
+            "content": [
+              "The DMC-40x0 motion controller is Galil's highest performance, stand-alone motion controller. It belongs to Galil's latest generation motion controller family, which accepts encoder inputs up to 22 MHz, provides servo update rates as high as 32 kHz, and processes commands as fast as 40 microseconds-10 times the speed of\nprior generation controllers\n. The DMC-40x0 is a full-featured motion controller packaged with optional multi-axis drives in a compact, metal enclosure. The unit operates stand-alone or interfaces to a PC with Ethernet 10/100Base-T or RS232. The controller includes optically isolated I/O, high-power outputs capable of driving brakes or relays, and analog inputs for interfacing to analog sensors. The DMC-40x0 controller and drive unit accepts power from a single 20-80 VDC source.\nThe DMC-40x0 is available in one through eight-axis formats, and each axis is user-configurable for stepper or servo motor operation. With a powerful RISC processor, the DMC-40x0 controllers provide such advanced features as PID compensation with velocity and acceleration feedforward, program memory with multitasking for simultaneously running eight applications programs, and uncommitted I/O for synchronizing motion with external events. Modes of motion include point-to-point positioning, position tracking, jogging, linear and circular interpolation, contouring, electronic gearing and ecam. Like all Galil controllers, programming the DMC-40x0 is simplified with two-letter, intuitive commands and a full set of software tools such as\nGDK\nfor servo tuning and analysis."
+            ],
+            "type": "text"
+          },
+          {
+            "content": [
+              "https://www.galil.com/sites/default/files/ce_logo.gif",
+              "https://www.galil.com/sites/default/files/rohs.gif"
+            ],
+            "type": "img"
+          },
+          {
+            "content": [],
+            "type": "table"
+          },
+          {
+            "content": [],
+            "type": "video"
+          }
+        ],
+        "Parameter": [],
+        "Feature": [
+          {
+            "content": "Features\nPackaged controller in 1 through 8 axis versions: DMC-40x0 where x=1,2,3,4,5,6,7,8 axes\n(2) 10/100 Base-T Ethernet port with Auto MDIX; (2) RS232 ports up to 115 kbaud\nUser-configurable for stepper or servo motors on any combination of axes\nAvailable with internal, multiaxis servo or stepper drives. Or, connect to external drives.\n​See\nInternal Amplifiers and Drives\nfor options available.\nAccepts up to 22 MHz encoder frequencies for servos; Outputs up to 6 MHz for steppers\nSample times as low as 31 microseconds per axis; fast command processing.\nAdvanced PID compensation with velocity and acceleration feedforward, integration limits, notch filter and low-pass filter\nModes of motion include jogging, point-to-point positioning, position tracking, contouring, linear and circular interpolation, electronic gearing and ECAM.\nEllipse scaling, slow-down around corners, infinite segment feed and feedrate override\nMultitasking for concurrent execution of up to eight application programs. Ultra-fast command processing\nExpanded, non-volatile memory for application programs, variables and arrays\nDual encoders for every servo axis\nOptically isolated home input and forward and reverse limits for every axis\nUncommitted, isolated I/O:\n1- through 4-axis: 8 inputs and 8 outputs\n5- through 8-axis: 16 inputs and 16 outputs\nIsolated, high-power outputs for driving brakes or relays\n8 uncommitted analog inputs\nHigh speed position latch and output compare\n32 additional 3.3V TTL I/O (5V option); Add more I/O with RIO-471xx PLC\n2 line x 8 chr LCD\nAccepts single 20 - 80 VDC input\nCommunication drivers for Windows and Linux\nCustom hardware and firmware options available",
+            "type": "text"
+          }
+        ]
+      },
+      "doc": [],
+      "rar": [],
+      "video": [],
+      "source": "Galil Motion Control",
+      "url": "https://www.galil.com/motion-controllers/multi-axis/dmc-40x0"
+    }
+  ]
+}
